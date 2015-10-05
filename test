@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1,1HD
+http://109.239.142.62:1935/live/livestream3/playlist.m3u8
+
+#EXTINF:-1,ABC News HD
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1,AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,BBC AMERICA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/147.m3u8
+
+#EXTINF:0,Big Pond Music
+mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+
+#EXTINF:-1,Bein Sports Xtra
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/62.m3u8
+
+#EXTINF:-1,CPAC
+http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
+
+#EXTINF:-1,California Music Channel
+rtmp://cmctv.flash.internapcdn.net:1935/cmctv_vitalstream_com/live_adaptive_1/CMC-TV_adaptive3
+
+#EXTINF:-1,CAPITAL
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0,CITY TV
+rtmp://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2
+
+#EXTINF:-1,CLUBLAND
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,DJING Classic HD
+http://www.djing.com/tv/i-05.m3u8
+
+#EXTINF:-1,DJING Dance Floor HD
+http://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1,DJING Dancefloor HD
+http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:-1,DJING Hot Hot Hot HD
+http://www.djing.com/tv/hothothot.m3u8
+
+#EXTINF:-1,DJING Ibiza HD
+http://www.djing.com/tv/ibiza.m3u8
+
+#EXTINF: 0,VH1 Classic
+http://79.133.125.42:8888/udp/239.191.254.56:13343
+
+#EXTINF:0,Virgin TV
+rtmp://149.11.34.6/live/stagetv.stream
