@@ -174,6 +174,12 @@ http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
 #EXTINF:0,MAD CY
 rtmp://144.76.2.213/live/livestream
 
+#EXTINF:-1,NBC
+http://185.63.255.87:1935/liveedge/nbchhsy_i3ve6uqz/media_w1607181744_789.m3u8
+
+#EXTINF:-1,NBC
+http://192.99.147.19:5808/nbchdguys/index.m3u8
+
 #EXTINF:-1,NRJ TV
 http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
 
