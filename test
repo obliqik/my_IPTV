@@ -6,6 +6,12 @@ rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 #EXTINF:-1,ABC News HD
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
+#EXTINF:-1,BBC One London
+http://iptv.star7arab.com/free?token=895392491&id=65
+
+#EXTINF:-1,BBC Two
+http://iptv.star7arab.com/free?token=895392491&id=66
+
 #EXTINF:0,Big Pond Music
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 
@@ -120,6 +126,18 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1,HRT1
 http://178.253.194.68:1935/liveloworigin/hrt1.stream/dzeno.m3u8
 
+#EXTINF:-1,ITV
+http://iptv.star7arab.com/free?token=895392491&id=60
+
+#EXTINF:-1,ITV 2
+http://iptv.star7arab.com/free?token=895392491&id=61
+
+#EXTINF:-1,ITV 3
+http://iptv.star7arab.com/free?token=895392491&id=62
+
+#EXTINF:-1,ITV 4
+http://iptv.star7arab.com/free?token=895392491&id=63
+
 #EXTINF:0,JAYZEE
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 
@@ -179,6 +197,18 @@ rtmp://185.28.3.10/powertv/powertv.stream
 
 #EXTINF:-1,Retro Music Television
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
+
+#EXTINF:-1,SKY Action
+http://iptv.star7arab.com/free?token=895392491&id=69
+
+#EXTINF:-1,SKY Premiere
+http://iptv.star7arab.com/free?token=895392491&id=70
+
+#EXTINF:-1,SKY Crime
+http://iptv.star7arab.com/free?token=895392491&id=71
+
+#EXTINF:-1,SKY Family
+http://iptv.star7arab.com/free?token=895392491&id=72
 
 #EXTINF:-1,TV Rebel
 http://iptv.klfree.cz:8026
