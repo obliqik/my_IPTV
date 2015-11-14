@@ -1,127 +1,200 @@
 #EXTM3U
 
-#EXTINF:0,4MUSIC
-http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
 
 #EXTINF:0,A-One
 http://msk1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
+
+#EXTINF:0,1
+
+rtmp://rtmp.one.by/SD/1muz
+
+
 
 #EXTINF:0,1 HD
 http://rtmp.one.by:1300
 
 #EXTINF:0,ANT1 Cyprus
+
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 
+
 #EXTINF:0,Big Pond Music
+
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+
+
 
 #EXTINF:0,Big Pond Music
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_med
 
+
 #EXTINF:0,BLUE SKY
+
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
 
+
+
+
 #EXTINF:0,Bridge TV
+
 http://109.172.11.85:1234/udp/224.0.42.7:5000
+
+
 
 #EXTINF:0,The CW 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthlsv2/65.m3u8?op_id=18
 
 #EXTINF:-1,Channel AKA
+
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
+
+
 #EXTINF:-1,Capital TV
+
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 
+
+
 #EXTINF:0,CITY TV
+
 rtmp://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2
 
+
+
 #EXTINF:-1,Clubland TV
+
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
+
+
 #EXTINF:0,Dange TV
+
 http://109.172.11.85:1234/udp/224.0.42.110:5000
 
+
+
 #EXTINF:-1,DJING Classic HD
+
 http://www.djing.com/tv/i-05.m3u8
+
+
 
 #EXTINF:-1,DJING HOT HD
 http://cdn.djing.com/tv/h-05.m3u8
 
 #EXTINF:-1,DJING Dancefloor HD
+
 http://www.djing.com/tv/d-05.m3u8
 
+
+
 #EXTINF:-1,DJING Underground HD
+
 http://www.djing.com/tv/u-05.m3u8
 
+
+
 #EXTINF:-1,Dream TV
+
 http://212.224.109.101/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
+
+
 #EXTINF:-1,Dream TV
+
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
+
+
 #EXTINF:-1,DR RamaSjang
+
 http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=100-1600
 
+
+
 #EXTINF:-1,DR 1
+
 http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8?b=100-2000
 
+
+ 
 #EXTINF:-1,DR 2
+
 http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8?b=100-2000
 
+
+
 #EXTINF:-1,DR 3
+
 http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8?b=100-1600
 
+
+
 #EXTINF:-1,DR k
+
 http://dr04-lh.akamaihd.net/i/dr04_0@147057/master.m3u8?b=100-1600
 
-#EXTINF:-1,ESPN
-http://iptv.star7arab.com/free?token=905389425&id=84
+
+
+
 
 #EXTINF:0,Elbe Kanal
+
 rtmp://62.113.210.250/medienasa-live/elbe_high
 
+
+
 #EXTINF:0,Elektrosound
+
 rtmp://www.electrosound.tv:1935/public/stream
 
+
+
 #EXTINF:-1,ESKA Party TV
+
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 
+
+
 #EXTINF:-1,Eska ROCK TV
+
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 
+
+
 #EXTINF:-1,ESKA Best Music TV
+
 rtmp://stream.smcloud.net/live2/best/best_720p
 
+
+
 #EXTINF:-1,Eska TV
+
 rtmp://stream.smcloud.net/live2/eskatv/eskatv_480p
 
+
+
 #EXTINF:-1,EXTRA
+
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
 
-#EXTINF:-1,EuropaPlus Music
-rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp
+
 
 #EXTINF:-1,For Music
-http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
 
-#EXTINF:0,First Music Channel
-rtmp://rtmp.one.by/SD/1muz
+ http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
 
-#EXTINF:0,First Music Channel
-rtmp://rtmp.one.by/SD/1muz
 
-#EXTINF:0,FX
-http://192.99.19.98:1935/flu555/_definst_/fx/playlist.m3u8?token=
 
 #EXTINF:-1,Flash TV
 rtsp://188.165.224.142:1935/radioflash/radioflash
 
-#EXTINF:0,Fight Network
-http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/dzeno.m3u8
+
 
 #EXTINF:0,GOLD
 http://top-iptv.zapto.org:8000/live/adem/adem/737.ts
+
 
 #EXTINF:0,HRT 1
 http://hrt.live.cdn.spectar.tv/OIV_HRT1_TV/01.m3u8
@@ -132,110 +205,109 @@ http://hrt.live.cdn.spectar.tv/OIV_HRT2_TV/01.m3u8
 #EXTINF:0,HRT 3
 http://hrt.live.cdn.spectar.tv/OIV_HRT3_TV/01.m3u8
 
-#EXTINF:0,HRT 4
-http://hrt.live.cdn.spectar.tv/OIV_HRT4_TV/01.m3u
-
 #EXTINF:-1,Heart TV
+
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
-#EXTINF:-1,ITV 1
-http://217.117.226.215:5000/udp/239.100.16.1:4422
-
-#EXTINF:-1,ITV 1
-http://217.117.226.215:5000/udp/239.100.16.3:4422
-
-#EXTINF:-1,ITV 1
-http://82.135.224.134/udp/239.100.3.6:1234
-
-#EXTINF:-1,JAZZ HD
-rtmp://91.201.78.3:1935/live/jazzhd
 
 #EXTINF:-1,Jasmin
+
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 
+
+
+
 #EXTINF:-1,Kontra Channel
+
 rtmp://flashcloud.mediacdn.com:1935/live/kontratv
 
+
+
 #EXTINF:-1,kiss tv
+
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
+
+
 #EXTINF:0,LAMPSI TV
+
 http://94.23.218.186:1935/LampsiTV/LampsiTV/playlist.m3u8
 
+
+
 #EXTINF:0,London Live
+
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
-#EXTINF:0,myZen tv HD
-http://176.100.108.190:4000/udp/239.1.1.41:1234
 
 #EXTINF:-1,Melody Channel
+
 rtmp://186.155.200.118:1935/live/MelodyChannel
 
-#EXTINF:-1,MTV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/156.m3u8
+
 
 #EXTINF:0,M6 MUSIC HITS
+
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+
+#EXTINF:-1,MTV
+
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/156.m3u8
+
+
 
 #EXTINF:0,MTV Classic
 http://top-iptv.zapto.org:8000/live/adem/adem/728.ts
 
-#EXTINF:-1,MTV Hits
-http://217.117.226.215:5000/udp/239.100.5.0:4422
-
-#EXTINF:-1,MTV Hits
-http://212.164.140.89:1234/udp/233.7.70.208:5000
-
-#EXTINF:-1,MTV Dance
-http://217.117.226.215:5000/udp/239.100.5.1:4422
-
-#EXTINF:-1,MTV Rocks
-http://217.117.226.215:5000/udp/239.100.5.4:4422
-
 #EXTINF:-1,MusicBox
+
 http://teleclub.fr/musicbox.mp4
 
+
+
+
 #EXTINF:-1,MFMTV
+
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
 
-#EXTINF:0,MAD CY
+
+
+#EXTINF:0,MAD Cyprus
+
 rtmp://144.76.2.213/live/livestream
 
-#EXTINF:0,Motors TV 
-http://212.164.140.89:1234/udp/233.7.70.206:5000
 
 #EXTINF:0,MOOZ DANCE
 http://85.187.218.30:5056
 
+
 #EXTINF:-1,NRJ TV
+
 http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
 
-#EXTINF:-1,NET5
-http://217.117.226.215:5000/udp/239.100.0.1:4422
 
 #EXTINF:0,NR1
 rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp
 
-#EXTINF:-1,NPO 1
-http://217.117.226.215:5000/udp/239.100.0.2:4422
-
-#EXTINF:-1,NPO 2
-http://217.117.226.215:5000/udp/239.100.0.3:4422
-
-#EXTINF:-1,NPO 3
-http://217.117.226.215:5000/udp/239.100.0.4:4422
 
 #EXTINF:-1,ORF Sport + 
+
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 
-#EXTINF:-1,Omrop Fryslan
-http://217.117.226.215:5000/udp/239.100.3.0:4422
 
 #EXTINF:-1,Óčko
+
 http://194.79.52.76:1935/ockoi/ockoHQ1/playlist.m3u8
 
+
+
+
+
 #EXTINF:-1,Power TV
+
 rtmp://185.28.3.10/powertv/powertv.stream
+
 
 #EXTINF:0,RTS 1
 http://ott.orion.rs:1935/livelowedge2/rts1.stream/playlist.m3u8?v=1&k=0&token=d9e63f90739b45622fe81449801298a012d43ae3deb1db3588d967c56a0bfa13&ak=78820&time=1446892988400
@@ -246,400 +318,1116 @@ http://ott.orion.rs:1935/livelowedge2/rts2.stream/playlist.m3u8?v=1&k=0&token=a5
 #EXTINF:0,RTS 3
 http://ott.orion.rs:1935/livelowedge/rts3.stream/playlist.m3u8?v=1&k=0&token=d3d5cbc12179d51ce4cf0a8c5ad97fafe37f9d278d25068e8772b767687fb6cf&ak=78820&time=1446892988400
 
+
 #EXTINF:-1,RETRO
+
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 
+
+
+
+
+
 #EXTINF:-1,RADIO MONTE CARLO TV
+
 rtmp://fms.105.net/live//rmc1
 
+
+
 #EXTINF:-1,RADIO MONTE CARLO TV
+
 rtmp://fms.105.net:1935/live/rmc1
 
+
+
+
+
 #EXTINF:0,Rfhv De
+
 rtmp://62.113.210.250/medienasa-live/RFH_high
 
-#EXTINF:-1,rouge tv
-rtmp://rtmp.infomaniak.ch/livecast/rougetv
+
+
 
 #EXTINF:-1,Radio Italia TV
+
 http://cwedge.cdcache.net/cwedge/rilive/playlist.m3u8
 
+
+
 #EXTINF:-1,ПИК ТВ
+
 rtmp://fms.pik-tv.com/live/piktv1pik1tv
 
+
+
 #EXTINF:-1,ПИК ТВ HD
+
 http://fms.pik-tv.com:1935/live/piktv3pik3tv/playlist.m3u8
 
+
+
 #EXTINF:-1,Rrokum TV
+
 rtmp://82.114.65.202/live/rrokumtv
 
+
+
 #EXTINF:0,Radio 105 TV
+
 rtmp://fms.105.net:1935/live/105Test1#gfgyut9991.ch?token=0.861700,1.03854
 
-#EXTINF:0,UK: RTE 1
+
+
+#EXTINF:0,RTE 1
 http://top-iptv.zapto.org:8000/live/adem/adem/947.ts
 
-#EXTINF:0,UK: RTE 2
+#EXTINF:0,RTE 2
 http://top-iptv.zapto.org:8000/live/adem/adem/948.ts
 
-#EXTINF:-1,SBS6
-http://217.117.226.215:5000/udp/239.100.0.0:4422
-
 #EXTINF:0,SIGMA
+
 http://81.21.47.74/hls/live.m3u8
 
-#EXTINF:0,Sky One HD
-http://top-iptv.zapto.org:8000/live/adem/adem/710.ts
+
+
 
 #EXTINF:0,SKY 2
 http://top-iptv.zapto.org:8000/live/adem/adem/735.ts
 
+
 #EXTINF:-1,TELE MUSICA
 http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
 
+
 #EXTINF:-1,TVA
+
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
  
+
+
 #EXTINF:0,TVM
+
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
 
+
+
 #EXTINF:0,TVM 2
+
 http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8
 
+
+
 #EXTINF:-1,TV4
+
 http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8
 
+
+
 #EXTINF:-1,tvm3tv
+
 http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
 
+
+
 #EXTINF:0,TV10
+
 rtmp://cdn-kanal10.crossnet.net/kanal10//mpegts.stream
 
+
+
 #EXTINF:-1,TV Haugaland
+
 rtmp://flash0.15561-live0.dna.qbrick.com/15561-live0/live1
 
 #EXTINF:0,TV 2/Bornholm
+
 rtmp://itv08.digizuite.dk/tv2b/ch1
 
+
+
 #EXTINF:0,TV2 fyn (HD)
+
 rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2fyn_2000
+
+
 
 #EXTINF:0,TV 2/Lorry
 rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_2000
 
+
+
 #EXTINF:0,TV 2/Lorry
 rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_1000
 
+
+
 #EXTINF:0,tv2nord
+
 rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2nord-plus_2000
 
+
+
 #EXTINF:-1,U TV
+
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
 
+
+
 #EXTINF:-1,UTV
+
 http://82.76.249.77/utvedge/utvmqlivehls/chunklist.m3u8
 
-#EXTINF:-1,Ultra Fiesta
-http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/stream2/streamPlaylist.m3u8
+
 
 #EXTINF:-1,Music Vox TV
+
 rtmp://stream.smcloud.net/live/vox2/stream1
 
+
+
 #EXTINF:-1,VOX Old's Cool TV
+
 rtmp://stream.smcloud.net/live2/vox/vox_360p
 
-#EXTINF:0,The Vault
-http://top-iptv.zapto.org:8000/live/adem/adem/455.ts
 
 #EXTINF:-1,VEVO 1 HD
+
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 
+
+
 #EXTINF:-1,VEVO 2 HD
+
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 
+
+
 #EXTINF:-1,VEVO 3 HD
+
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
-#EXTINF:-1,VH1 Classic
-http://iptv.klfree.cz:8024
-
-#EXTINF:-1,VH1 Classic
-http://212.79.96.134:8024
-
-#EXTINF:-1,VH1 Classic
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_black_hls_aes/m6_music_black_hls_aes_856.m3u8
-
-#EXTINF:-1,VH1 Classic
-http://217.117.226.215:5000/udp/239.100.5.3:4422
-
-#EXTINF:0,VH1
-http://176.100.108.190:4000/udp/239.1.1.79:1234
-
-#EXTINF:-1,VH1
-http://217.117.226.215:5000/udp/239.100.5.2:4422
-
-#EXTINF:0,Vintage tv
-http://176.100.108.190:4000/udp/239.1.1.188:1234
-
-#EXTINF:0,Vintage tv
-http://top-iptv.zapto.org:8000/live/adem/adem/950.ts
 
 #EXTINF:0,Virgin Radio TV
-http://pippo2tv.dyndns.tv:8000/live/persianshare/pers1e3qare/472.ts
 
-#EXTINF:0,Virgin Radio TV
 http://wow01.105.net/live/virgin1/chunklist.m3u8
 
-#EXTINF:0,watch
-http://top-iptv.zapto.org:8000/live/adem/adem/738.ts
+
+#EXTM3U
+
+
+#EXTINF:0,A-One
+http://msk1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
+
+#EXTINF:0,1
+
+rtmp://rtmp.one.by/SD/1muz
+
+
+
+#EXTINF:0,1 HD
+http://rtmp.one.by:1300
+
+#EXTINF:0,ANT1 Cyprus
+
+rtmp://46.21.53.171/iwohttporigin/mp4:livestream
+
+
+#EXTINF:0,Big Pond Music
+
+mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+
+
+
+#EXTINF:0,Big Pond Music
+mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_med
+
+
+#EXTINF:0,BLUE SKY
+
+http://88.198.238.44:1935/live/bluesky/playlist.m3u8
+
+
+
+
+#EXTINF:0,Bridge TV
+
+http://109.172.11.85:1234/udp/224.0.42.7:5000
+
+
+
+#EXTINF:0,The CW 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthlsv2/65.m3u8?op_id=18
+
+#EXTINF:-1,Channel AKA
+
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+
+
+#EXTINF:-1,Capital TV
+
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:0,CITY TV
+
+rtmp://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2
+
+
+
+#EXTINF:-1,Clubland TV
+
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+
+
+#EXTINF:0,Dange TV
+
+http://109.172.11.85:1234/udp/224.0.42.110:5000
+
+
+
+#EXTINF:-1,DJING Classic HD
+
+http://www.djing.com/tv/i-05.m3u8
+
+
+
+#EXTINF:-1,DJING HOT HD
+http://cdn.djing.com/tv/h-05.m3u8
+
+#EXTINF:-1,DJING Dancefloor HD
+
+http://www.djing.com/tv/d-05.m3u8
+
+
+
+#EXTINF:-1,DJING Underground HD
+
+http://www.djing.com/tv/u-05.m3u8
+
+
+
+#EXTINF:-1,Dream TV
+
+http://212.224.109.101/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+
+
+#EXTINF:-1,Dream TV
+
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+
+
+#EXTINF:-1,DR RamaSjang
+
+http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=100-1600
+
+
+
+#EXTINF:-1,DR 1
+
+http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8?b=100-2000
+
+
+ 
+#EXTINF:-1,DR 2
+
+http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8?b=100-2000
+
+
+
+#EXTINF:-1,DR 3
+
+http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8?b=100-1600
+
+
+
+#EXTINF:-1,DR k
+
+http://dr04-lh.akamaihd.net/i/dr04_0@147057/master.m3u8?b=100-1600
+
+
+
+
+
+#EXTINF:0,Elbe Kanal
+
+rtmp://62.113.210.250/medienasa-live/elbe_high
+
+
+
+#EXTINF:0,Elektrosound
+
+rtmp://www.electrosound.tv:1935/public/stream
+
+
+
+#EXTINF:-1,ESKA Party TV
+
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+
+
+
+#EXTINF:-1,Eska ROCK TV
+
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
+
+
+#EXTINF:-1,ESKA Best Music TV
+
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+
+
+#EXTINF:-1,Eska TV
+
+rtmp://stream.smcloud.net/live2/eskatv/eskatv_480p
+
+
+
+#EXTINF:-1,EXTRA
+
+rtmp://213.16.167.186:1935/live/mpegts_256.stream
+
+
+
+#EXTINF:-1,For Music
+
+ http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
+
+
+
+#EXTINF:-1,Flash TV
+rtsp://188.165.224.142:1935/radioflash/radioflash
+
+
+
+#EXTINF:0,GOLD
+http://top-iptv.zapto.org:8000/live/adem/adem/737.ts
+
+
+#EXTINF:0,HRT 1
+http://hrt.live.cdn.spectar.tv/OIV_HRT1_TV/01.m3u8
+
+#EXTINF:0,HRT 2
+http://hrt.live.cdn.spectar.tv/OIV_HRT2_TV/01.m3u8
+
+#EXTINF:0,HRT 3
+http://hrt.live.cdn.spectar.tv/OIV_HRT3_TV/01.m3u8
+
+#EXTINF:-1,Heart TV
+
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+
+#EXTINF:-1,Jasmin
+
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+
+
+
+
+#EXTINF:-1,Kontra Channel
+
+rtmp://flashcloud.mediacdn.com:1935/live/kontratv
+
+
+
+#EXTINF:-1,kiss tv
+
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+
+
+#EXTINF:0,LAMPSI TV
+
+http://94.23.218.186:1935/LampsiTV/LampsiTV/playlist.m3u8
+
+
+
+#EXTINF:0,London Live
+
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+
+#EXTINF:-1,Melody Channel
+
+rtmp://186.155.200.118:1935/live/MelodyChannel
+
+
+
+#EXTINF:0,M6 MUSIC HITS
+
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+
+#EXTINF:-1,MTV
+
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/156.m3u8
+
+
+
+#EXTINF:0,MTV Classic
+http://top-iptv.zapto.org:8000/live/adem/adem/728.ts
+
+#EXTINF:-1,MusicBox
+
+http://teleclub.fr/musicbox.mp4
+
+
+
+
+#EXTINF:-1,MFMTV
+
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+
+
+
+#EXTINF:0,MAD Cyprus
+
+rtmp://144.76.2.213/live/livestream
+
+
+#EXTINF:0,MOOZ DANCE
+http://85.187.218.30:5056
+
+
+#EXTINF:-1,NRJ TV
+
+http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
+
+
+#EXTINF:0,NR1
+rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp
+
+
+#EXTINF:-1,ORF Sport + 
+
+http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+
+
+#EXTINF:-1,Óčko
+
+http://194.79.52.76:1935/ockoi/ockoHQ1/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,Power TV
+
+rtmp://185.28.3.10/powertv/powertv.stream
+
+
+#EXTINF:0,RTS 1
+http://ott.orion.rs:1935/livelowedge2/rts1.stream/playlist.m3u8?v=1&k=0&token=d9e63f90739b45622fe81449801298a012d43ae3deb1db3588d967c56a0bfa13&ak=78820&time=1446892988400
+
+#EXTINF:0,RTS 2
+http://ott.orion.rs:1935/livelowedge2/rts2.stream/playlist.m3u8?v=1&k=0&token=a5cc98cdb8d507e72f1f743f81bdb8fb84b7905d44e714e5ec59f902a31d7850&ak=78820&time=1446892988400
+
+#EXTINF:0,RTS 3
+http://ott.orion.rs:1935/livelowedge/rts3.stream/playlist.m3u8?v=1&k=0&token=d3d5cbc12179d51ce4cf0a8c5ad97fafe37f9d278d25068e8772b767687fb6cf&ak=78820&time=1446892988400
+
+
+#EXTINF:-1,RETRO
+
+rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
+
+
+
+
+
+
+#EXTINF:-1,RADIO MONTE CARLO TV
+
+rtmp://fms.105.net/live//rmc1
+
+
+
+#EXTINF:-1,RADIO MONTE CARLO TV
+
+rtmp://fms.105.net:1935/live/rmc1
+
+
+
+
+
+#EXTINF:0,Rfhv De
+
+rtmp://62.113.210.250/medienasa-live/RFH_high
+
+
+
+
+#EXTINF:-1,Radio Italia TV
+
+http://cwedge.cdcache.net/cwedge/rilive/playlist.m3u8
+
+
+
+#EXTINF:-1,ПИК ТВ
+
+rtmp://fms.pik-tv.com/live/piktv1pik1tv
+
+
+
+#EXTINF:-1,ПИК ТВ HD
+
+http://fms.pik-tv.com:1935/live/piktv3pik3tv/playlist.m3u8
+
+
+
+#EXTINF:-1,Rrokum TV
+
+rtmp://82.114.65.202/live/rrokumtv
+
+
+
+#EXTINF:0,Radio 105 TV
+
+rtmp://fms.105.net:1935/live/105Test1#gfgyut9991.ch?token=0.861700,1.03854
+
+
+
+#EXTINF:0,RTE 1
+http://top-iptv.zapto.org:8000/live/adem/adem/947.ts
+
+#EXTINF:0,RTE 2
+http://top-iptv.zapto.org:8000/live/adem/adem/948.ts
+
+#EXTINF:0,SIGMA
+
+http://81.21.47.74/hls/live.m3u8
+
+
+
+
+#EXTINF:0,SKY 2
+http://top-iptv.zapto.org:8000/live/adem/adem/735.ts
+
+
+#EXTINF:-1,TELE MUSICA
+http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
+
+
+#EXTINF:-1,TVA
+
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
+ 
+
+
+#EXTINF:0,TVM
+
+http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:0,TVM 2
+
+http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8
+
+
+
+#EXTINF:-1,TV4
+
+http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8
+
+
+
+#EXTINF:-1,tvm3tv
+
+http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
+
+
+
+#EXTINF:0,TV10
+
+rtmp://cdn-kanal10.crossnet.net/kanal10//mpegts.stream
+
+
+
+#EXTINF:-1,TV Haugaland
+
+rtmp://flash0.15561-live0.dna.qbrick.com/15561-live0/live1
+
+#EXTINF:0,TV 2/Bornholm
+
+rtmp://itv08.digizuite.dk/tv2b/ch1
+
+
+
+#EXTINF:0,TV2 fyn (HD)
+
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2fyn_2000
+
+
+
+#EXTINF:0,TV 2/Lorry
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_2000
+
+
+
+#EXTINF:0,TV 2/Lorry
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_1000
+
+
+
+#EXTINF:0,tv2nord
+
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2nord-plus_2000
+
+
+
+#EXTINF:-1,U TV
+
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
+
+
+
+#EXTINF:-1,UTV
+
+http://82.76.249.77/utvedge/utvmqlivehls/chunklist.m3u8
+
+
+
+#EXTINF:-1,Music Vox TV
+
+rtmp://stream.smcloud.net/live/vox2/stream1
+
+
+
+#EXTINF:-1,VOX Old's Cool TV
+
+rtmp://stream.smcloud.net/live2/vox/vox_360p
+
+
+#EXTINF:-1,VEVO 1 HD
+
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+
+
+#EXTINF:-1,VEVO 2 HD
+
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+
+
+#EXTINF:-1,VEVO 3 HD
+
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+
+#EXTINF:0,Virgin Radio TV
+
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+
+
+
 
 #EXTINF:-1,SKYSPORTS1
 http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports1.stream/chunklist.m3u8
+
+
 #EXTINF:-1,SKYSPORTS2
 http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports2.stream/chunklist.m3u8
+
+
 #EXTINF:-1,SKYSPORTS3
 http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports3.stream/chunklist.m3u8
+
+
 #EXTINF:-1,SKYSPORTS4
 http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports4.stream/chunklist.m3u8
+
+
 #EXTINF:-1,SKYSPORTS5
 http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports5.stream/chunklist.m3u8
-EXTINF:-1,DE:Eurosport
+
+
+#EXTINF:-1,Eurosport
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1018.m3u8
-#EXTINF:-1,DE:Sport1HD
+
+#EXTINF:-1,Sport1
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/673.m3u8
-#EXTINF:-1,DE:Sport1+HD
+
+
+#EXTINF:-1,Sport1+ HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1162.m3u8
-#EXTINF:-1,DE:Sport1USHD
+
+
+#EXTINF:-1,Sport1USHD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1125.m3u8
-#EXTINF:-1,DE:SkyGermanySport1HD
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/7.m3u8
-#EXTINF:-1,DE:SkyGermanySport2HD
+
+#EXTINF:-1,SkySportHD
+1 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/7.m3u8
+
+
+#EXTINF:-1,SkySportHD
+2
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/179.m3u8
-#EXTINF:-1,DE:SkyGermanySportNewsHD
+
+
+#EXTINF:-1,SkySportNewsHD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/864.m3u8
-#EXTINF:-1,DE:SkyGermanyBundesliga1HD
+
+#EXTINF:-1,SkyGermanyBundesliga1HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/5.m3u8
-#EXTINF:-1,IT:Eurosport1HD
+
+
+#EXTINF:-1,Eurosport1HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1093.m3u8
-#EXTINF:-1,IT:Eurosport2HD
+
+#EXTINF:-1,Eurosport2HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1094.m3u8
-#EXTINF:-1,IT:SkItaliaSuperTennisHD
+
+#EXTINF:-1,SkItaliaSuperTennisHD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/612.m3u8
-#EXTINF:-1,IT:SkyItaliaSport1HD
+
+#EXTINF:-1,SkyItaliaSport1HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/149.m3u8
-#EXTINF:-1,IT:SkyItaliaSport2HD
+
+#EXTINF:-1,SkyItaliaSport2HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/150.m3u8
-#EXTINF:-1,IT:SkyItaliaMotoGPHD
+
+#EXTINF:-1,SkyItaliaMotoGPHD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/475.m3u8
-#EXTINF:-1,IT:SkyItaliaF1HD
+
+#EXTINF:-1,SkyItaliaF1HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/39.m3u8
-#EXTINF:-1,IT:SkyItaliaCalcio1HD
+
+
+#EXTINF:-1,SkyItaliaCalcio1HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/195.m3u8
-#EXTINF:-1,IT:SkyItaliaCalcio2HD
+
+
+#EXTINF:-1,SkyItaliaCalcio2HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/196.m3u8
-#EXTINF:-1,IT:SkyItaliaCalcio4HD
+
+#EXTINF:-1,SkyItaliaCalcio4HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/198.m3u8
-#EXTINF:-1,IT:SkyItaliaSuperCalcioHD
+
+#EXTINF:-1,SkyItaliaSuperCalcioHD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/152.m3u8
-#EXTINF:-1,IT:PremiumCalcio1HD
+
+#EXTINF:-1,PremiumCalcio1HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/260.m3u8
-#EXTINF:-1,IT:PremiumCalcio2HD
+
+#EXTINF:-1,PremiumCalcio2HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1121.m3u8
-#EXTINF:-1,IT:PremiumCalcio3
+
+#EXTINF:-1,PremiumCalcio3
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1157.m3u8
-#EXTINF:-1,IT:PremiumCalcio4
+
+#EXTINF:-1,PremiumCalcio4
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1158.m3u8
-#EXTINF:-1,IT:PremiumCalcio6
+
+#EXTINF:-1,PremiumCalcio6
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1160.m3u8
-EXTINF:-1,UK:SetantaSports
+
+#EXTINF:-1,SetantaSports
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/328.m3u8
-#EXTINF:-1,UK:ESPNHD
+
+
+#EXTINF:-1,ESPNHD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/138.m3u8
-#EXTINF:-1,UK:SkyUkSportHD1
+
+
+#EXTINF:-1,SkyUkSportHD1
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/17.m3u8
-#EXTINF:-1,UK:SkyUkSportHD2
+
+
+#EXTINF:-1,SkyUkSportHD2
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/18.m3u8
-#EXTINF:-1,UK:SkyUkSportHD3
+
+
+#EXTINF:-1,SkyUkSportHD3
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/220.m3u8
-#EXTINF:-1,UK:SkyUkSportHD4
+
+#EXTINF:-1,SkyUkSportHD4
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/19.m3u8
-#EXTINF:-1,UK:SkyUkSportHD5
+
+
+#EXTINF:-1,SkyUkSportHD5
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/129.m3u8
-#EXTINF:-1,UK:SkyUkSportF1HD
+
+#EXTINF:-1,SkyUkSportF1HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/221.m3u8
-#EXTINF:-1,UK:SkyUkSportsNewsHD
+
+#EXTINF:-1,SkyUkSportsNewsHD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/174.m3u8
-#EXTINF:-1,UK:SkyUkBTSport1HD
+
+#EXTINF:-1,SkyUkBTSport1HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/15.m3u8
+
+
 #EXTINF:-1,UK:SkyUkBTSport2HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/16.m3u8
-#EXTINF:-1,UK:BTSportEuropeHD
+
+
+#EXTINF:-1,BTSportEuropeHD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1023.m3u8
+
 #EXTINF:-1,UK:CTHStadium2HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1065.m3u8
-#EXTINF:-1,UK:ITV1HD
+
+#EXTINF:-1,ITV1HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/137.m3u8
-#EXTINF:-1,UK:ITV2
+
+#EXTINF:-1,ITV2
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/242.m3u8
-#EXTINF:-1,UK:ITV3
+
+#EXTINF:-1,ITV3
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/243.m3u8
-#EXTINF:-1,UK:ITV4
+
+#EXTINF:-1,ITV4
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/244.m3u8
-#EXTINF:-1,TR:TRTSPORHD
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1185.m3u8
-#EXTINF:-1,TR:NTVSmartSpor
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1011.m3u8
-#EXTINF:-1,TR:TRTSportHD
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/81.m3u8
-EXTINF:-1,ORANGESPORT
+
+#EXTINF:-1,ORANGESPORT
+
 rtmp://51.254.45.34/live/orangesport
+
+
 #EXTINF:-1,ELEVEN
+
 rtmp://51.254.45.34/live/eleven
-#EXTINF:-1,11ELEVEN2
+
+
+#EXTINF:-1,ELEVEN2
 rtmp://144.76.154.14/live/elevensport
+
+
 #EXTINF:-1,NSPORT
+
 rtmp://85.10.208.218/live/n2sport
-#EXTINF:-1,EXTREMESPORTS
-rtmp://144.76.154.14/live/extremesports
+
+
 #EXTINF:-1,EUROSPORT
+
 rtmp://85.10.208.218/live/eurosport
+
+
 #EXTINF:-1,EUROSPORT2
+
 rtmp://51.254.45.34/live/eurosport2hd
+
+
 #EXTINF:-1,CANAL+SPORT
+
 rtmp://178.16.220.163/live/canalsport
+
+
 #EXTINF:-1,RaiSport1
+
 mmsh://212.162.68.163:80/raisport+
+
+
 #EXTINF:-1,RaiSport2
+
 mmsh://212.162.68.163:80/raisport2
+
+
 #EXTINF:0,SkySport1
 http://195.154.226.186:1935/liveedge/skysports1lsh/playlist.m3u8
+
 #EXTINF:0,SkySport2
 http://195.154.226.186:1935/liveedge/skysports2lsh/playlist.m3u8
+
 #EXTINF:0,SkySport3
 http://195.154.226.186:1935/liveedge/skysports3lsh/playlist.m3u8
+
+
 #EXTINF:0,SkySport4
 http://195.154.226.186:1935/liveedge/skysports4lsh/playlist.m3u8
+
+
 #EXTINF:0,SkySport5
 http://195.154.226.186:1935/liveedge/skysports5lsh/playlist.m3u8
+
+
 #EXTINF:0,SkySportF1
 http://195.154.226.186:1935/liveedge/vskysf1lsh/playlist.m3u8
+
+
 #EXTINF:0,BTSportEurope
 http://195.154.226.186:1935/liveedge/bteulsh/playlist.m3u8
+
+
 #EXTINF:0,BTSport1
 http://195.154.226.186:1935/liveedge/btsports1lsh/playlist.m3u8
+
 #EXTINF:0,BTSport2
 http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u8
+
 #EXTINF:0,Eurosportuk
 http://195.154.226.186:1935/liveedge/vesplsh/playlist.m3u8
+
 #EXTINF:0,Eurosport2uk
 http://195.154.226.186:1935/liveedge/vesp2lsh/playlist.m3u8
+
+
 #EXTINF:-1,beINSports1HD
 http://195.154.226.186:1935/liveedge/bein1frlsh/playlist.m3u8
+
+
 #EXTINF:-1,beINSports2HD
 http://195.154.226.186:1935/liveedge/bein2frlsh/playlist.m3u8
+
 #EXTINF:0,ESPNUK
 http://195.154.226.186:1935/liveedge/espnuklsh/playlist.m3u8
+
 #EXTINF:0,Premiersports
 http://195.154.226.186:1935/liveedge/vpremsplsh/playlist.m3u8
+
 #EXTINF:0,ArenaSport1
 http://195.154.226.186:1935/liveedge/arhd1lsh/playlist.m3u8
+
 #EXTINF:0,ArenaSport2
 http://195.154.226.186:1935/liveedge/arhd2lsh/playlist.m3u8
+
 #EXTINF:0,ArenaSport3
 http://195.154.226.186:1935/liveedge/arhd3lsh/playlist.m3u8
+
 #EXTINF:0,ArenaSport4
 http://195.154.226.186:1935/liveedge/arhd4lsh/playlist.m3u8
+
 #EXTINF:0,SportKlub1
 http://195.154.226.186:1935/liveedge/skhd1lsh/playlist.m3u8
+
 #EXTINF:0,SportKlub2
 http://195.154.226.186:1935/liveedge/skhd2lsh/playlist.m3u8
+
 #EXTINF:0,SportKlub3
 http://195.154.226.186:1935/liveedge/skhd3lsh/playlist.m3u8
-EXTINF:-1,beINSports1HD
+
+
+#EXTINF:-1,beINSports1HD
 http://195.154.226.186:1935/liveedge/bein1frlsh/playlist.m3u8
+
+
 #EXTINF:-1,beINSports2HD
 http://195.154.226.186:1935/liveedge/bein2frlsh/playlist.m3u8
+
 #EXTINF:0,ESPNUK
 http://195.154.226.186:1935/liveedge/espnuklsh/playlist.m3u8
+
 #EXTINF:0,Premiersports
 http://195.154.226.186:1935/liveedge/vpremsplsh/playlist.m3u8
+
 #EXTINF:0,ArenaSport1
 http://195.154.226.186:1935/liveedge/arhd1lsh/playlist.m3u8
+
 #EXTINF:0,ArenaSport2
 http://195.154.226.186:1935/liveedge/arhd2lsh/playlist.m3u8
+
 #EXTINF:0,ArenaSport3
 http://195.154.226.186:1935/liveedge/arhd3lsh/playlist.m3u8
+
 #EXTINF:0,ArenaSport4
 http://195.154.226.186:1935/liveedge/arhd4lsh/playlist.m3u8
+
 #EXTINF:0,SportKlub1
 http://195.154.226.186:1935/liveedge/skhd1lsh/playlist.m3u8
+
 #EXTINF:0,SportKlub2
 http://195.154.226.186:1935/liveedge/skhd2lsh/playlist.m3u8
+
 #EXTINF:0,SportKlub3
 http://195.154.226.186:1935/liveedge/skhd3lsh/playlist.m3u8
-EXTINF:0,Eurosportuk
+
+#EXTINF:0,Eurosportuk
 http://195.154.226.186:1935/liveedge/vesplsh/playlist.m3u8
+
 #EXTINF:0,Eurosport2uk
 http://195.154.226.186:1935/liveedge/vesp2lsh/playlist.m3u8
+
 #EXTINF:0,SkySport1
 http://195.154.226.186:1935/liveedge/skysports1lsh/playlist.m3u8
+
 #EXTINF:0,SkySport2
 http://195.154.226.186:1935/liveedge/skysports2lsh/playlist.m3u8
+
 #EXTINF:0,SkySport3
 http://195.154.226.186:1935/liveedge/skysports3lsh/playlist.m3u8
+
 #EXTINF:0,SkySport4
 http://195.154.226.186:1935/liveedge/skysports4lsh/playlist.m3u8
+
 #EXTINF:0,SkySport5
 http://195.154.226.186:1935/liveedge/skysports5lsh/playlist.m3u8
+
 #EXTINF:0,SkySportF1
 http://195.154.226.186:1935/liveedge/vskysf1lsh/playlist.m3u8
+
 #EXTINF:0,BTSportEurope
 http://195.154.226.186:1935/liveedge/bteulsh/playlist.m3u8
+
 #EXTINF:0,BTSport1
 http://195.154.226.186:1935/liveedge/btsports1lsh/playlist.m3u8
+
 #EXTINF:0,BTSport2
 http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u8
-EXTINF:-1,beINSports1HD
+
+
+#EXTINF:-1,beINSports1HD
+
 http://50.7.69.138:8128/hls/bein1hd.m3u8
+
+
 #EXTINF:-1,beINSports2HD
+
 http://50.7.69.138:8128/hls/bein2hd.m3u8
+
+
 #EXTINF:-1,beINSports3HD
+
 http://50.7.69.138:8128/hls/bein3hd.m3u8
+
+
 #EXTINF:-1,beINSports4HD
+
 http://50.7.69.138:8128/hls/bein4hd.m3u8
+
+
 #EXTINF:-1,beINSports5HD
+
 http://50.7.69.138:8128/hls/bein5hd.m3u8
-EXTINF:-1,beINSports6HD
+
+#EXTINF:-1,beINSports6HD
+
 http://50.7.69.138:8128/hls/bein6hd.m3u8
+
+
 #EXTINF:-1,beINSports7HD
+
 http://50.7.69.138:8128/hls/bein7hd.m3u8
+
+
 #EXTINF:-1,beINSports8HD
+
 http://50.7.69.138:8128/hls/bein8hd.m3u8
+
+
 #EXTINF:-1,beINSports9HD
+
 http://50.7.69.138:8128/hls/bein9hd.m3u8
+
+
 #EXTINF:-1,beINSports10HD
+
 http://50.7.69.138:8128/hls/bein10hd.m3u8
+
+
 #EXTINF:-1,SPORTV
+
 http://62.210.82.241:1935/liverepeat/201020/live.m3u8
+
+
 #EXTINF:-1,SPORTV2
+
 http://37.203.209.34:443/mobile/bob06/live.m3u8
-EXTINF:-1,IRAKIraqiyaSport
-http://212.7.205.5:1935/sport/live/playlist.m3u8
-#EXTINF:-1,DubaiSport
-http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/playlist.m3u8
-#EXTINF:-1,DubaiSports3(UAE)
-http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
-#EXTINF:-1,DubaiRacing(UAE)
-http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
-#EXTINF:-1,ARABIC-BAHRAINSPORTS
-rtmp://alayam.netromedia.net/btv3/btv3
-#EXTINF:-1,ARABIC-DubaiRacing
-http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/HasBahCa.m3u8
-#EXTINF:-1,ARABIC-KTVSportExtra
-rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
-#EXTINF:-1,ARABIC-KTVSportPlus
-rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
-#EXTINF:-1 tvg-id=”195″ tvg-name=”ARENA SPORT 1 HR pan” tvg-logo=”/noicon.png” group-title=”Sport”,ARENA SPORT 1 HR pan – ARENA SPORT 1 HR pan
-http://master.nika.rs.ba:80/live?channelId=195&uid=136&deviceUser=demo&devicePass=demo
-#EXTINF:-1 tvg-id=”196″ tvg-name=”ARENA SPORT 3 HR pan” tvg-logo=”/noicon.png” group-title=”Sport”,ARENA SPORT 3 HR pan – ARENA SPORT 3 HR pan
-http://master.nika.rs.ba:80/live?channelId=196&uid=136&deviceUser=demo&devicePass=demo
