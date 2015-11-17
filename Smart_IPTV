@@ -312,6 +312,9 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0,Virgin Radio TV
 http://wow01.105.net/live/virgin1/chunklist.m3u8
 
+#EXTINF:-1,Virgin Radio TV 
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+
 #EXTINF:0,Virgin Radio TV
 rtmp://fms.105.net:1935/live/virgin2
 
