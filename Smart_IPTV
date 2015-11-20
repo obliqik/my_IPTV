@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:0, One.by
+#EXTINF:0,1
 http://rtmp.one.by:1200
 
-#EXTINF:0, One.by
+#EXTINF:0,1
 rtmp://rtmp.one.by/SD/1muz
 
-#EXTINF:0, One.by HD
+#EXTINF:0,1 HD
 http://rtmp.one.by:1300
 
-#EXTINF:0, One.by UHD
+#EXTINF:0,1 UHD
 http://rtmp.one.by:1400
 
-#EXTINF:0, One.by
+#EXTINF:0,One.by
 http://rtmp.one.by:2200
 
-#EXTINF:0, One.by
+#EXTINF:0,One.by
 http://rtmp.one.by:2300
 
 #EXTINF:0,A-One
@@ -32,6 +32,9 @@ mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 
 #EXTINF:0,Big Pond Music
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_med
+
+#EXTINF:-1,Box Nation
+http://top-iptv.zapto.org:8000/live/adem/adem/557.m3u8
 
 #EXTINF:0,BLUE SKY
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
@@ -252,6 +255,9 @@ http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 #EXTINF:-1,TELE MUSICA
 http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
 
+#EXTINF:-1,Tru Movies 2
+http://top-iptv.zapto.org:8000/live/adem/adem/564.m3u8
+
 #EXTINF:-1,TVA
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
  
@@ -308,6 +314,9 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 
 #EXTINF:-1,VEVO 3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1,VH1 Classic Europe
+http://iptvcanales.com/xw/cable.php?canal=96&player=playlist.m3u8
 
 #EXTINF:0,Virgin Radio TV
 http://wow01.105.net/live/virgin1/chunklist.m3u8
