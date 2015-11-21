@@ -180,6 +180,12 @@ rtmp://144.76.2.213/live/livestream
 #EXTINF:0,MOOZ DANCE
 http://85.187.218.30:5056
 
+#EXTINF:0,Mute 3D
+http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.3d/stream.m3u8
+
+#EXTINF:0,Mute HD
+http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
+
 #EXTINF:-1,NRJ TV
 http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
 
@@ -326,6 +332,9 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 #EXTINF:0,Virgin Radio TV
 rtmp://fms.105.net:1935/live/virgin2
+
+#EXTINF:-1,WÈo
+rtmp://str81.creacast.com:80/weo/high
 
 #EXTINF:-1,SKYSPORTS1
 http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports1.stream/chunklist.m3u8
