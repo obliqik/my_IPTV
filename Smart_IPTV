@@ -18,6 +18,9 @@ http://rtmp.one.by:2200
 #EXTINF:0,One.by
 http://rtmp.one.by:2300
 
+#EXTINF:0,Action 24
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:0,A-One
 http://msk1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
 
