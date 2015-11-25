@@ -18,14 +18,14 @@ http://rtmp.one.by:2200
 #EXTINF:0,One.by
 http://rtmp.one.by:2300
 
-#EXTINF:0,Action 24
-http://stream-12.vty.dailymotion.com/10/dm/1/x2p626q/live.isml/live.m3u8?e=1448464749&st=fhfypVeEjr8UWBYHul97pw#cell=lvty
-
 #EXTINF:0,A-One
 http://msk1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
 
 #EXTINF:0,1 HD
 http://rtmp.one.by:1300
+
+#EXTINF:0,Action 24
+http://stream-12.vty.dailymotion.com/10/dm/1/x2p626q/live.isml/live.m3u8?e=1448464749&st=fhfypVeEjr8UWBYHul97pw#cell=lvty
 
 #EXTINF:0,ANT1 Cyprus
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
