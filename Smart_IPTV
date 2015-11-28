@@ -342,77 +342,14 @@ rtmp://fms.105.net:1935/live/virgin2
 #EXTINF:-1,WÈo
 rtmp://str81.creacast.com:80/weo/high
 
-#EXTINF:-1,OTE SPORT 1 
+#EXTINF:-1,OTE SPORT 1 HD
 http://38.122.233.10:1935/gr-live/otesport1.sdp/playlist.m3u8 
 
-#EXTINF:-1,OTE SPORT 2
+#EXTINF:-1,OTE SPORT 2 HD
 http://38.122.233.10:1935/gr-live/otesport2.sdp/playlist.m3u8
 
-#EXTINF:-1,OTE SPORT 3
+#EXTINF:-1,OTE SPORT 3 HD
 http://38.122.233.10:1935/gr-live/otesport3.sdp/playlist.m3u8
 
-#EXTINF:-1,OTE SPORT 4 
+#EXTINF:-1,OTE SPORT 4 HD
 http://38.122.233.10:1935/gr-live/otesport4.sdp/playlist.m3u8
-
-#EXTINF:-1,OTE SPORT 5 
-http://38.122.233.10:1935/gr-live/otesport5.sdp/playlist.m3u8
-
-#EXTINF:0,OTE SPORT 1HD
-rtmp://78.128.92.19:1935/streams?key=satsu/OTESPORT1HD?key=satsu
-
-#EXTINF:0,OTE SPORT 2HD
-rtmp://78.128.92.19:1935/streams?key=satsu/OTESPORT2HD?key=satsu
-
-#EXTINF:0,OTE SPORT 3HD
-rtmp://78.128.92.19:1935/streams?key=satsu/OTESPORT3HD?key=satsu
-
-#EXTINF:0,OTE SPORT 3HD
-rtmp://78.128.92.19:1935/streams?key=satsu/OTESPORT3HD?key=satsu
-
-#EXTINF:0,OTE SPORT 4HD
-rtmp://78.128.92.19:1935/streams?key=satsu/OTESPORTS4HD?key=satsu
-
-#EXTINF:0,OTE SPORT 5HD
-rtmp://78.128.92.19:1935/streams?key=satsu/OTESPORT5HD?key=satsu
-
-#EXTINF:0,OTE SPORT 6HD
-rtmp://78.128.92.19:1935/streams?key=satsu/OTESPORT6HD?key=satsu
-
-#EXTINF:0,OTE SPORT 7HD
-rtmp://78.128.92.19:1935/streams?key=satsu/OTESPORT7HD?key=satsu
-
-#EXTINF:-1,SKYSPORTS1
-http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports1.stream/chunklist.m3u8
-
-#EXTINF:-1,SKYSPORTS2
-http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports2.stream/chunklist.m3u8
-
-#EXTINF:-1,SKYSPORTS3
-http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports3.stream/chunklist.m3u8
-
-#EXTINF:-1,SKYSPORTS4
-http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports4.stream/chunklist.m3u8
-
-#EXTINF:-1,SKYSPORTS5
-http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports5.stream/chunklist.m3u8
-
-#EXTINF:-1,Eurosport
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1018.m3u8
-
-#EXTINF:-1,Sport1
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/673.m3u8
-
-#EXTINF:-1,Sport1+ HD
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1162.m3u8
-
-#EXTINF:-1,Sport1USHD
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1125.m3u8
-
-#EXTINF:-1,SkySportHD1 
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/7.m3u8
-
-#EXTINF:-1,SkySportHD2
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/179.m3u8
-
-#EXTINF:-1,SkySportNewsHD
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/864.m3u8
