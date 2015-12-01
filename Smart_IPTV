@@ -25,7 +25,7 @@ http://msk1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
 http://rtmp.one.by:1300
 
 #EXTINF:0,Action 24
-http://stream-09.vty.dailymotion.com/10/dm/1/x2p626q/live.isml/events(live-1448014728)/live-audio=128000-video=444000.m3u8
+http://www.dailymotion.com/embed/video/k62AhLahEcQet7b2Nd8
 
 #EXTINF:0,ANT1 Cyprus
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
