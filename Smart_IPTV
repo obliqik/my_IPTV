@@ -162,6 +162,9 @@ http://94.23.218.186:1935/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:0,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
+#EXTINF:0,Magic
+http://csm-e-eur3-13.tm.yospace.com/csm/live/78581293/4.m3u8;jsessionid=63A77A49C6CE8B95743FF29584904DF4.csm-e-eur3-13.cds1.yospace.com?partnerId=463534&yo.ac=true&mediaId=Magic&mediaTitle=Magic&pageURL=http%3A%2F%2Fapps.bauerweb.co.uk%2Fmagic-tv%2Ftv.html&streamPageURL=http%3A%2F%2Fapps.bauerweb.co.uk%2Fmagic-tv%2Ftv.html&width=830&height=470
+
 #EXTINF:-1,Melody Channel
 rtmp://186.155.200.118:1935/live/MelodyChannel
 
