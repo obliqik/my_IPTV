@@ -356,3 +356,39 @@ http://38.122.233.10:1935/gr-live/otesport3.sdp/playlist.m3u8
 
 #EXTINF:-1,OTE SPORT 4 HD
 http://38.122.233.10:1935/gr-live/otesport4.sdp/playlist.m3u8
+
+#EXTINF:-1,BBC ONE
+http://live.tvplayer.com/bbcone/5/prog_index.m3u8
+
+#EXTINF:-1,BBC TWO
+http://live.tvplayer.com/bbctwo/5/prog_index.m3u8
+
+#EXTINF:-1,BBC TWO
+http://live.tvplayer.com/bbctwo/5/prog_index.m3u8
+
+#EXTINF:-1,ITV 1
+http://live.tvplayer.com/itv/5/prog_index.m3u8
+
+#EXTINF:-1,CHANNEL 4
+http://live.tvplayer.com/channel4/5/prog_index.m3u8
+
+#EXTINF:-1,DRAMA
+http://live.tvplayer.com/drama/5/prog_index.m3u8
+
+#EXTINF:-1,4MUSIC
+http://csm-e-usc1-2.cds1.yospace.com/csm/live/86550614/4.m3u8;jsessionid=5CDB98C918799F80BE58C18A73C0EC0A.csm-e-usc1-2.cds1.yospace.com
+
+#EXTINF:-1,THE BOX
+http://csm-e-usc1-10.cds1.yospace.com/csm/live/86561631/4.m3u8;jsessionid=FFF93E3F395338D56F72037845F6AC86.csm-e-usc1-10.cds1.yospace.com
+
+#EXTINF:-1,HEAT
+http://csm-e-usc1-1.cds1.yospace.com/csm/live/86561584/4.m3u8;jsessionid=939A1A98FE063931C0EC53ED945AFE21.csm-e-usc1-1.cds1.yospace.com
+
+#EXTINF:-1,SMASHHITS
+http://csm-e-usc1-8.cds1.yospace.com/csm/live/86561609/4.m3u8;jsessionid=D3DAB6EAC46F2778474E5987C48AD150.csm-e-usc1-8.cds1.yospace.com
+
+#EXTINF:-1,KISS
+http://csm-e-usc1-5.cds1.yospace.com/csm/live/86561716/4.m3u8;jsessionid=11F968860204E782EFB6C0BE75EC1800.csm-e-usc1-5.cds1.yospace.com
+
+#EXTINF:-1,MAGIC
+http://csm-e-usc1-5.cds1.yospace.com/csm/live/86561776/4.m3u8;jsessionid=4566E5B4030CAFB8C61DB360A7F21F37.csm-e-usc1-5.cds1.yospace.com
