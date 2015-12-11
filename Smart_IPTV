@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:0,1
-http://rtmp.one.by:1200
-
-#EXTINF:0,1
-rtmp://rtmp.one.by/SD/1muz
-
-#EXTINF:0,1 HD
-http://rtmp.one.by:1300
-
-#EXTINF:0,1 UHD
-http://rtmp.one.by:1400
-
-#EXTINF:0,One.by
-http://rtmp.one.by:2200
-
-#EXTINF:0,One.by
-http://rtmp.one.by:2300
-
-#EXTINF:0,A-One
-http://msk1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
-
-#EXTINF:0,1 HD
-http://rtmp.one.by:1300
-
 #EXTINF:0,Action 24
 http://stream-01.vty.dailymotion.com/02/dm/1/x2p626q/live.isml/events(live-1449252420)/live-audio=64000-video=400000.m3u8
 
@@ -69,14 +45,32 @@ http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&pr
 #EXTINF:0,Dange TV
 http://109.172.11.85:1234/udp/224.0.42.110:5000
 
+#EXTINF:-1,Deluxe Music
+http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
+
+#EXTINF:-1,DJING Animation HD
+http://www.djing.com/tv/a-05.m3u8
+
 #EXTINF:-1,DJING Classic HD
 http://www.djing.com/tv/i-05.m3u8
 
 #EXTINF:-1,DJING HOT HD
 http://cdn.djing.com/tv/h-05.m3u8
 
+#EXTINF:-1,DJING Hot Hot Hot HD
+http://www.djing.com/tv/hothothot.m3u8
+
+#EXTINF:-1,DJING Hot Hot Hot HD 720
+http://www.djing.com/tv/hothothot.m3u8
+
+#EXTINF:-1,DJING Ibiza HD 720
+http://www.djing.com/tv/ibiza.m3u8
+
 #EXTINF:-1,DJING Dancefloor HD
 http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:-1,DJING Dancefloor HD 720
+http://www.djing.com/tv/dancefloor.m3u8
 
 #EXTINF:-1,DJING Underground HD
 http://www.djing.com/tv/u-05.m3u8
@@ -162,6 +156,9 @@ http://94.23.218.186:1935/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:0,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
+#EXTINF:-1,M2O Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:0,Magic
 http://csm-e-eur3-13.tm.yospace.com/csm/live/78581293/4.m3u8;jsessionid=63A77A49C6CE8B95743FF29584904DF4.csm-e-eur3-13.cds1.yospace.com?partnerId=463534&yo.ac=true&mediaId=Magic&mediaTitle=Magic&pageURL=http%3A%2F%2Fapps.bauerweb.co.uk%2Fmagic-tv%2Ftv.html&streamPageURL=http%3A%2F%2Fapps.bauerweb.co.uk%2Fmagic-tv%2Ftv.html&width=830&height=470
 
@@ -200,6 +197,27 @@ http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
 
 #EXTINF:0,NR1
 rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp
+
+#EXTINF:-1,One.by
+http://rtmp.one.by:1200
+
+#EXTINF:0,One.by SD
+rtmp://rtmp.one.by/SD/1muz
+
+#EXTINF:-1,One.by HD
+http://rtmp.one.by:1300
+
+#EXTINF:-1,One.by UHD
+http://rtmp.one.by:1400
+
+#EXTINF:-1,One.by Россия
+http://rtmp.one.by:2200
+
+#EXTINF:-1,One.by Россия HD
+http://rtmp.one.by:2300
+
+#EXTINF:0,A-One
+http://msk1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
 
 #EXTINF:-1,ORF Sport + 
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
@@ -269,6 +287,9 @@ http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 
 #EXTINF:-1,TELE MUSICA
 http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
+
+#EXTINF:-1,TeleM3
+http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
 
 #EXTINF:-1,Tru Movies 2
 http://top-iptv.zapto.org:8000/live/adem/adem/564.m3u8
