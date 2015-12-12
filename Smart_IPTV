@@ -39,6 +39,9 @@ http://109.172.11.85:1234/udp/224.0.42.110:5000
 #EXTINF:-1,Deluxe Music
 http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
 
+#EXTINF:-1,Deluxe Music
+http://62.65.140.216/session/d3110964-a09e-11e5-83ec-005056bc1a52/nvnv5a/1/1153/2290000/index.m3u8
+
 #EXTINF:-1,DJING Animation HD
 http://www.djing.com/tv/a-05.m3u8
 
@@ -200,6 +203,9 @@ http://top-iptv.zapto.org:8000/live/adem/adem/947.ts
 
 #EXTINF:0,RTE 2
 http://top-iptv.zapto.org:8000/live/adem/adem/948.ts
+
+#EXTINF:0,RTL 102,5
+http://62.65.140.214/session/24a105ae-a09f-11e5-8d18-005056bc06d1/nvnv5a/2/3010/2290000/index.m3u8
 
 #EXTINF:0,Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
