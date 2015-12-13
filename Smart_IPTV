@@ -24,16 +24,16 @@ http://204.107.27.199/live/113.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe142ee
 #EXTINF:0,BBC Four
 http://204.107.27.199/live/103.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee0a8197b696dff10e4fcf28ae8b41a27fbd649d14c9597e552a6e029664c1115b65b533e4e24ffc84c6c444ed78ab11ad5c9d667730e4c09d29bc9ad073a6f25528b0b39dc1f3dc697a66e4c778da21e81104981973f8fefafdec25a97652ccd2834f8e247170259092fd66531d8377fae91382b8b1c732304b0c1eaf3a82dfe2a1d808189d3bd9aaa224e600219cc2c
 
-#EXTINF:0,Big Pond Music
+#EXTINF:0,bpm
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 
-#EXTINF:0,Big Pond Music
+#EXTINF:0,bpm
 http://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 
-#EXTINF:0,Big Pond Music
+#EXTINF:0,bpm
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 
-#EXTINF:0,Big Pond Music
+#EXTINF:0,bpm
 http://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 
 #EXTINF:0,BLUE SKY
@@ -144,19 +144,19 @@ rtsp://188.165.224.142:1935/radioflash/radioflash
 #EXTINF:-1,For Music
 http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
 
-#EXTINF:-1,Heart
+#EXTINF:-1,heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
-#EXTINF:-1,ITV
+#EXTINF:-1,ITV 1
 http://62.65.140.215/session/9a017f8a-a0a5-11e5-a469-005056bc06d1/nvnv5a/2/4018/4240000/index.m3u8
 
 #EXTINF:-1,Jasmin
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 
-#EXTINF:-1,kiss tv
+#EXTINF:-1,kiss
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
-#EXTINF:-1,kiss tv
+#EXTINF:-1,kiss
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
 
 #EXTINF:-1,Kontra Channel
@@ -261,7 +261,7 @@ rtmp://fms.105.net:1935/live/rmc1
 #EXTINF:-1,RADIO MONTE CARLO TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
-#EXTINF:-1,RADIO MONTE CARLO TV
+#EXTINF:-1,RMC
 http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
 
 #EXTINF:-1,RETRO MUSIC
