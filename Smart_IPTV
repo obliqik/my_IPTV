@@ -1,9 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1,4 Music
+http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
+
 #EXTINF:0,A-One
 http://msk1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
 
-#EXTINF:0,Action 24
+#EXTINF:0,ACTION 24
 http://stream-09.vty.dailymotion.com/32/dm/1/x2p626q/live.isml/events(live-1449888169)/live-audio=64000-video=400000.m3u8
 
 #EXTINF:0,ANT1 Cyprus
@@ -12,16 +15,16 @@ rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 #EXTINF:0,ANT1 Cyprus
 http://46.21.53.171/iwohttporigin/mp4:livestream/playlist.m3u8
 
-#EXTINF:0,BBC One
+#EXTINF:0,BBC ONE
 http://204.107.27.199/live/14.low.stream/playlist.m3u8?id=0ad5aac39bb13fbece933ee58451da5fbbb3a899b527abcee7fb4dc3934e356dfc9f1d974f6376bc5f93cccb451fc8fe2a087418444fc38f141a8913e8eb641bbe4389ad6e3fce4111074fdbce5bd874f74637d21e79bf70f72f92adc7e292a30f469a2390a26f658de17f218a5b6e0cc8ca82744380827c63e23fb35cf1612e2f16b7f6984249804ceb25bf274e0a5432c7ea7bd1b6df90
 
-#EXTINF:0,BBC Two
+#EXTINF:0,BBC TWO
 http://204.107.27.199/live/25.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee8687b1d657fb2ba9bc2b37a17077aed911b8bcc2be15c2a5552627ff31f986091e78c2aaa115528d4eb99d254bc32424148cb0a6a6f2b76ca8e389e762a1a81259d61a6d31540359bd60e5ccd2db75f0f505be58faafb5aca81792f2948a91ff91979fdc877a80897892a4c203c2a3c67edb657bf78109277435641c4d50f247252091039b9f40f2d29fde6356ebd8c
 
-#EXTINF:0,BBC Three
+#EXTINF:0,BBC THREE
 http://204.107.27.199/live/113.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe142ee1515e24750cc42ff6e478413b5e214c0bbbd616c9805cccba1a2d9abff023216427b4d37817db6dc813b2f87e40aa45f2e9f44265ce5556121ca3da1a6fd48e99e194db2b5d854a33be1e591eb6eda583bb3b07071b39515065c85351261c80c069c05ce78a1aad4fae2064dbf9516874ffce24e93493573b0f1d575606f84b56fd46b0f4b0a80b2d86cab31f65
 
-#EXTINF:0,BBC Four
+#EXTINF:0,BBC FOUR
 http://204.107.27.199/live/103.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee0a8197b696dff10e4fcf28ae8b41a27fbd649d14c9597e552a6e029664c1115b65b533e4e24ffc84c6c444ed78ab11ad5c9d667730e4c09d29bc9ad073a6f25528b0b39dc1f3dc697a66e4c778da21e81104981973f8fefafdec25a97652ccd2834f8e247170259092fd66531d8377fae91382b8b1c732304b0c1eaf3a82dfe2a1d808189d3bd9aaa224e600219cc2c
 
 #EXTINF:0,bpm
@@ -140,9 +143,6 @@ rtmp://213.16.167.186:1935/live/mpegts_256.stream
 
 #EXTINF:-1,Flash TV
 rtsp://188.165.224.142:1935/radioflash/radioflash
-
-#EXTINF:-1,For Music
-http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
 
 #EXTINF:-1,heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
