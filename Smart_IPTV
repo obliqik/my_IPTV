@@ -9,6 +9,9 @@ http://stream-09.vty.dailymotion.com/32/dm/1/x2p626q/live.isml/events(live-14498
 #EXTINF:0,ANT1 Cyprus
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 
+#EXTINF:0,ANT1 Cyprus
+http://46.21.53.171/iwohttporigin/mp4:livestream/playlist.m3u8
+
 #EXTINF:0,BBC One
 http://204.107.27.199/live/14.low.stream/playlist.m3u8?id=0ad5aac39bb13fbece933ee58451da5fbbb3a899b527abcee7fb4dc3934e356dfc9f1d974f6376bc5f93cccb451fc8fe2a087418444fc38f141a8913e8eb641bbe4389ad6e3fce4111074fdbce5bd874f74637d21e79bf70f72f92adc7e292a30f469a2390a26f658de17f218a5b6e0cc8ca82744380827c63e23fb35cf1612e2f16b7f6984249804ceb25bf274e0a5432c7ea7bd1b6df90
 
@@ -25,7 +28,13 @@ http://204.107.27.199/live/103.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee0a81
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 
 #EXTINF:0,Big Pond Music
-mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_med
+http://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+
+#EXTINF:0,Big Pond Music
+mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+
+#EXTINF:0,Big Pond Music
+http://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 
 #EXTINF:0,BLUE SKY
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
@@ -45,6 +54,9 @@ http://62.65.140.155/session/32e85166-a0a5-11e5-af57-005056bc49ac/nvnv5a/2/4022/
 #EXTINF:0,CITY TV
 rtmp://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2
 
+#EXTINF:0,CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
+
 #EXTINF:-1,Clubland
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
@@ -53,9 +65,6 @@ http://109.172.11.85:1234/udp/224.0.42.110:5000
 
 #EXTINF:-1,Deluxe Music
 http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
-
-#EXTINF:-1,Deluxe Music
-http://62.65.140.216/session/d3110964-a09e-11e5-83ec-005056bc1a52/nvnv5a/1/1153/2290000/index.m3u8
 
 #EXTINF:-1,DJING Animation HD
 http://www.djing.com/tv/a-05.m3u8
@@ -93,20 +102,38 @@ http://212.224.109.101/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0,Elbe Kanal
 rtmp://62.113.210.250/medienasa-live/elbe_high
 
+#EXTINF:0,Elbe Kanal
+http://62.113.210.250/medienasa-live/elbe_high/playlist.m3u8
+
 #EXTINF:0,Elektrosound
 rtmp://www.electrosound.tv:1935/public/stream
+
+#EXTINF:0,Elektrosound
+http://www.electrosound.tv:1935/public/stream/playlist.m3u8
 
 #EXTINF:-1,Eska Best Music TV
 rtmp://stream.smcloud.net/live2/best/best_720p
 
+#EXTINF:-1,Eska Best Music TV
+http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
+
 #EXTINF:-1,Eska Party TV
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+
+#EXTINF:-1,Eska Party TV
+http://stream.smcloud.net/live2/eska_party/eska_party_720p/playlist.m3u8
 
 #EXTINF:-1,Eska Rock TV
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 
+#EXTINF:-1,Eska Rock TV
+http://stream.smcloud.net/live2/eska_rock/eska_rock_720p/playlist.m3u8
+
 #EXTINF:-1,Eska TV
 rtmp://stream.smcloud.net/live2/eskatv/eskatv_480p
+
+#EXTINF:-1,Eska TV
+http://stream.smcloud.net/live2/eskatv/eskatv_480p/playlist.m3u8
 
 #EXTINF:-1,EXTRA
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
@@ -129,6 +156,9 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3
 #EXTINF:-1,kiss tv
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
+XTINF:-1,kiss tv
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+
 #EXTINF:-1,Kontra Channel
 http://kontratv.flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
 
@@ -150,8 +180,14 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes
 #EXTINF:0,MAD Cyprus
 rtmp://144.76.2.213/live/livestream
 
+#EXTINF:0,MAD Cyprus
+http://144.76.2.213/live/livestream/playlist.m3u8
+
 #EXTINF:-1,Melody Channel
 rtmp://186.155.200.118:1935/live/MelodyChannel
+
+#EXTINF:-1,Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 
 #EXTINF:-1,MFMTV
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
@@ -159,11 +195,17 @@ http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
 #EXTINF:-1,Music Vox TV
 rtmp://stream.smcloud.net/live/vox2/stream1
 
+#EXTINF:-1,Music Vox TV
+http://stream.smcloud.net/live/vox2/stream1/playlist.m3u8
+
 #EXTINF:0,Mute HD
 http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
 
 #EXTINF:0,NR1
 rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp
+
+#EXTINF:0,NR1
+http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
 
 #EXTINF:-1,NRJ TV
 http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
@@ -176,6 +218,9 @@ http://rtmp.one.by:1300
 
 #EXTINF:0,One.by SD
 rtmp://rtmp.one.by/SD/1muz
+
+#EXTINF:0,One.by SD
+http://rtmp.one.by/SD/1muz/playlist.m3u8
 
 #EXTINF:-1,One.by UHD
 http://rtmp.one.by:1400
@@ -192,8 +237,14 @@ http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1,Power TV
 rtmp://185.28.3.10/powertv/powertv.stream
 
+#EXTINF:-1,Power TV
+http://185.28.3.10/powertv/powertv.stream/playlist.m3u8
+
 #EXTINF:-1,Radio 105
 rtmp://fms.105.net:1935/live/105Test1#gfgyut9991.ch?token=0.861700,1.03854
+
+#EXTINF:-1,Radio 105
+http://fms.105.net:1935/live/105Test1#gfgyut9991.ch/playlist.m3u8?token=0.861700,1.03854
 
 #EXTINF:-1,Radio Italia TV
 http://cwedge.cdcache.net/cwedge/rilive/playlist.m3u8
@@ -202,7 +253,13 @@ http://cwedge.cdcache.net/cwedge/rilive/playlist.m3u8
 rtmp://fms.105.net/live//rmc1
 
 #EXTINF:-1,RADIO MONTE CARLO TV
+http://fms.105.net/live//rmc1/playlist.m3u8
+
+#EXTINF:-1,RADIO MONTE CARLO TV
 rtmp://fms.105.net:1935/live/rmc1
+
+#EXTINF:-1,RADIO MONTE CARLO TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
 #EXTINF:-1,RADIO MONTE CARLO TV
 http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
@@ -210,17 +267,20 @@ http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
 #EXTINF:-1,RETRO MUSIC
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 
-#EXTINF:0,Rfhv De
+#EXTINF:-1,RETRO MUSIC
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:0,RFH
 rtmp://62.113.210.250/medienasa-live/RFH_high
+
+#EXTINF:0,RFH
+http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
 
 #EXTINF:-1,Rrokum TV
 rtmp://82.114.65.202/live/rrokumtv
 
-#EXTINF:0,RTE 1
-http://top-iptv.zapto.org:8000/live/adem/adem/947.ts
-
-#EXTINF:0,RTE 2
-http://top-iptv.zapto.org:8000/live/adem/adem/948.ts
+#EXTINF:-1,Rrokum TV
+http://82.114.65.202/live/rrokumtv/playlist.m3u8
 
 #EXTINF:0,RTL 102,5
 http://62.65.140.214/session/24a105ae-a09f-11e5-8d18-005056bc06d1/nvnv5a/2/3010/2290000/index.m3u8
@@ -242,6 +302,9 @@ http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
 
 #EXTINF:0,TV 2/Bornholm
 rtmp://itv08.digizuite.dk/tv2b/ch1
+
+#EXTINF:0,TV 2/Bornholm
+http://itv08.digizuite.dk/tv2b/ch1/playlist.m3u8
 
 #EXTINF:0,TV 2/Lorry
 rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_2000
@@ -300,14 +363,23 @@ rtmp://fms.105.net:1935/live/virgin2
 #EXTINF:-1,VOX Old's Cool TV
 rtmp://stream.smcloud.net/live2/vox/vox_360p
 
+#EXTINF:-1,VOX Old's Cool TV
+http://stream.smcloud.net/live2/vox/vox_360p/playlist.m3u8
+
 #EXTINF:-1,WÈo
 rtmp://str81.creacast.com:80/weo/high
+
+#EXTINF:-1,WÈo
+http://str81.creacast.com:80/weo/high/playlist.m3u8
 
 #EXTINF:-1,Óčko
 http://194.79.52.76:1935/ockoi/ockoHQ1/playlist.m3u8
 
 #EXTINF:-1,ПИК ТВ
 rtmp://fms.pik-tv.com/live/piktv1pik1tv
+
+#EXTINF:-1,ПИК ТВ
+http://fms.pik-tv.com/live/piktv1pik1tv/playlist.m3u8
 
 #EXTINF:-1,ПИК ТВ HD
 http://fms.pik-tv.com:1935/live/piktv3pik3tv/playlist.m3u8
