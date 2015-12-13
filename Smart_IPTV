@@ -156,7 +156,7 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3
 #EXTINF:-1,kiss tv
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
-XTINF:-1,kiss tv
+#EXTINF:-1,kiss tv
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
 
 #EXTINF:-1,Kontra Channel
