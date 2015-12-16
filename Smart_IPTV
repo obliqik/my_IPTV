@@ -6,6 +6,9 @@ http://msk1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
 #EXTINF:0,ACTION 24
 http://stream-09.vty.dailymotion.com/32/dm/1/x2p626q/live.isml/events(live-1449888169)/live-audio=64000-video=400000.m3u8
 
+#EXTINF:0,ACTION 24
+http://stream-06.vty.dailymotion.com/07/dm/1/x2p626q/live.isml/live.m3u8?e=1450468984&st=kcjUVoVrD1kUXXSCEQswWg#cell=lvty
+
 #EXTINF:0,ANT1 Cyprus
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 
