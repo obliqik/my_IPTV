@@ -15,6 +15,18 @@ rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 #EXTINF:0,ANT1 Cyprus
 http://46.21.53.171/iwohttporigin/mp4:livestream/playlist.m3u8
 
+#EXTINF:0,BBC ALBA
+http://srv2.cdn.tvcatchup.com/bbcalba_hi.m3u8?streamKey=377f1e54d7f0604c0784cf490d0f8988-eaa233595788dfa40956c73b633cf154
+
+#EXTINF:0,BBC ONE
+http://srv2.cdn.tvcatchup.com/bbctwo_hi.m3u8?streamKey=e3fdbd8fba23096518dcbe6d8dcce8c8-34a01e4491c9437d79894760687b0c8d
+
+#EXTINF:0,BBC TWO
+http://srv1.cdn.tvcatchup.com/bbcone_hi.m3u8?streamKey=b02bc66055d52b08e8e5f8b1f4ad46b7-b7e6903b40be625b77b9e31b61b4f0e6
+
+#EXTINF:0,BBC RED BUTTON
+http://srv1.cdn.tvcatchup.com/bbcredbutton_hi.m3u8?streamKey=be4c833efd371662d544f79f90e67c2f-6c5938e5977c3dc4092f4e976cbe671a
+
 #EXTINF:0,bpm
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 
@@ -36,6 +48,9 @@ http://88.198.238.44:1935/live/bluesky/playlist.m3u8
 #EXTINF:0,BRIDGE TV
 http://109.172.11.85:1234/udp/224.0.42.7:5000
 
+#EXTINF:0,canal alpha
+http://rtmp.infomaniak.ch/livecast/canalalphaju/playlist.m3u8
+
 #EXTINF:-1,CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 
@@ -43,7 +58,10 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
 
 #EXTINF:0,Channel 4
-http://62.65.140.155/session/32e85166-a0a5-11e5-af57-005056bc49ac/nvnv5a/2/4022/4240000/index.m3u8
+http://srv2.cdn.tvcatchup.com/channel4_hi.m3u8?streamKey=c2fc429c9fd958522bf0712b23621e95-d7424467ff29839a5485dfaa296ce678
+
+#EXTINF:0,Channel 5
+http://srv1.cdn.tvcatchup.com/channel5_hi.m3u8?streamKey=3e5b69074f240b1ddafdc4824a1f355f-4495f73c37793af7ed2f804973306ff1
 
 #EXTINF:0,CITY TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
@@ -56,6 +74,9 @@ http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&pr
 
 #EXTINF:0,DANGE TV
 http://109.172.11.85:1234/udp/224.0.42.110:5000
+
+#EXTINF:0,Delta TV
+http://rtmp.infomaniak.ch/livecast/deltatv/playlist.m3u8
 
 #EXTINF:-1,DELUXE MUSIC
 http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
@@ -123,8 +144,20 @@ http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
 #EXTINF:-1,FORMUSIC.TV
 http://194.116.73.146/quartaretetv1/formusicweb/playlist.m3u8
 
+#EXTINF:-1,gulli
+http://lagardere-gulli-hls-live-10641.scdn.arkena.com/c3RhcnRfdGltZT0yMDE1MTIxODAwMDAwMCZlbmRfdGltZT0yMDE1MTIyMDAwMDAwMCZkaWdlc3Q9ZTVkMzI2OWYxMzgxOTlmZDBlOTRiNzc3YjhmMGE3YjkyOWU3MzRkZg==/gulli.isml/03.m3u8
+
 #EXTINF:-1,heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1,HOSFO TV
+http://eu.oraolive.com:8081/hosfowebtv/chunks.m3u8?nimblesessionid=599184&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAxNSA3OjA0OjQwIEFNJmhhc2hfdmFsdWU9b2x4SW9KNndDci9mRjJXbVJHZzcvZz09JnZhbGlkbWludXRlcz0xMjA=
+
+#EXTINF:-1,ILTV
+http://82.138.87.105:80/iltv/high/playlist.m3u8
+
+#EXTINF:-1,ITV 1
+http://srv1.cdn.tvcatchup.com/itvone_hi.m3u8?streamKey=daabe4ba7966509aec22610932ba0c5e-d117379f54720159fe54e0eec67c67ac
 
 #EXTINF:-1,Jasmin
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
@@ -138,8 +171,14 @@ http://kontratv.flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
 #EXTINF:0,kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 
+#EXTINF:0,Léman Bleu
+http://rtmp.infomaniak.ch/livecast/naxoo/playlist.m3u8
+
 #EXTINF:0,LAMPSI TV
 http://94.23.218.186:1935/LampsiTV/LampsiTV/playlist.m3u8
+
+#EXTINF:0,LMtv
+http://stream-06.vty.dailymotion.com/15/dm/1/xuyx0h/live.isml/events(live-1450447783)/live-audio=128000-video=1200000.m3u8
 
 #EXTINF:0,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
@@ -192,8 +231,14 @@ http://rtmp.one.by:2300
 #EXTINF:-1,ORF Sport + 
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 
+#EXTINF:-1,OÜI TÉLÉ
+http://stream-09.vty.dailymotion.com/35/dm/1/x10990v/live.isml/events(live-1450281287)/live-audio=128000-video=1200000.m3u8
+
 #EXTINF:-1,Power TV
 http://185.28.3.10/powertv/powertv.stream/playlist.m3u8
+
+#EXTINF:-1,QUEST
+http://srv1.cdn.tvcatchup.com/quest_hi.m3u8?streamKey=2ba6d8876d3ac34ac8df57084df8814e-76953609577eb06b9668b61a21f8d712
 
 #EXTINF:-1,Radio 105
 http://fms.105.net:1935/live/105Test1#gfgyut9991.ch/playlist.m3u8?token=0.861700,1.03854
@@ -222,17 +267,41 @@ http://82.114.65.202/live/rrokumtv/playlist.m3u8
 #EXTINF:0,RTL 102,5
 http://62.65.140.214/session/24a105ae-a09f-11e5-8d18-005056bc06d1/nvnv5a/2/3010/2290000/index.m3u8
 
+#EXTINF:0,S4C
+http://srv2.cdn.tvcatchup.com/s4c_hi.m3u8?streamKey=807efcde399e74127ac7fd3fee40c269-47bf8e0aabe39d6bcf67c3c645484628
+
+#EXTINF:0,SCHWEIZ 5
+rtmp://194.29.5.2:80/live//myStream
+
 #EXTINF:0,Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 
 #EXTINF:0,SIGMA
 http://81.21.47.74/hls/live.m3u8
 
+#EXTINF:0,subtv
+http://srv1.cdn.tvcatchup.com/subtv_hi.m3u8?streamKey=cd7c36a1068aab9aa46b1c7a038f9af1-ed255fac66304469176b3331e58b45dc
+
 #EXTINF:0,Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 
+#EXTINF:0,TeleBärn
+http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_0mc3z57p_all.smil/chunklist_b846000.m3u8
+
+#EXTINF:0,telebasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/1000199copo/live/app510394368/w162136077/live_de_500/playlist.m3u8
+
+#EXTINF:0,Télé M1
+http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_ljzy3evp_all.smil/chunklist_b846000.m3u8
+
 #EXTINF:-1,TELE MUSICA
 http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
+
+#EXTINF:-1,TeleZüri
+http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_hoislpiz_all.smil/chunklist_b846000.m3u8
+
+#EXTINF:-1,TG4
+http://csm-e-usc1-9.cds1.yospace.com/csm/live/74246610/4.m3u8;jsessionid=0E9101804370877CA8111E037E241CEB.csm-e-usc1-9.cds1.yospace.com?yo.ac=true
 
 #EXTINF:0,TV 2/Bornholm
 http://itv08.digizuite.dk/tv2b/ch1/playlist.m3u8
@@ -288,6 +357,9 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 #EXTINF:0,Virgin Radio TV
 rtmp://fms.105.net:1935/live/virgin2
 
+#EXTINF:0,VIVA
+http://srv1.cdn.tvcatchup.com/viva_hi.m3u8?streamKey=8ec2aee505187265e85917c182c8778c-a435c020124bb43cadd7e18b1eab9b9e
+
 #EXTINF:-1,VOX Old's Cool TV
 http://stream.smcloud.net/live2/vox/vox_360p/playlist.m3u8
 
@@ -308,3 +380,7 @@ http://fms.pik-tv.com/live/piktv1pik1tv/playlist.m3u8
 
 #EXTINF:-1,ПИК ТВ HD
 http://fms.pik-tv.com:1935/live/piktv3pik3tv/playlist.m3u8
+
+
+
+
