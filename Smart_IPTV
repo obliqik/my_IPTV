@@ -72,6 +72,9 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w171562
 #EXTINF:-1,CLUBLAND
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
+#EXTINF:-1,CLUBLAND
+http://ngx.cr2.streamzilla.xlcdn.com/session/1bf6254a19129514da681c372d7c800d/sz/AATW/wowza4/live/clublandtv/chunklist.m3u8
+
 #EXTINF:0,DANGE TV
 http://109.172.11.85:1234/udp/224.0.42.110:5000
 
@@ -138,6 +141,9 @@ rtmp://213.16.167.186:1935/live/mpegts_256.stream
 #EXTINF:-1,Flash TV
 rtsp://188.165.224.142:1935/radioflash/radioflash
 
+#EXTINF:-1,FLAVA
+http://tvhosa-pez0204.oft.ondemand.prd.sctv.ch/hls/HIKEFAAAGCEIJHGF.m3u8/Level(4)
+
 #EXTINF:-1,FORMUSIC.TV
 http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
 
@@ -149,6 +155,9 @@ http://lagardere-gulli-hls-live-10641.scdn.arkena.com/c3RhcnRfdGltZT0yMDE1MTIxOD
 
 #EXTINF:-1,heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1,heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,HOSFO TV
 http://eu.oraolive.com:8081/hosfowebtv/chunks.m3u8?nimblesessionid=599184&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAxNSA3OjA0OjQwIEFNJmhhc2hfdmFsdWU9b2x4SW9KNndDci9mRjJXbVJHZzcvZz09JnZhbGlkbWludXRlcz0xMjA=
@@ -162,8 +171,14 @@ http://srv1.cdn.tvcatchup.com/itvone_hi.m3u8?streamKey=daabe4ba7966509aec2261093
 #EXTINF:-1,Jasmin
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 
+#EXTINF:-1,KISS
+http://tvhosa-pez0108.oft.ondemand.prd.sctv.ch/hls/PAIHFAAAINFIJHGF.m3u8/Level(4)
+
 #EXTINF:-1,kisstv
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+
+#EXTINF:-1,kisstv
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chunklist_w1310482678.m3u8
 
 #EXTINF:-1,kontra
 http://kontratv.flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
@@ -198,8 +213,14 @@ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1,MFMTV
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
 
+#EXTINF:-1,MTV
+http://tvhosa-pez0204.oft.ondemand.prd.sctv.ch/hls/PCFFFAAAKOFIJHGF.m3u8/Level(4)
+
 #EXTINF:-1,Music Vox TV
 http://stream.smcloud.net/live/vox2/stream1/playlist.m3u8
+
+#EXTINF:-1,Music Vox TV
+http://s4w.deb1.scdn.smcloud.net/live/vox2/stream1/chunklist_w183889425.m3u8
 
 #EXTINF:0,Mute HD
 http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
@@ -234,6 +255,9 @@ http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1,OÜI TÉLÉ
 http://stream-09.vty.dailymotion.com/35/dm/1/x10990v/live.isml/events(live-1450281287)/live-audio=128000-video=1200000.m3u8
 
+#EXTINF:-1,polo tv
+http://s4w.deb1.scdn.smcloud.net/live/_definst_/polotv/chunklist_w421222378.m3u8
+
 #EXTINF:-1,Power TV
 http://185.28.3.10/powertv/powertv.stream/playlist.m3u8
 
@@ -252,6 +276,9 @@ http://fms.105.net/live//rmc1/playlist.m3u8
 #EXTINF:-1,RADIO MONTE CARLO TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
+#EXTINF:-1,RADIO MONTE CARLO TV
+http://fms.105.net/live/rmc1/chunklist_w1090056675.m3u8
+
 #EXTINF:-1,RMC
 http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
 
@@ -260,6 +287,9 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:0,RFH
 http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
+
+#EXTINF:0,rouge tv hd
+http://rtmp.infomaniak.ch/livecast/rougetv/chunklist_w312110630.m3u8
 
 #EXTINF:-1,Rrokum TV
 http://82.114.65.202/live/rrokumtv/playlist.m3u8
@@ -285,6 +315,9 @@ http://srv1.cdn.tvcatchup.com/subtv_hi.m3u8?streamKey=cd7c36a1068aab9aa46b1c7a03
 #EXTINF:0,Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 
+#EXTINF:0,Super Sonic TV
+http://str103.setplex.net:1935/228/stv_online/playlist.m3u8?wowzasessionid=62931279
+
 #EXTINF:0,TeleBärn
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_0mc3z57p_all.smil/chunklist_b846000.m3u8
 
@@ -302,6 +335,9 @@ http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_hoislpiz_al
 
 #EXTINF:-1,TG4
 http://csm-e-usc1-9.cds1.yospace.com/csm/live/74246610/4.m3u8;jsessionid=0E9101804370877CA8111E037E241CEB.csm-e-usc1-9.cds1.yospace.com?yo.ac=true
+
+#EXTINF:-1,THE BOX
+http://tvhosa-pez0207.oft.ondemand.prd.sctv.ch/hls/JKEFFAAAENFIJHGF.m3u8/Level(4)
 
 #EXTINF:0,TV 2/Bornholm
 http://itv08.digizuite.dk/tv2b/ch1/playlist.m3u8
@@ -330,6 +366,9 @@ http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8
 #EXTINF:-1,tvm3
 http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
 
+#EXTINF:-1,tvm3
+http://rtmp.infomaniak.ch/livecast/tvm3/chunklist_w1655634859.m3u8
+
 #EXTINF:-1,U
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
 
@@ -356,6 +395,9 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 #EXTINF:0,Virgin Radio TV
 rtmp://fms.105.net:1935/live/virgin2
+
+#EXTINF:-1,Virgin Radio TV
+http://fms.105.net:1935/live/virgin1/chunklist_w1247822433.m3u8
 
 #EXTINF:0,VIVA
 http://srv1.cdn.tvcatchup.com/viva_hi.m3u8?streamKey=8ec2aee505187265e85917c182c8778c-a435c020124bb43cadd7e18b1eab9b9e
