@@ -201,7 +201,7 @@ http://s4w.deb1.scdn.smcloud.net/live/_definst_/polotv/chunklist_w421222378.m3u8
 #EXTINF:-1,Power TV
 http://185.28.3.10/powertv/powertv.stream/playlist.m3u8
 
-#EXTINF:-1, Radio 105 TV
+#EXTINF:-1,Radio 105 TV
 rtmp://fms.105.net/live/105Test1
 
 #EXTINF:-1,Radio Italia TV
@@ -228,7 +228,7 @@ http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
 #EXTINF:0,rouge tv hd
 http://rtmp.infomaniak.ch/livecast/rougetv/chunklist_w312110630.m3u8
 
-#EXTINF:-1 RTL 102.5 TV
+#EXTINF:-1,RTL 102.5 TV
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
 
 #EXTINF:0,SCHWEIZ 5
