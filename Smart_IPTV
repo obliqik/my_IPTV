@@ -45,10 +45,10 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 #EXTINF:-1,cielo
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
 
-#EXTINF:0,CITY radio TV
+#EXTINF:0,CITY
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
 
-#EXTINF:0,CITY radio TV
+#EXTINF:0,CITY
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w1715628851.m3u8
 
 #EXTINF:-1,CLUBLAND
