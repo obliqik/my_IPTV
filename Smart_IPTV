@@ -63,12 +63,6 @@ http://91.204.214.106:23101/stolen/054n/worm.exe
 #EXTINF:-1,BT Sport Europe
 http://91.204.214.106:23101/stolen/057c/worm.exe
 
-#EXTINF:-1,Canal+ Sport HD
-http://91.204.214.106:23311/stolen/451x/backdoor.hfs
-
-#EXTINF:-1,Canal+ Sport 2 HD
-http://91.204.214.106:23311/stolen/450z/backdoor.hfs
-
 #EXTINF:0,canal alpha
 http://rtmp.infomaniak.ch/livecast/canalalphaju/playlist.m3u8
 
