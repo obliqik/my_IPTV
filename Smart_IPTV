@@ -168,6 +168,9 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-b.m
 #EXTINF:-1,ILTV
 http://82.138.87.105:80/iltv/high/playlist.m3u8
 
+#EXTINF:0,JAYZEE
+http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+
 #EXTINF:-1,Jasmin
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 
@@ -197,6 +200,9 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 #EXTINF:0,m2o
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+#EXTINF:0,MAD Cyprus
+rtmp://144.76.2.213/live/livestream
 
 #EXTINF:-1,MCM TOP
 http://91.204.214.106:23241/stolen/289i/nuclear.msi
