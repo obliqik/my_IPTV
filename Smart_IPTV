@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:0,A-One
+#EXTINF:0,A-one hip-hop
 http://msk1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
+
+#EXTINF:-1,A-one hip-hop 
+http://91.204.214.106:23181/stolen/187n/formatc.start
 
 #EXTINF:0,ACTION 24
 http://stream-04.vty.dailymotion.com/35/dm/1/x2p626q/live.isml/events(live-1450880082)/live-audio=64000-video=400000.m3u8
@@ -11,6 +14,21 @@ rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 
 #EXTINF:0,ANT1 Cyprus
 http://46.21.53.171/iwohttporigin/mp4:livestream/playlist.m3u8
+
+#EXTINF:-1,Arena Sport 1 HD
+http://91.204.214.106:23201/stolen/268u/xenixos.7z
+
+#EXTINF:-1,Arena Sport 2 HD
+http://91.204.214.106:23181/stolen/225e/formatc.start
+
+#EXTINF:-1,Arena Sport 3 HD
+http://91.204.214.106:23201/stolen/265r/xenixos.7z
+
+#EXTINF:-1,Arena Sport 4 HD 
+http://91.204.214.106:23201/stolen/266t/xenixos.7z 
+
+#EXTINF:-1,Arena Sport 5 HD 
+http://91.204.214.106:23201/stolen/269i/xenixos.7z 
 
 #EXTINF:0,bpm
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
@@ -30,8 +48,26 @@ http://bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 #EXTINF:0,BLUE SKY
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
 
-#EXTINF:0,BRIDGE TV
+#EXTINF:0,BRiDGE TV
 http://109.172.11.85:1234/udp/224.0.42.7:5000
+
+#EXTINF:-1,BRiDGE TV
+http://91.204.214.106:23361/stolen/udp/238.0.17.105:1234
+
+#EXTINF:-1,BT Sport 1
+http://91.204.214.106:23101/stolen/053e/worm.exe
+
+#EXTINF:-1,BT Sport 2
+http://91.204.214.106:23101/stolen/054n/worm.exe
+
+#EXTINF:-1,BT Sport Europe
+http://91.204.214.106:23101/stolen/057c/worm.exe
+
+#EXTINF:-1,Canal+ Sport HD
+http://91.204.214.106:23311/stolen/451x/backdoor.hfs
+
+#EXTINF:-1,Canal+ Sport 2 HD
+http://91.204.214.106:23311/stolen/450z/backdoor.hfs
 
 #EXTINF:0,canal alpha
 http://rtmp.infomaniak.ch/livecast/canalalphaju/playlist.m3u8
@@ -117,6 +153,9 @@ http://stream.smcloud.net/live2/eskatv/eskatv_480p/playlist.m3u8
 #EXTINF:-1,EXTRA
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
 
+#EXTINF:-1,Fight Box HD
+http://91.204.214.106:23371/stolen/026/duqu
+
 #EXTINF:-1,FORMUSIC.TV
 http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
 
@@ -162,8 +201,20 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 #EXTINF:0,m2o
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
+#EXTINF:-1,MCM TOP
+http://91.204.214.106:23241/stolen/289i/nuclear.msi
+
 #EXTINF:-1,MFMTV
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+
+#EXTINF:-1,MTV DANCE
+http://91.204.214.106:23221/stolen/248c/lenart.iso
+
+#EXTINF:-1,MTV LIVE HD
+http://91.204.214.106:23271/stolen/355f/boom.xar
+
+#EXTINF:-1,MTV ROCKS
+http://91.204.214.106:23221/stolen/249i/lenart.iso
 
 #EXTINF:-1,Music Vox TV
 http://stream.smcloud.net/live/vox2/stream1/playlist.m3u8
@@ -218,6 +269,9 @@ http://fms.105.net/live/rmc1/chunklist_w1090056675.m3u8
 
 #EXTINF:-1,RADIO MONTE CARLO TV
 http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
+
+#EXTINF:-1,Radio Norba
+http://91.204.214.106:23291/stolen/387r/hot.dll
 
 #EXTINF:-1,RETRO MUSIC
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
