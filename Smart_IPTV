@@ -276,6 +276,9 @@ http://91.204.214.106:23291/stolen/387r/hot.dll
 #EXTINF:-1,RETRO MUSIC
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
+#EXTINF:-1,RETRO MUSIC
+http://81.201.52.159:8018
+
 #EXTINF:0,RFH
 http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
 
