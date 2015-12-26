@@ -162,6 +162,9 @@ http://194.116.73.146/quartaretetv1/formusicweb/playlist.m3u8
 #EXTINF:-1,heart tv
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
+#EXTINF:-1,go
+http://91.204.214.106:23371/stolen/udp/238.0.0.173:1234
+
 #EXTINF:-1,heart tv
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-b.m3u8?sd=10&rebase=on
 
@@ -195,11 +198,17 @@ http://94.23.218.186:1935/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:0,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
+#EXTINF:0,M1
+http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_ljzy3evp_all.smil/chunklist_b846000.m3u8
+
 #EXTINF:-1,m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:0,m2o
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+#EXTINF:-1,M6 Swiss
+http://91.204.214.106:23181/stolen/161z/formatc.start
 
 #EXTINF:0,MAD Cyprus
 rtmp://144.76.2.213/live/livestream
@@ -308,9 +317,6 @@ http://str103.setplex.net:1935/228/stv_online/playlist.m3u8?wowzasessionid=62931
 
 #EXTINF:0,TeleBärn
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_0mc3z57p_all.smil/chunklist_b846000.m3u8
-
-#EXTINF:0,M1
-http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_ljzy3evp_all.smil/chunklist_b846000.m3u8
 
 #EXTINF:-1,TeleZüri
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_hoislpiz_all.smil/chunklist_b846000.m3u8
