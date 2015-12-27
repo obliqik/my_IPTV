@@ -177,6 +177,9 @@ http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 #EXTINF:-1,Jasmin
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 
+#EXTINF:-1,kiss
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
 #EXTINF:-1,kisstv
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
 
@@ -198,6 +201,9 @@ http://94.23.218.186:1935/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:0,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
+#EXTINF:0,M TUNES
+http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8
+
 #EXTINF:0,M1
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_ljzy3evp_all.smil/chunklist_b846000.m3u8
 
@@ -218,6 +224,9 @@ http://91.204.214.106:23241/stolen/289i/nuclear.msi
 
 #EXTINF:-1,MFMTV
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+
+#EXTINF:-1,MTV HD
+http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r183857sd2500000/efe4541060c00fccc01e8c068fce4f5ab911d969/playlist.m3u8
 
 #EXTINF:-1,MTV DANCE
 http://91.204.214.106:23221/stolen/248c/lenart.iso
@@ -260,6 +269,9 @@ http://rtmp.one.by:2300
 
 #EXTINF:-1,polo tv
 http://s4w.deb1.scdn.smcloud.net/live/_definst_/polotv/chunklist_w421222378.m3u8
+
+#EXTINF:-1,POP HD
+http://91.201.78.3:1935/live/pophd/playlist.m3u8?publisher=1
 
 #EXTINF:-1,Power TV
 http://185.28.3.10/powertv/powertv.stream/playlist.m3u8
@@ -366,6 +378,9 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1,VH1 Classic
 http://iptvcanales.com/xw/cable.php?canal=96&player=playlist.m3u8
 
+#EXTINF:-1,VH1 Classic
+http://212.79.96.134:8024
+
 #EXTINF:0,Virgin Radio TV
 http://wow01.105.net/live/virgin1/chunklist.m3u8
 
@@ -389,6 +404,9 @@ rtmp://str81.creacast.com:80/weo/high
 
 #EXTINF:-1,WÈo
 http://str81.creacast.com:80/weo/high/playlist.m3u8
+
+#EXTINF:-1,WÈo HD
+rtmp://str81.creacast.com:80/weo/high
 
 #EXTINF:-1,Óčko
 http://194.79.52.76:1935/ockoi/ockoHQ1/playlist.m3u8
