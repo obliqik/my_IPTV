@@ -2,36 +2,15 @@
 
 #EXTINF:0,A-one hip-hop
 http://msk1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
-
-#EXTINF:-1,A-one hip-hop 
-http://91.204.214.106:23181/stolen/187n/formatc.start
-
+ 
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 #EXTINF:0,ACTION 24
-http://stream-04.vty.dailymotion.com/35/dm/1/x2p626q/live.isml/events(live-1450880082)/live-audio=64000-video=400000.m3u8
+http://stream-07.vty.dailymotion.com/32/dm/1/x2p626q/live.isml/events(live-1451335365)/live-audio=64000-video=400000.m3u8
 
 #EXTINF:0,ANT1 Cyprus
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
-
-#EXTINF:0,ANT1 Cyprus
-http://46.21.53.171/iwohttporigin/mp4:livestream/playlist.m3u8
-
-#EXTINF:-1,Arena Sport 1 HD
-http://91.204.214.106:23201/stolen/268u/xenixos.7z
-
-#EXTINF:-1,Arena Sport 2 HD
-http://91.204.214.106:23181/stolen/225e/formatc.start
-
-#EXTINF:-1,Arena Sport 3 HD
-http://91.204.214.106:23201/stolen/265r/xenixos.7z
-
-#EXTINF:-1,Arena Sport 4 HD 
-http://91.204.214.106:23201/stolen/266t/xenixos.7z 
-
-#EXTINF:-1,Arena Sport 5 HD 
-http://91.204.214.106:23201/stolen/269i/xenixos.7z 
 
 #EXTINF:0,bpm
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
@@ -51,21 +30,6 @@ http://bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 #EXTINF:0,BLUE SKY
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
 
-#EXTINF:0,BRiDGE TV
-http://109.172.11.85:1234/udp/224.0.42.7:5000
-
-#EXTINF:-1,BRiDGE TV
-http://91.204.214.106:23361/stolen/udp/238.0.17.105:1234
-
-#EXTINF:-1,BT Sport 1
-http://91.204.214.106:23101/stolen/053e/worm.exe
-
-#EXTINF:-1,BT Sport 2
-http://91.204.214.106:23101/stolen/054n/worm.exe
-
-#EXTINF:-1,BT Sport Europe
-http://91.204.214.106:23101/stolen/057c/worm.exe
-
 #EXTINF:0,canal alpha
 http://rtmp.infomaniak.ch/livecast/canalalphaju/playlist.m3u8
 
@@ -84,11 +48,14 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
 #EXTINF:0,CITY
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w1715628851.m3u8
 
+#EXTINF:0,CITY
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
+
 #EXTINF:-1,CLUBLAND
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
-#EXTINF:0,DANGE TV
-http://109.172.11.85:1234/udp/224.0.42.110:5000
+#EXTINF:0,CT
+rtmp://80.245.113.12/live/pubtalk1
 
 #EXTINF:0,Delta TV
 http://rtmp.infomaniak.ch/livecast/deltatv/playlist.m3u8
@@ -168,23 +135,23 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1,heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:-1,HIT TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1,HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+
+#EXTINF:-1,HIT TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
 #EXTINF:-1,ILTV
 http://82.138.87.105:80/iltv/high/playlist.m3u8
 
 #EXTINF:0,JAYZEE
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 
-#EXTINF:-1,Jasmin
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-
-#EXTINF:-1,kiss
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-
-#EXTINF:-1,kisstv
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
-
-#EXTINF:-1,kisstv
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chunklist_w1310482678.m3u8
+#EXTINF:-1,JUCE TV HD
+http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
 
 #EXTINF:-1,kontra
 http://kontratv.flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
