@@ -255,9 +255,6 @@ http://fms.105.net/live/rmc1/chunklist_w1090056675.m3u8
 #EXTINF:-1,RADIO MONTE CARLO TV
 http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
 
-#EXTINF:-1,Radio Norba
-http://91.204.214.106:23291/stolen/387r/hot.dll
-
 #EXTINF:-1,RETRO MUSIC
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
@@ -279,9 +276,6 @@ rtmp://194.29.5.2:80/live//myStream
 #EXTINF:0,Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 
-#EXTINF:0,SIGMA
-http://81.21.47.74/hls/live.m3u8
-
 #EXTINF:0,Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 
@@ -293,9 +287,6 @@ http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_0mc3z57p_al
 
 #EXTINF:0,Tele M1
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_ljzy3evp_all.smil/chunklist_b846000.m3u8
-
-#EXTINF:-1,Tele Züri
-http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_hoislpiz_all.smil/chunklist_b846000.m3u8
 
 #EXTINF:0,TV 2/Bornholm
 http://itv08.digizuite.dk/tv2b/ch1/playlist.m3u8
