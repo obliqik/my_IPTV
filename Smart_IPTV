@@ -12,6 +12,9 @@ http://stream-07.vty.dailymotion.com/32/dm/1/x2p626q/live.isml/events(live-14513
 #EXTINF:0,ANT1 Cyprus
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 
+#EXTINF:0,ANT1 Cyprus
+http://46.21.53.171/iwohttporigin/mp4:livestream/playlist.m3u8
+
 #EXTINF:0,bpm
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 
