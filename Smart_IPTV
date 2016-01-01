@@ -63,9 +63,6 @@ http://rtmp.infomaniak.ch/livecast/deltatv/playlist.m3u8
 #EXTINF:-1,DELUXE MUSIC
 http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
 
-#EXTINF:-1,DELUXE MUSIC
-http://lstv1.hls1.stream-server.org/live/ard@sd/index.m3u8
-
 #EXTINF:-1, Digi Sport 1
 http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
 
