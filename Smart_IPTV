@@ -57,9 +57,6 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
 #EXTINF:-1,CLUBLAND
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
-#EXTINF:0,CT
-rtmp://80.245.113.12/live/pubtalk1
-
 #EXTINF:0,Delta TV
 http://rtmp.infomaniak.ch/livecast/deltatv/playlist.m3u8
 
@@ -131,9 +128,6 @@ http://stream.smcloud.net/live2/eskatv/eskatv_480p/playlist.m3u8
 
 #EXTINF:-1,EXTRA
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
-
-#EXTINF:-1,Fight Box HD
-http://91.204.214.106:23371/stolen/026/duqu
 
 #EXTINF:-1,FORMUSIC.TV
 http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
