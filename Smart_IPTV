@@ -171,7 +171,7 @@ http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 #EXTINF:-1,JUCE TV HD
 http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
 
-#EXTINF:-1, Kiss Tv
+#EXTINF:-1,Kiss Tv
 http://82.76.249.81/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
 
 #EXTINF:-1,kontra
@@ -191,9 +191,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
 #EXTINF:0,M TUNES
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8
-
-#EXTINF:0,Tele M1
-http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_ljzy3evp_all.smil/chunklist_b846000.m3u8
 
 #EXTINF:-1,m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
@@ -315,10 +312,13 @@ http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 #EXTINF:0,Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8?wowzasessionid=62931279
 
-#EXTINF:0,TeleBärn
+#EXTINF:0,Tele Bärn
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_0mc3z57p_all.smil/chunklist_b846000.m3u8
 
-#EXTINF:-1,TeleZüri
+#EXTINF:0,Tele M1
+http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_ljzy3evp_all.smil/chunklist_b846000.m3u8
+
+#EXTINF:-1,Tele Züri
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_hoislpiz_all.smil/chunklist_b846000.m3u8
 
 #EXTINF:0,TV 2/Bornholm
