@@ -135,9 +135,6 @@ http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
 #EXTINF:-1,FORMUSIC.TV
 http://194.116.73.146/quartaretetv1/formusicweb/playlist.m3u8
 
-#EXTINF:-1,go
-http://91.204.214.106:23371/stolen/udp/238.0.0.173:1234
-
 #EXTINF:-1,heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
@@ -189,32 +186,17 @@ http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8
 #EXTINF:-1,m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:0,m2o
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-
 #EXTINF:-1,M6 Swiss
-http://91.204.214.106:23181/stolen/161z/formatc.start
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
 #EXTINF:0,MAD Cyprus
 rtmp://144.76.2.213/live/livestream
-
-#EXTINF:-1,MCM TOP
-http://91.204.214.106:23241/stolen/289i/nuclear.msi
 
 #EXTINF:-1,MFMTV
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
 
 #EXTINF:-1,MTV HD
 http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r183857sd2500000/efe4541060c00fccc01e8c068fce4f5ab911d969/playlist.m3u8
-
-#EXTINF:-1,MTV DANCE
-http://91.204.214.106:23221/stolen/248c/lenart.iso
-
-#EXTINF:-1,MTV LIVE HD
-http://91.204.214.106:23271/stolen/355f/boom.xar
-
-#EXTINF:-1,MTV ROCKS
-http://91.204.214.106:23221/stolen/249i/lenart.iso
 
 #EXTINF:-1,Music Vox TV
 http://stream.smcloud.net/live/vox2/stream1/playlist.m3u8
