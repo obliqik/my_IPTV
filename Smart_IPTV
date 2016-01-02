@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1,A-one
+http://91.204.214.106:23201/stolen/209i/xenixos.7z
+
+#EXTINF:-1,A-one hip-hop
+http://91.204.214.106:23181/stolen/187n/formatc.start
+
 #EXTINF:0,A-one hip-hop
 http://msk1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
  
@@ -299,6 +305,18 @@ rtmp://194.29.5.2:80/live//myStream
 
 #EXTINF:0,Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+
+#EXTINF:0,Sky SPORTS 1
+http://144.76.3.83/sky_sports1gb.m3u8?token=fd08446a425d2c492505cc973e0ba074&user=41166&bands=956
+
+#EXTINF:0,Sky SPORTS 2
+http://144.76.3.83/sky_sports2gb.m3u8?token=27549478605c2e9d28debee3fb65bb39&user=41166&bands=956
+
+#EXTINF:0,Sky SPORTS 3
+http://144.76.3.83/sky_sports3gb.m3u8?token=f663571502c473b739fa94db15303a11&user=41166&bands=956
+
+#EXTINF:0,Sky SPORTS 4
+http://144.76.3.83/sky_sports4gb.m3u8?token=579da107ce043898bd207427f873a672&user=41166&bands=956
 
 #EXTINF:0,Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
