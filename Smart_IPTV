@@ -135,6 +135,12 @@ http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
 #EXTINF:-1,FORMUSIC.TV
 http://194.116.73.146/quartaretetv1/formusicweb/playlist.m3u8
 
+#EXTINF:-1,FORMUSIC.TV
+http://194.116.73.146:1935/quartaretetv1/formusicweb/live.m3u8
+
+#EXTINF:-1,FORMUSIC.TV
+http://wowza1.top-ix.org:1935/quartaretetv1/formusicweb/live.m3u8
+
 #EXTINF:-1,heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
@@ -186,6 +192,12 @@ http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8
 #EXTINF:-1,m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:-1,m2o
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1,m2o
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+
 #EXTINF:-1,M6 Swiss
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
@@ -228,6 +240,12 @@ http://rtmp.one.by:2200
 #EXTINF:-1,One.by Россия HD
 http://rtmp.one.by:2300
 
+#EXTINF:-1,OTTO 8 FM TV
+http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8
+
+#EXTINF:-1,OTTO 8 FM TV
+http://live.youiptv.ch:1935/8FM/8FM/livestream.m3u8
+
 #EXTINF:-1,polo tv
 http://s4w.deb1.scdn.smcloud.net/live/_definst_/polotv/chunklist_w421222378.m3u8
 
@@ -255,6 +273,9 @@ http://fms.105.net/live/rmc1/chunklist_w1090056675.m3u8
 #EXTINF:-1,RADIO MONTE CARLO TV
 http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
 
+#EXTINF:-1,RADIONORBA TV
+http://85.17.80.132:1935/radionorbatv/norbatv_source.stream/live.m3u8
+
 #EXTINF:-1,RETRO MUSIC
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
@@ -269,6 +290,9 @@ http://rtmp.infomaniak.ch/livecast/rougetv/chunklist_w312110630.m3u8
 
 #EXTINF:-1,RTL 102.5 TV
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
+
+#EXTINF:-1,RTL 102.5 TV
+http://origin-rtl-radio-stream.4mecloud.it:80/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
 
 #EXTINF:0,SCHWEIZ 5
 rtmp://194.29.5.2:80/live//myStream
@@ -347,6 +371,12 @@ rtmp://fms.105.net:1935/live/virgin2
 
 #EXTINF:-1,Virgin Radio TV
 http://fms.105.net:1935/live/virgin1/chunklist_w1247822433.m3u8
+
+#EXTINF:-1,VISUAL RADIO
+http://fms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+
+#EXTINF:-1,VISUAL RADIO
+http://fms.shared.streamshow.it:1935/visualradio/visualradio_mobile/live.m3u8
 
 #EXTINF:-1,VOX Old's Cool TV
 http://stream.smcloud.net/live2/vox/vox_360p/playlist.m3u8
