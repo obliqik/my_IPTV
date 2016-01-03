@@ -21,6 +21,12 @@ rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 #EXTINF:0,ANT1 Cyprus
 http://46.21.53.171/iwohttporigin/mp4:livestream/playlist.m3u8
 
+#EXTINF:0,BBC ONE
+http://vs-hls-uk-live.edgesuite.net/pool_4/live/bbc_one_london/bbc_one_london.isml/bbc_one_london-pa3%3d96000-video%3d1604000.norewind.m3u8
+
+#EXTINF:0,BBC TWO
+http://ic.053f91a4.05a298.vs-hls-uk-live.bbcfmt.vo.llnwi.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
+
 #EXTINF:0,bpm
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 
@@ -48,8 +54,14 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 #EXTINF:0,CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
 
+#EXTINF:0,CBBC
+http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
+
 #EXTINF:-1,cielo
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
+
+#EXTINF:-1,CITV
+http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
 
 #EXTINF:0,CITY
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
@@ -168,6 +180,18 @@ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1,ILTV
 http://82.138.87.105:80/iltv/high/playlist.m3u8
 
+#EXTINF:-1,ITV
+http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1200.m3u8
+
+#EXTINF:-1,ITV3
+http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
+
+#EXTINF:-1,ITV4
+http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
+
+#EXTINF:-1,ITVBe
+http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
+
 #EXTINF:0,JAYZEE
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 
@@ -246,7 +270,7 @@ http://rtmp.one.by:2200
 #EXTINF:-1,One.by Россия HD
 http://rtmp.one.by:2300
 
-#EXTINF:-1,OTTO 8 FM TV
+#EXTINF:-1,OTTO FM TV
 http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8
 
 #EXTINF:-1,OTTO 8 FM TV
