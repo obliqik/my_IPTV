@@ -273,7 +273,7 @@ http://rtmp.one.by:2300
 #EXTINF:-1,OTTO FM TV
 http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8
 
-#EXTINF:-1,OTTO 8 FM TV
+#EXTINF:-1,OTTO FM TV
 http://live.youiptv.ch:1935/8FM/8FM/livestream.m3u8
 
 #EXTINF:-1,polo tv
