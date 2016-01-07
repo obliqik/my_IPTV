@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1,24Corren
+http://ntmlive.lwcdn.com/cf-live/a4cc99dc-fd89-4bc1-bb04-259dafe0224d/chunklist.m3u8
+
+#EXTINF:-1,24Norrbotten
+http://ntmlive.lwcdn.com/cf-live/bf9fcf3f-fdcc-4206-8709-7cab2b693567/chunklist.m3u8
+
+#EXTINF:-1,24 nt
+http://ntmlive.lwcdn.com/cf-live/9ddc60d7-0ed1-44e0-a3c5-fe77f771556e/chunklist.m3u8
+
+#EXTINF:-1,24UNT.
+http://ntmlive.lwcdn.com/cf-live/b009353e-fd72-4525-806a-833be59976bd/chunklist.m3u8
+
 #EXTINF:-1,A-one
 http://91.204.214.106:23201/stolen/209i/xenixos.7z
 
@@ -14,6 +26,9 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 #EXTINF:0,ACTION 24
 http://stream-07.vty.dailymotion.com/32/dm/1/x2p626q/live.isml/events(live-1451335365)/live-audio=64000-video=400000.m3u8
+
+#EXTINF:0,The Active Channel
+http://sb0hfynwcdzkxs.rtmphost.com/vod/mp4:StreetDance2webpart2.mp4/playlist.m3u8
 
 #EXTINF:0,ANT1 Cyprus
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
@@ -45,8 +60,17 @@ http://bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 #EXTINF:0,BLUE SKY
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
 
+#EXTINF:0,canal 9
+http://rtmp.infomaniak.ch/livecast/livehd/playlist.m3u8
+
 #EXTINF:0,canal alpha
 http://rtmp.infomaniak.ch/livecast/canalalphaju/playlist.m3u8
+
+#EXTINF:0,Canal C
+http://streaming06.axeweb.be:1935/canalc_live/_definst_/live.stream/chunklist_w643589610.m3u8
+
+#EXTINF:0,Canal Zoom
+http://streaming06.axeweb.be:1935/canalzoom_live/_definst_/live.stream/chunklist_w1139540045.m3u8
 
 #EXTINF:-1,CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
@@ -74,6 +98,12 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
 
 #EXTINF:-1,CLUBLAND
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,CLUBLAND
+http://wos.cr2.streamzilla.xlcdn.com/live/_definst_//sz=AATW=clublandtv/playlist.m3u8?token=1cf4e62480f08e6e4416cde1a896236d&time=568e976e
+
+#EXTINF:-1,Cúla4
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4689285423001&pubId=1290862567001&videoId=4689267805001
 
 #EXTINF:0,Delta TV
 http://rtmp.infomaniak.ch/livecast/deltatv/playlist.m3u8
@@ -108,6 +138,9 @@ http://www.djing.com/tv/d-05.m3u8
 #EXTINF:-1,DJING Underground HD
 http://www.djing.com/tv/u-05.m3u8
 
+#EXTINF:-1,dorf tv
+http://dorf.openplayout.org/hls/dorf_high/index.m3u8
+
 #EXTINF:-1,DR1
 http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8?b=100-2000
 
@@ -117,7 +150,7 @@ http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8?b=100-2000
 #EXTINF:-1,DR3
 http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8?b=100-1600
 
-#EXTINF:-1,DRk
+#EXTINF:-1,DR k
 http://dr04-lh.akamaihd.net/i/dr04_0@147057/master.m3u8?b=100-1600
 
 #EXTINF:-1,DR RamaSjang
@@ -159,8 +192,14 @@ http://194.116.73.146/quartaretetv1/formusicweb/playlist.m3u8
 #EXTINF:-1,FORMUSIC.TV
 http://194.116.73.146:1935/quartaretetv1/formusicweb/live.m3u8
 
+#EXTINF:-1,FS1
+http://stream.fs1.tv/small//livestream/playlist.m3u8
+
 #EXTINF:-1,FORMUSIC.TV
 http://wowza1.top-ix.org:1935/quartaretetv1/formusicweb/live.m3u8
+
+#EXTINF:-1,Fusionplus
+http://origin-1.inacdn.com/golive/43_135_live/playlist.m3u8
 
 #EXTINF:-1,heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
@@ -180,8 +219,10 @@ http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
 #EXTINF:-1,HIT TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
-#EXTINF:-1,ILTV
+#EXTINF:-1,ÍNN
 http://82.138.87.105:80/iltv/high/playlist.m3u8
+
+http://79.171.99.70/webtv/innwebtv.stream/playlist.m3u8
 
 #EXTINF:-1,ITV
 http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1200.m3u8
@@ -201,8 +242,17 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:0,JAYZEE
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 
+#EXTINF:0,jim
+http://cdnfiles.medialaan.be/this_was_jim/BB/index.m3u8
+
 #EXTINF:-1,JUCE TV HD
 http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
+
+#EXTINF:-1,kanal 9
+http://rtmp.infomaniak.ch/livecast/livesd2/playlist.m3u8
+
+#EXTINF:-1,kanal 10
+http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
 
 #EXTINF:-1,Kiss Tv
 http://82.76.249.81/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
@@ -213,11 +263,17 @@ http://kontratv.flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
 #EXTINF:0,kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 
-#EXTINF:0,Léman Bleu
-http://rtmp.infomaniak.ch/livecast/naxoo/playlist.m3u8
+#EXTINF:0,Ländle TV
+http://ms02.w24.at/livepkgr/livestream3/playlist.m3u8
 
 #EXTINF:0,LAMPSI TV
 http://94.23.218.186:1935/LampsiTV/LampsiTV/playlist.m3u8
+
+#EXTINF:0,Léman Bleu
+http://rtmp.infomaniak.ch/livecast/naxoo/playlist.m3u8
+
+#EXTINF:0,LifeStyleTV
+http://stream1.lifestyletv.se/live//livestream3/playlist.m3u8
 
 #EXTINF:0,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
@@ -237,11 +293,23 @@ http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1,M6 Swiss
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
+#EXTINF:-1,Malmö MK
+http://82.96.17.34/edge/_8ynhbua3_/8ynhbua3/chunklist_w471369106.m3u8?id=&s_referrer=http%3A%2F%2Ftvmalmo.se%2Flive%2F&s_type=1
+
+#EXTINF:-1,MAtélé
+http://streaming06.axeweb.be/matele_live//live.stream/playlist.m3u8
+
 #EXTINF:0,MAD Cyprus
 rtmp://144.76.2.213/live/livestream
 
+#EXTINF:0,MNM
+http://live.stream.vrt.be/vrt_mnm_live/_definst_/smil:vrt_mnm_live.smil/chunklist_w528390648_b1296000.m3u8
+
 #EXTINF:-1,MFMTV
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+
+#EXTINF:-1,Monaco Channel
+http://46.105.34.238/livepkgr/livestream3/playlist.m3u8
 
 #EXTINF:-1,MTV HD
 http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r183857sd2500000/efe4541060c00fccc01e8c068fce4f5ab911d969/playlist.m3u8
@@ -255,11 +323,23 @@ http://s4w.deb1.scdn.smcloud.net/live/vox2/stream1/chunklist_w183889425.m3u8
 #EXTINF:0,Mute HD
 http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
 
+#EXTINF:0,N4
+http://playlist.oz.com/live/n4/2500/playlist.m3u8
+
+#EXTINF:0,notélé
+http://streaming06.axeweb.be/live//direct.stream/playlist.m3u8
+
 #EXTINF:0,NR1
 http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
 
 #EXTINF:-1,NRJ TV
 http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
+
+#EXTINF:-1,Nuacht TG4
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4688357261001&pubId=1290862567001&videoId=4688195840001
+
+#EXTINF:-1,NUsicTV
+http://130.88.20.237:1238/test.flv
 
 #EXTINF:-1,One.by
 http://rtmp.one.by:1200
@@ -276,6 +356,9 @@ http://rtmp.one.by:2200
 #EXTINF:-1,One.by Россия HD
 http://rtmp.one.by:2300
 
+#EXTINF:-1,Öppna Kanalen
+http://80.252.162.14/edge/_451iw2h_/451iw2h/chunklist_w185907408.m3u8?id=&s_referrer=http%3A%2F%2Fwww.squidtv.net%2Feurope%2Fsweden%2Fsweden-008.html&s_type=1
+
 #EXTINF:-1,OTTO FM TV
 http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8
 
@@ -290,6 +373,9 @@ http://91.201.78.3:1935/live/pophd/playlist.m3u8?publisher=1
 
 #EXTINF:-1,Power TV
 http://185.28.3.10/powertv/powertv.stream/playlist.m3u8
+
+#EXTINF:-1,Q music
+https://r3---sn-ixaa5n-5uiz.googlevideo.com/videoplayback/id/q4KD1Jk_7K4.2/itag/136/source/yt_live_broadcast/requiressl/yes/playlist_type/LIVE/gcr/gb/pmbypass/yes/ratebypass/yes/cmbypass/yes/mime/video%2Fmp4/live/1/gir/yes/key/cms1/upn/tmvd38UdwBU/signature/3923C77CA7994EC1134096FBD31763D88C58883E.7B6833ABB1059FB8620170A9377C2A5759DE3198/fexp/9407193,9408214,9416126,9417098,9419451,9419543,9420452,9422567,9422596,9422970,9423662,9423853,9425543,9426723/sver/3/cpn/CkXOUWCxsudzJ9cD/mpd_version/3/ip/79.167.50.7/ipbits/0/expire/1452197198/sparams/cmbypass,expire,gcr,gir,id,ip,ipbits,itag,live,mime,mm,mn,ms,mv,pl,playlist_type,pmbypass,ratebypass,requiressl,source/mm/32/mn/sn-ixaa5n-5uiz/ms/lv/mt/1452174856/mv/u/pl/22/
 
 #EXTINF:-1,Radio 105 TV
 rtmp://fms.105.net/live/105Test1
@@ -336,6 +422,15 @@ http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovis
 #EXTINF:-1,RTL 102.5 TV
 http://origin-rtl-radio-stream.4mecloud.it:80/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
 
+#EXTINF:-1,RTV
+http://stream1.primetv.at/kaltura-rtv/0/mp4:4/268/0_s15fnb8b_0_z94kxcod_1/playlist.m3u8
+
+#EXTINF:-1,RÚV
+http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
+
+#EXTINF:-1,RÚV 2
+http://ruvruv2erl-live.hls.adaptive.level3.net/ruv/ruv2erl/index/stream4.m3u8
+
 #EXTINF:0,SCHWEIZ 5
 rtmp://194.29.5.2:80/live//myStream
 
@@ -354,6 +449,9 @@ http://144.76.3.83/sky_sports3gb.m3u8?token=f663571502c473b739fa94db15303a11&use
 #EXTINF:0,Sky SPORTS 4
 http://144.76.3.83/sky_sports4gb.m3u8?token=579da107ce043898bd207427f873a672&user=41166&bands=956
 
+#EXTINF:0,sporttime tv
+http://streamer.a1.net/rtmplive/redundant/channels/Sporttime/SporttimeTV//mp4:channel1_800/playlist.m3u8
+
 #EXTINF:0,Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 
@@ -363,14 +461,44 @@ http://str103.setplex.net:1935/228/stv_online/playlist.m3u8?wowzasessionid=62931
 #EXTINF:0,Tele Bärn
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_0mc3z57p_all.smil/chunklist_b846000.m3u8
 
+#EXTINF:0,TeleBielingue
+http://rtmp.infomaniak.ch/livecast/telebielinguech/playlist.m3u8
+
+#EXTINF:0,tele bruxelles
+http://37.187.156.238/live//live.sdp/playlist.m3u8
+
 #EXTINF:0,Tele M1
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_ljzy3evp_all.smil/chunklist_b846000.m3u8
 
-#EXTINF:0,TV 2/Bornholm
+#EXTINF:0,Télé MB
+http://vm109.imust.org:1935/live/telemb-live/chunklist_w1382850771.m3u8
+
+#EXTINF:0,TG4
+http://vm109.imust.org:1935/live/televesdre-live/chunklist_w1412507044.m3u8
+
+#EXTINF:0,Televesdre
+http://csm-e-usc1-7.cds1.yospace.com/csm/live/74246540/4.m3u8;jsessionid=8E048EBF1BE48CFE6D43F6F4F9F135CF.csm-e-usc1-7.cds1.yospace.com?yo.ac=true
+
+#EXTINF:0,TV2/Bornholm
 http://itv08.digizuite.dk/tv2b/ch1/playlist.m3u8
 
-#EXTINF:0,TV 2/Lorry
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_1000
+#EXTINF:0,TV2/Fyn
+http://cdn-lt-live.tv2fyn.dk/dc-1/m/ny-live-publish3/kLive/smil:0_msqj62ii_all.smil/chunklist_b2348800.m3u8
+
+#EXTINF:0,TV2/Lorry
+http://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_1000/playlist.m3u8
+
+#EXTINF:0,TV2/Lorry
+http://54.155.37.115:80/live/tv2lorry_2000/playlist.m3u8
+
+#EXTINF:0,TV2/Nord
+http://cdn-lt-live.tv2nord.dk/dc-0/m/pa-live-publish5/kLive/smil:0_cw7r565t_all.smil/chunklist_b2144000.m3u8
+
+#EXTINF:0,TV2/Oj
+http://54.155.37.115:80/live/tv2oj-plus_300/playlist.m3u8
+
+#EXTINF:0,TV2/Øst
+http://cdn-lt-live.tveast.dk/dc-1/m/ny-live-publish2/kLive/smil:0_zphj9q61_all.smil/chunklist_b2144000.m3u8
 
 #EXTINF:0,TV10
 http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
@@ -378,8 +506,20 @@ http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
 #EXTINF:-1,TV4
 http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8
 
+#EXTINF:-1,tv7
+http://vod.tv7.fi/tv7-fi/_definst_/mp4:tv7-fi.stream_720p/playlist.m3u8
+
+#EXTINF:-1,tv7
+http://vod.tv7.fi/tv7-ee/_definst_/mp4:tv7-ee.stream_720p/playlist.m3u8
+
+#EXTINF:-1,tv7 Plus
+http://vod.tv7.fi/tv7plus-web/_definst_/mp4:tv7plus.stream_720p/playlist.m3u8
+
 #EXTINF:-1,TVA
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,TV Lux
+http://wowza.tvlux.imust.org:1935/live/tvlux-live/chunklist_w690549418.m3u8
  
 #EXTINF:0,TVM
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
@@ -393,11 +533,20 @@ http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
 #EXTINF:-1,tvm3
 http://rtmp.infomaniak.ch/livecast/tvm3/chunklist_w1655634859.m3u8
 
+#EXTINF:-1,tvmidtvest
+http://cdn-lt-live.tvmidtvest.dk/dc-0/m/pa-live-publish5/kLive/smil:1_adpyohl9_all.smil/chunklist_b1529600.m3u8
+
+#EXTINF:-1,tvs+
+http://cdn-lt-live.tvsyd.dk/dc-1/m/ny-live-publish3/kLive/smil:1_m0zr6v1s_all.smil/chunklist_b1939200.m3u8
+
 #EXTINF:-1,U
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
 
 #EXTINF:-1,UTV
 http://82.76.249.77/utvedge/utvmqlivehls/chunklist.m3u8
+
+#EXTINF:-1,Västmanlands TV
+http://82.96.17.34/cdn/_definst_/smil:e8e126fdd7c51ec3d56eed2492cc775e/s6c6uhl6.smil/chunklist_w1127379425_b4224000.m3u8
 
 #EXTINF:-1,VEVO TV Hits
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
