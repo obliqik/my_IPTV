@@ -432,9 +432,6 @@ http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovis
 #EXTINF:-1,RTL 102.5 TV
 http://origin-rtl-radio-stream.4mecloud.it:80/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
 
-#EXTINF:-1,RTV
-http://stream1.primetv.at/kaltura-rtv/0/mp4:4/268/0_s15fnb8b_0_z94kxcod_1/playlist.m3u8
-
 #EXTINF:-1,RTV Drenthe
 http://stream.rtvdrenthe.nl/tv/tvstream1/chunklist_w33710350.m3u8
 
