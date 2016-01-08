@@ -234,9 +234,6 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:0,JAYZEE
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 
-#EXTINF:0,jim
-http://cdnfiles.medialaan.be/this_was_jim/BB/index.m3u8
-
 #EXTINF:-1,JUCE TV HD
 http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
 
@@ -317,12 +314,6 @@ http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
 
 #EXTINF:0,N4
 http://playlist.oz.com/live/n4/2500/playlist.m3u8
-
-#EXTINF:0,NGradio
-rtmp://176.9.123.140/ngtv/ngtv
-
-#EXTINF:0,NGradio
-http://176.9.123.140/ngtv/ngtv/playlist.m3u8
 
 #EXTINF:0,notélé
 http://streaming06.axeweb.be/live//direct.stream/playlist.m3u8
@@ -492,11 +483,8 @@ http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_ljzy3evp_al
 #EXTINF:0,Télé MB
 http://vm109.imust.org:1935/live/telemb-live/chunklist_w1382850771.m3u8
 
-#EXTINF:0,TG4
-http://vm109.imust.org:1935/live/televesdre-live/chunklist_w1412507044.m3u8
-
 #EXTINF:0,Televesdre
-http://csm-e-usc1-7.cds1.yospace.com/csm/live/74246540/4.m3u8;jsessionid=8E048EBF1BE48CFE6D43F6F4F9F135CF.csm-e-usc1-7.cds1.yospace.com?yo.ac=true
+http://vm109.imust.org:1935/live/televesdre-live/chunklist_w1412507044.m3u8
 
 #EXTINF:0,TV2/Bornholm
 http://itv08.digizuite.dk/tv2b/ch1/playlist.m3u8
@@ -623,7 +611,6 @@ http://fms.pik-tv.com/live/piktv1pik1tv/playlist.m3u8
 
 #EXTINF:-1,ПИК ТВ HD
 http://fms.pik-tv.com:1935/live/piktv3pik3tv/playlist.m3u8
-
 
 
 
