@@ -78,6 +78,9 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 #EXTINF:0,CBBC
 http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
 
+#EXTINF:0,CBeebies
+http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
+
 #EXTINF:-1,cielo
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
 
