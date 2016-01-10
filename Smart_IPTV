@@ -57,6 +57,9 @@ http://88.198.238.44:1935/live/bluesky/playlist.m3u8
 #EXTINF:0,canal 9
 http://rtmp.infomaniak.ch/livecast/livehd/playlist.m3u8
 
+#EXTINF:0,canal 9
+rtmp://rtmp.infomaniak.ch/livecast/livehd
+
 #EXTINF:0,canal alpha
 http://rtmp.infomaniak.ch/livecast/canalalphaju/playlist.m3u8
 
@@ -239,6 +242,9 @@ http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
 
 #EXTINF:-1,kanal 9
 http://rtmp.infomaniak.ch/livecast/livesd2/playlist.m3u8
+
+#EXTINF:-1,kanal 9
+rtmp://rtmp.infomaniak.ch/livecast/livesd2
 
 #EXTINF:-1,kanal 10
 http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
