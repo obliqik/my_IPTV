@@ -54,6 +54,12 @@ http://bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 #EXTINF:0,BLUE SKY
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
 
+#EXTINF:0,BT SPORT 1
+http://02e4.vp9.tv/chn/btsu1/v.m3u8
+
+#EXTINF:0,BT SPORT 2
+http://02e4.vp9.tv/chn/btsu2/v.m3u8
+
 #EXTINF:0,canal 9
 http://rtmp.infomaniak.ch/livecast/livehd/playlist.m3u8
 
@@ -457,13 +463,13 @@ rtmp://194.29.5.2:80/live//myStream
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 
 #EXTINF:0,Sky SPORTS 1
-http://144.76.3.83/sky_sports1gb.m3u8?token=fd08446a425d2c492505cc973e0ba074&user=41166&bands=956
+http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8
 
 #EXTINF:0,Sky SPORTS 2
 http://144.76.3.83/sky_sports2gb.m3u8?token=27549478605c2e9d28debee3fb65bb39&user=41166&bands=956
 
 #EXTINF:0,Sky SPORTS 3
-http://144.76.3.83/sky_sports3gb.m3u8?token=f663571502c473b739fa94db15303a11&user=41166&bands=956
+http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8
 
 #EXTINF:0,Sky SPORTS 4
 http://144.76.3.83/sky_sports4gb.m3u8?token=579da107ce043898bd207427f873a672&user=41166&bands=956
