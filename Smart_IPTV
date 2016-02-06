@@ -429,6 +429,9 @@ http://81.201.52.159:8018
 #EXTINF:-1,retro music
 http://www.retromusic.cz/index.php?language=en
 
+#EXTINF:-1,retro music
+http://www.retromusic.czrtmp://stream.mediawork.cz/retrotv/retrotvHQ1
+
 #EXTINF:0,RFH
 http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
 
