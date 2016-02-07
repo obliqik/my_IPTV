@@ -22,7 +22,7 @@ http://91.204.214.106:23181/stolen/187n/formatc.start
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 #EXTINF:0,ACTION 24
-http://stream-07.vty.dailymotion.com/14/dm/1/x2p626q/live.isml/events(live-1453114248)/live-audio=64000-video=400000.m3u8
+http://stream-11.vty.dailymotion.com/18/dm/1/x2p626q/live.isml/live.m3u8?e=1455043258&st=JPk_PMK7dHCY3st7KvaOQA#cell=lvty
 
 #EXTINF:0,ANT1 Cyprus
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
