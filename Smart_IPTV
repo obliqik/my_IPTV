@@ -39,18 +39,6 @@ http://ic.053f91a4.05a298.vs-hls-uk-live.bbcfmt.vo.llnwi.net/pool_5/live/bbc_two
 #EXTINF:0,bpm
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 
-#EXTINF:0,bpm
-http://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
-
-#EXTINF:0,bpm
-mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
-
-#EXTINF:0,bpm
-http://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
-
-#EXTINF:0,bpm
-http://bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
-
 #EXTINF:0,BLUE SKY
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
 
@@ -114,18 +102,6 @@ http://rtmp.infomaniak.ch/livecast/deltatv/playlist.m3u8
 #EXTINF:-1,DELUXE MUSIC
 http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
 
-#EXTINF:-1,Digi Sport 1
-http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,Digi Sport 2
-http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,Digi Sport 3
-http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,Digi Sport 4
-http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
-
 #EXTINF:-1,DIGI 24
 http://82.76.249.77:80/digi24edge/digi24hdhqhls/index.m3u8
 
@@ -140,9 +116,6 @@ http://www.djing.com/tv/d-05.m3u8
 
 #EXTINF:-1,DJING Underground HD
 http://www.djing.com/tv/u-05.m3u8
-
-#EXTINF:-1,dorf tv
-http://dorf.openplayout.org/hls/dorf_high/index.m3u8
 
 #EXTINF:-1,DR1
 http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8?b=100-2000
