@@ -234,6 +234,9 @@ rtmp://rtmp.infomaniak.ch/livecast/livesd2
 #EXTINF:-1,kanal 10
 http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
 
+#EXTINF:-1,KinoMenu
+rtmp://62.76.26.81/hdmedia//menu
+
 #EXTINF:-1,Kiss Tv
 http://82.76.249.81/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
 
