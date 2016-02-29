@@ -25,7 +25,7 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 http://iphonestreaming.abc.net.au/news24/news24.m3u8
 
 #EXTINF:0,ACTION 24
-http://stream-12.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/live.m3u8?e=1456261814&st=sJtTPAY4fDyIUfL1H7mybA#cell=lvty
+http://www.dailymotion.com/cdn/live/video/x2p626q.m3u8?auth=1456949893-2688-8de7mg4x-b8fb2cd9671fd504344e0d4f901701d1&redirect=0
 
 #EXTINF:0,ANT1 Cyprus
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
