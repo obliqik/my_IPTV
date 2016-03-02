@@ -1,28 +1,28 @@
 ﻿#EXTM3U
 
-#EXTINF:0,DISCO DELUXE Set 59
-rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811960.mp4
-
-#EXTINF:-1,DISCO DELUXE Set 58
-rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811961.mp4
-
-#EXTINF:-1,DISCO DELUXE Set 62
-rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811964.mp4
-
-#EXTINF:-1,DISCO DELUXE Set 55
-rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811957.mp4
-
-#EXTINF:0,DISCO DELUXE Set 56
-rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811958.mp4
+#EXTINF:0,DISCO DELUXE Set 38
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811940.mp4/playlist.m3u8
 
 #EXTINF:-1,DISCO DELUXE Set 50
-rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811952.mp4
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811952.mp4/playlist.m3u8
 
-#EXTINF:0,DISCO DELUXE Set 38
-rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811940.mp4
+#EXTINF:-1,DISCO DELUXE Set 55
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811957.mp4/playlist.m3u8
+
+#EXTINF:0,DISCO DELUXE Set 56
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811958.mp4/playlist.m3u8
+
+#EXTINF:-1,DISCO DELUXE Set 58
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811961.mp4/playlist.m3u8
+
+#EXTINF:0,DISCO DELUXE Set 59
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811960.mp4/playlist.m3u8
+
+#EXTINF:-1,DISCO DELUXE Set 62
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811964.mp4/playlist.m3u8
 
 #EXTINF:-1,DISCO DELUXE Set 90
-rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/812290.mp4
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/812290.mp4/playlist.m3u8
 
 #EXTINF:-1,CPAC
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
@@ -65,21 +65,6 @@ http://212.224.109.101/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
 #EXTINF:-1,Dream TV
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-
-#EXTINF:-1,DR RamaSjang
-http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=100-1600
-
-#EXTINF:-1,DR1
-http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8?b=100-2000
-
-#EXTINF:-1,DR2
-http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8?b=100-2000
-
-#EXTINF:-1,dr 3
-http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8?b=100-1600
-
-#EXTINF:-1,DR k
-http://dr04-lh.akamaihd.net/i/dr04_0@147057/master.m3u8?b=100-1600
 
 #EXTINF:0,Elbe Kanal
 rtmp://62.113.210.250/medienasa-live/elbe_high
