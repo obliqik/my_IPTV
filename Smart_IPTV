@@ -288,6 +288,9 @@ http://rtmp.one.by:2300
 #EXTINF:-1,Öppna Kanalen
 http://80.252.162.14/edge/_451iw2h_/451iw2h/chunklist_w185907408.m3u8?id=&s_referrer=http%3A%2F%2Fwww.squidtv.net%2Feurope%2Fsweden%2Fsweden-008.html&s_type=1
 
+#EXTINF:-1,ORF Sport + 
+http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+
 #EXTINF:-1,OTTO FM TV
 http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8
 
