@@ -1,28 +1,28 @@
 ﻿#EXTM3U
 
-#EXTINF:0,ANT1 Cyprus
-rtmp://46.21.53.171/iwohttporigin/mp4:livestream
+#EXTINF:0,DISCO DELUXE Set 59
+rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811960.mp4
 
-#EXTINF:-1,ABC News HD
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1,DISCO DELUXE Set 58
+rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811961.mp4
 
-#EXTINF:-1,BBC One London
-http://iptv.star7arab.com/free?token=895392491&id=65
+#EXTINF:-1,DISCO DELUXE Set 62
+rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811964.mp4
 
-#EXTINF:-1,BBC Two
-http://iptv.star7arab.com/free?token=895392491&id=66
+#EXTINF:-1,DISCO DELUXE Set 55
+rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811957.mp4
 
-#EXTINF:0,Big Pond Music
-mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+#EXTINF:0,DISCO DELUXE Set 56
+rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811958.mp4
 
-#EXTINF:-1,Blizz
-http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8
+#EXTINF:-1,DISCO DELUXE Set 50
+rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811952.mp4
 
-#EXTINF:0,BLUE SKY TV
-http://88.198.238.44:1935/live/bluesky/playlist.m3u8
+#EXTINF:0,DISCO DELUXE Set 38
+rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811940.mp4
 
-#EXTINF:-1,Channel AKA
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,DISCO DELUXE Set 90
+rtmp://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/812290.mp4
 
 #EXTINF:-1,CPAC
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
