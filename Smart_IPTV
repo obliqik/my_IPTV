@@ -105,15 +105,6 @@ http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1,dream
 http://212.224.109.101/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
-#EXTINF:-1,ETV
-http://wowza3.err.ee/live/_definst_/smil:etv/chunklist_w1028328683_b1544100_slest.m3u8
-
-#EXTINF:-1,ETV2
-http://wowzalive.err.ee/live/_definst_/smil:etv2/chunklist_w1654863119_b1544100_slest.m3u8
-
-#EXTINF:-1,ETV+
-http://wowza4.err.ee/live/_definst_/smil:etvpluss/chunklist_w1753353476_b1544100_slrus.m3u8
-
 #EXTINF:0,Elbe Kanal
 http://62.113.210.250/medienasa-live/elbe_high/playlist.m3u8
 
