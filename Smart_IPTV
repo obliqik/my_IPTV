@@ -18,6 +18,9 @@ http://vs-hls-uk-live.edgesuite.net/pool_4/live/bbc_one_london/bbc_one_london.is
 #EXTINF:0,BBC TWO
 http://ic.053f91a4.05a298.vs-hls-uk-live.bbcfmt.vo.llnwi.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
 
+#EXTINF:0,BBC FOUR
+http://vs-hls-uk-live.edgesuite.net/pool_2/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-pa4%3d128000-video%3d5070000.m3u8
+
 #EXTINF:0,bpm
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 
@@ -53,6 +56,24 @@ http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3
 
 #EXTINF:0,CBeebies
 http://ic.5896f952.064889.vs-hls-uk-live.bbcfmt.vo.llnwi.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d5070000.m3u8
+
+#EXTINF:0,Channel 7
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224838/MISC2/master.m3u8
+
+#EXTINF:0,Channel 9 (Melbourne)
+https://9nowlivehls-i.akamaihd.net/hls/live/226644/ch9melprd/master.m3u8
+
+#EXTINF:0,Channel 9 (Brisbane)
+https://9nowlivehls-i.akamaihd.net/hls/live/226646/ch9bneprd/master.m3u8
+
+#EXTINF:0,Channel 9 (Sydney) 
+https://9nowlivehls-i.akamaihd.net/hls/live/226554/ch9sydprd/master.m3u8
+
+#EXTINF:0,Channel 9 (Perth) 
+https://9nowlivehls-i.akamaihd.net/hls/live/226645/ch9perprd/master.m3u8
+
+#EXTINF:0,Channel 9 (Adelaide) 
+https://9nowlivehls-i.akamaihd.net/hls/live/226647/ch9adlprd/master.m3u8
 
 #EXTINF:-1,CITV
 http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
