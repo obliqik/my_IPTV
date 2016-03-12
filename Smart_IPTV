@@ -13,9 +13,6 @@ http://stream-11.vty.dailymotion.com/02/dm/1/x2p626q/live.isml/live.m3u8?e=14571
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 
 #EXTINF:0,BBC ONE
-http://vs-hls-uk-live.edgesuite.net/pool_4/live/bbc_one_london/bbc_one_london.isml/bbc_one_london-pa3%3d96000-video%3d1604000.norewind.m3u8
-
-#EXTINF:0,BBC ONE
 http://vs-hls-uk-live.edgesuite.net/pool_1/live/bbc_one_london/bbc_one_london.isml/bbc_one_london-pa4%3d128000-video%3d1604000.m3u8
 
 #EXTINF:0,BBC TWO
