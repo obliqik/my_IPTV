@@ -57,76 +57,94 @@ http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3
 #EXTINF:0,CBeebies
 http://ic.5896f952.064889.vs-hls-uk-live.bbcfmt.vo.llnwi.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d5070000.m3u8
 
-#EXTINF:0,Channel 7 (HD Feed)
+#EXTINF:0,Channel Seven (HD Feed)
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224838/MISC2/master.m3u8
 
-#EXTINF:0,Channel 7 (Sydney HQ) 
+#EXTINF:0,Channel Seven (Sydney HQ) 
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224814/SYD1/master_high.m3u8
 
-#EXTINF:0,Channel 7 (Sydney) 
+#EXTINF:0,Channel Seven (Sydney) 
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224814/SYD1/master.m3u8
 
-#EXTINF:0,Channel 7 (Melbourne HQ) 
+#EXTINF:0,Channel Seven (Melbourne HQ) 
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224813/MEL1/master_high.m3u8
 
-#EXTINF:0,Channel 7 (Brisbane) 
+#EXTINF:0,Channel Seven (Brisbane) 
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224815/BRI1/master.m3u8
 
-#EXTINF:0,Channel 7 (Perth HQ) 
+#EXTINF:0,Channel Seven (Perth HQ) 
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224817/PER1/master_high.m3u8
 
-#EXTINF:0,Channel 7 (Adelaide HQ) 
+#EXTINF:0,Channel Seven (Adelaide HQ) 
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224816/ADE1/master_high.m3u8
 
-#EXTINF:0,Channel 7TWO (Sydney HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224827/SYD2/master_high.m3u8
-
-#EXTINF:0,Channel 7TWO (Sydney) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224827/SYD2/master.m3u8
-
-#EXTINF:0,Channel 7TWO (Melbourne HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224826/MEL2/master_high.m3u8
-
-#EXTINF:0,Channel 7TWO (Brisbane) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224828/BRI2/master.m3u8
-
-#EXTINF:0,Channel 7TWO (Perth) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224830/PER2/master.m3u8
-
-#EXTINF:0,Channel 7TWO (Adelaide HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224829/ADE2/master_high.m3u8
-
-#EXTINF:0,Channel 7Flix (Sydney HQ) 
+#EXTINF:0,7Mate (Sydney HQ) 
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224840/SYD3/master_high.m3u8
 
-#EXTINF:0,Channel 7Flix (Sydney) 
+#EXTINF:0,7Mate (Sydney) 
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224840/SYD3/master.m3u8
 
-#EXTINF:0,Channel 7Flix (Melbourne HQ) 
+#EXTINF:0,7Mate (Melbourne HQ) 
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224839/MEL3/master_high.m3u8
 
-#EXTINF:0,Channel 7Flix (Brisbane) 
+#EXTINF:0,7Mate (Brisbane) 
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224841/BRI3/master.m3u8
 
-#EXTINF:0,Channel 7Flix (Perth) 
+#EXTINF:0,7Mate (Perth) 
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224843/PER3/master.m3u8
 
-#EXTINF:0,Channel 7Flix (Adelaide HQ) 
+#EXTINF:0,7Mate (Adelaide HQ) 
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224842/ADE3/master_high.m3u8
 
-#EXTINF:0,Channel 9 (Melbourne)
+#EXTINF:0,7TWO (Sydney HQ) 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224827/SYD2/master_high.m3u8
+
+#EXTINF:0,7TWO (Sydney) 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224827/SYD2/master.m3u8
+
+#EXTINF:0,7TWO (Melbourne HQ) 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224826/MEL2/master_high.m3u8
+
+#EXTINF:0,7TWO (Brisbane) 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224828/BRI2/master.m3u8
+
+#EXTINF:0,7TWO (Perth) 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224830/PER2/master.m3u8
+
+#EXTINF:0,7TWO (Adelaide HQ) 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224829/ADE2/master_high.m3u8
+
+#EXTINF:0,7Flix (Sydney HQ) 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224840/SYD3/master_high.m3u8
+
+#EXTINF:0,7Flix (Sydney) 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224840/SYD3/master.m3u8
+
+#EXTINF:0,7Flix (Melbourne HQ) 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224839/MEL3/master_high.m3u8
+
+#EXTINF:0,7Flix (Brisbane) 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224841/BRI3/master.m3u8
+
+#EXTINF:0,7Flix (Perth) 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224843/PER3/master.m3u8
+
+#EXTINF:0,7Flix (Adelaide HQ) 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224842/ADE3/master_high.m3u8
+
+#EXTINF:0,Channel Nine (Melbourne)
 https://9nowlivehls-i.akamaihd.net/hls/live/226644/ch9melprd/master.m3u8
 
-#EXTINF:0,Channel 9 (Brisbane)
+#EXTINF:0,Channel Nine (Brisbane)
 https://9nowlivehls-i.akamaihd.net/hls/live/226646/ch9bneprd/master.m3u8
 
-#EXTINF:0,Channel 9 (Sydney) 
+#EXTINF:0,Channel Nine (Sydney) 
 https://9nowlivehls-i.akamaihd.net/hls/live/226554/ch9sydprd/master.m3u8
 
-#EXTINF:0,Channel 9 (Perth) 
+#EXTINF:0,Channel Nine (Perth) 
 https://9nowlivehls-i.akamaihd.net/hls/live/226645/ch9perprd/master.m3u8
 
-#EXTINF:0,Channel 9 (Adelaide) 
+#EXTINF:0,Channel Nine (Adelaide) 
 https://9nowlivehls-i.akamaihd.net/hls/live/226647/ch9adlprd/master.m3u8
 
 #EXTINF:-1,CITV
