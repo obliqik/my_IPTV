@@ -411,6 +411,12 @@ http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
 #EXTINF:0,RTÉ 24 News
 http://cdn.rasset.ie/hls-live/_definst_/newsnow/newsnow-576.m3u8
 
+#EXTINF:0,RTÉ One
+https://www.ibox.ie/rayon/variantk/RTE1/c8f5110a-58c7-4992-9845-793f45d656ba940012895c28dd/var.m3u8
+
+#EXTINF:0,RTÉ Two
+https://www.ibox.ie/rayon/variantk/RTE2/c8f5110a-58c7-4992-9845-793f45d656ba940012895c28dd/var.m3u8
+
 #EXTINF:-1,RTL
 http://live01.rtl.lu/channel1/smil:channel1/chunklist_w948198792_b2128000_slltz.m3u8
 
