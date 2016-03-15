@@ -120,17 +120,20 @@ https://sevenwestmedia01-i.akamaihd.net/hls/live/224840/SYD3/master_high.m3u8
 #EXTINF:0,7Flix (Sydney) 
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224857/SYD6/master.m3u8
 
-#EXTINF:0,7Flix (Melbourne HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224839/MEL3/master_high.m3u8
+#EXTINF:0,7Flix (Melbourne) 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224856/MEL6/master.m3u8
 
 #EXTINF:0,7Flix (Brisbane) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224841/BRI3/master.m3u8
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224858/BRI6/master.m3u8
 
 #EXTINF:0,7Flix (Perth) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224843/PER3/master.m3u8
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224860/PER6/master.m3u8
 
-#EXTINF:0,7Flix (Adelaide HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224842/ADE3/master_high.m3u8
+#EXTINF:0,7Flix (Adelaide) 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224859/ADE6/master.m3u8
+
+#EXTINF:0,7Flix (Queensland) 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224861/QLD6/master.m3u8
 
 #EXTINF:0,Channel Nine (Melbourne)
 https://9nowlivehls-i.akamaihd.net/hls/live/226644/ch9melprd/master.m3u8
