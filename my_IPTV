@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1,3e
+http://csm-e-eur3-50.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8;jsessionid=B7BDA7728E5095704990E6CB2B69BEC8.csm-e-eur3-50.cds1.yospace.com?yo.ac=true&yo.ac=true&yo.sl=3
+
+#EXTINF:-1,ABC 1 (Australia)
+http://philheg02.ddns.net:1935/stream.m3u8
+
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
@@ -149,6 +155,9 @@ https://9nowlivehls-i.akamaihd.net/hls/live/226645/ch9perprd/master.m3u8
 
 #EXTINF:0,Channel Nine (Adelaide) 
 https://9nowlivehls-i.akamaihd.net/hls/live/226647/ch9adlprd/master.m3u8
+
+#EXTINF:0,Channel Ten
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDATV.m3u8?zone=tenplay.web.live&vid=4640806154001®ion=SDATV
 
 #EXTINF:-1,CITV
 http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
@@ -467,6 +476,9 @@ http://itv08.digizuite.dk/tv2b/ch1/playlist.m3u8
 
 #EXTINF:0,TV2/Øst
 http://cdn-lt-live.tveast.dk/dc-1/m/ny-live-publish2/kLive/smil:0_zphj9q61_all.smil/chunklist_b2144000.m3u8
+
+#EXTINF:0,TV3
+http://csm-e-eur3-20.cds1.yospace.com/csm/extlive/tv3ie01,tv3-prd.m3u8;jsessionid=BDC61B6B4929495C637FD003A890F640.csm-e-eur3-20.cds1.yospace.com?yo.ac=true&yo.ac=true&yo.sl=3
 
 #EXTINF:0,TV10
 http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
