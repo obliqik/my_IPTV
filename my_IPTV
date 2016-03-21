@@ -3,6 +3,9 @@
 #EXTINF:-1,3e
 http://csm-e-eur3-50.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8;jsessionid=B7BDA7728E5095704990E6CB2B69BEC8.csm-e-eur3-50.cds1.yospace.com?yo.ac=true&yo.ac=true&yo.sl=3
 
+#EXTINF:-1,ABC
+http://lv9.ustvnow.com/dvrtest/mp4:43366WHTMUSTVNOW1/chunklist.m3u8?wowzasessionid=74847587&key=C.OIKONA7223FD481753AC6223F6B7970D6E26AF262
+
 #EXTINF:-1,ABC 1 (Australia)
 http://philheg02.ddns.net:1935/stream.m3u8
 
@@ -62,6 +65,9 @@ http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3
 
 #EXTINF:0,CBeebies
 http://ic.5896f952.064889.vs-hls-uk-live.bbcfmt.vo.llnwi.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d5070000.m3u8
+
+#EXTINF:0,CBS
+http://lv7.ustvnow.com/dvrtest/mp4:B2144WHP0USTVNOW1/chunklist.m3u8?wowzasessionid=1814481146&key=C.OIKONA7223FD481753AC6223F6B7970D6E26AF262
 
 #EXTINF:0,Channel Seven (HD Feed)
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224838/MISC2/master.m3u8
@@ -174,6 +180,9 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
 #EXTINF:-1,CLUBLAND
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
+#EXTINF:-1,THE CW
+http://lv7.ustvnow.com/dvrtest/mp4:33C7DWLYHUSTVNOW1/chunklist.m3u8?wowzasessionid=1709934719&key=C.OIKONA7223FD481753AC6223F6B7970D6E26AF262
+
 #EXTINF:-1,DELUXE MUSIC
 http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
 
@@ -242,6 +251,9 @@ http://194.116.73.146:1935/quartaretetv1/formusicweb/live.m3u8
 
 #EXTINF:-1,FORMUSIC.TV
 http://wowza1.top-ix.org:1935/quartaretetv1/formusicweb/live.m3u8
+
+#EXTINF:-1,FOX
+http://lv7.ustvnow.com/dvrtest/mp4:8A119WPMTUSTVNOW1/chunklist.m3u8?wowzasessionid=2065449581&key=C.OIKONA7223FD481753AC6223F6B7970D6E26AF262
 
 #EXTINF:-1,heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
@@ -339,8 +351,14 @@ http://s4w.deb1.scdn.smcloud.net/live/vox2/stream1/chunklist_w183889425.m3u8
 #EXTINF:0,Mute HD
 http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
 
+#EXTINF:-1,my 9
+http://lv7.ustvnow.com/dvrtest/mp4:6B3F2WHVLUSTVNOW1/chunklist.m3u8?wowzasessionid=1626206331&key=C.OIKONA7223FD481753AC6223F6B7970D6E26AF262
+
 #EXTINF:0,N4
 http://playlist.oz.com/live/n4/2500/playlist.m3u8
+
+#EXTINF:0,NBC
+http://lv7.ustvnow.com/dvrtest/mp4:2C2A5WGALUSTVNOW1/chunklist.m3u8?wowzasessionid=1044755190&key=C.OIKONA7223FD481753AC6223F6B7970D6E26AF262
 
 #EXTINF:0,notélé
 http://streaming06.axeweb.be/live//direct.stream/playlist.m3u8
