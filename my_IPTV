@@ -12,6 +12,9 @@ http://philheg02.ddns.net:1935/stream.m3u8
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&b=800-2500&rebase=on
+
 #EXTINF:-1,ABC News 24
 http://iphonestreaming.abc.net.au/news24/news24.m3u8
 
@@ -29,6 +32,9 @@ http://ic.053f91a4.05a298.vs-hls-uk-live.bbcfmt.vo.llnwi.net/pool_5/live/bbc_two
 
 #EXTINF:0,BBC FOUR
 http://vs-hls-uk-live.edgesuite.net/pool_2/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-pa4%3d128000-video%3d5070000.m3u8
+
+#EXTINF:0,BBC News
+http://ic.053f91a4.134c5e.vs-hls-uk-live.bbcfmt.vo.llnwi.net/pool_3/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
 
 #EXTINF:0,bpm
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
@@ -68,6 +74,9 @@ http://ic.5896f952.064889.vs-hls-uk-live.bbcfmt.vo.llnwi.net/pool_2/live/cbeebie
 
 #EXTINF:0,CBS
 http://lv7.ustvnow.com/dvrtest/mp4:B2144WHP0USTVNOW1/chunklist.m3u8?wowzasessionid=1814481146&key=C.OIKONA7223FD481753AC6223F6B7970D6E26AF262
+
+#EXTINF:0,Channel 4
+http://c001.p111.edgesuite.net/i/c001/channel4hd_1@97441/master.m3u8?__a__=off&b=500-1000
 
 #EXTINF:0,Channel Seven (HD Feed)
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224838/MISC2/master.m3u8
@@ -180,8 +189,8 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
 #EXTINF:-1,CLUBLAND
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
-#EXTINF:-1,THE CW
-http://lv7.ustvnow.com/dvrtest/mp4:33C7DWLYHUSTVNOW1/chunklist.m3u8?wowzasessionid=1709934719&key=C.OIKONA7223FD481753AC6223F6B7970D6E26AF262
+#EXTINF:-1,CNN Europe
+http://c001.p105.edgesuite.net/i/c001/cnn_1@97501/master.m3u8?__a__=off&b=500-1000
 
 #EXTINF:-1,DELUXE MUSIC
 http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
@@ -219,6 +228,9 @@ http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1,dream
 http://212.224.109.101/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
+#EXTINF:-1,E4
+http://c001.p124.edgesuite.net/i/c001/e4_1@137789/master.m3u8?__a__=off&b=500-1000
+
 #EXTINF:0,Elbe Kanal
 http://62.113.210.250/medienasa-live/elbe_high/playlist.m3u8
 
@@ -239,6 +251,9 @@ http://stream.smcloud.net/live2/eskatv/eskatv_480p/playlist.m3u8
 
 #EXTINF:-1,EXTRA
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
+
+#EXTINF:-1,Film4
+http://c001.p124.edgesuite.net/i/c001/film4_1@137790/master.m3u8?__a__=off&b=500-1000
 
 #EXTINF:-1,FORMUSIC.TV
 http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
@@ -442,10 +457,10 @@ http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
 http://cdn.rasset.ie/hls-live/_definst_/newsnow/newsnow-576.m3u8
 
 #EXTINF:0,RTÉ One
-https://www.ibox.ie/rayon/variantk/RTE1/c8f5110a-58c7-4992-9845-793f45d656ba940012895c28dd/var.m3u8
+http://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-360.m3u8
 
 #EXTINF:0,RTÉ Two
-https://www.ibox.ie/rayon/variantk/RTE2/c8f5110a-58c7-4992-9845-793f45d656ba940012895c28dd/var.m3u8
+http://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
 
 #EXTINF:-1,RTL
 http://live01.rtl.lu/channel1/smil:channel1/chunklist_w948198792_b2128000_slltz.m3u8
@@ -473,6 +488,9 @@ rtmp://194.29.5.2:80/live//myStream
 
 #EXTINF:0,Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+
+#EXTINF:0,Sky News
+http://skydvn-sn-cdhls-prod.skydvn.com/cdhls/skynewsamericas/1013/skynewsamericas_cdhls.m3u8
 
 #EXTINF:0,Tele Bärn
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_0mc3z57p_all.smil/chunklist_b846000.m3u8
