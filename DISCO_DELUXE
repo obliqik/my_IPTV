@@ -24,6 +24,21 @@ http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811942.mp4/p
 #EXTINF:0,Set 41
 http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811943.mp4/playlist.m3u8
 
+#EXTINF:0,Set 42
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811944.mp4/playlist.m3u8
+
+#EXTINF:0,Set 43
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811945.mp4/playlist.m3u8
+
+#EXTINF:0,Set 44
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811946.mp4/playlist.m3u8
+
+#EXTINF:0,Set 45
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811947.mp4/playlist.m3u8
+
+#EXTINF:0,Set 46
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811948.mp4/playlist.m3u8
+
 #EXTINF:0,Set 50
 http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811952.mp4/playlist.m3u8
 
@@ -60,8 +75,17 @@ http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/812289.mp4/p
 #EXTINF:0,Set 90
 http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/812290.mp4/playlist.m3u8
 
+#EXTINF:0,Set 92
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/812444.mp4/playlist.m3u8
+
 #EXTINF:0,Set 95
 http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/812447.mp4/playlist.m3u8
 
 #EXTINF:0,Set 98
 http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/812755.mp4/playlist.m3u8
+
+#EXTINF:0,Set 99
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/812756_1.mp4/playlist.m3u8
+
+#EXTINF:0,Set 100
+http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/812757.mp4/playlist.m3u8
