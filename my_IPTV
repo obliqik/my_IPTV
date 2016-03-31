@@ -3,9 +3,6 @@
 #EXTINF:-1,3e
 http://csm-e-eur3-50.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8;jsessionid=B7BDA7728E5095704990E6CB2B69BEC8.csm-e-eur3-50.cds1.yospace.com?yo.ac=true&yo.ac=true&yo.sl=3
 
-#EXTINF:-1,ABC
-http://lv9.ustvnow.com/dvrtest/mp4:43366WHTMUSTVNOW1/chunklist.m3u8?wowzasessionid=74847587&key=C.OIKONA7223FD481753AC6223F6B7970D6E26AF262
-
 #EXTINF:-1,ABC 1 (Australia)
 http://philheg02.ddns.net:1935/stream.m3u8
 
@@ -43,16 +40,13 @@ mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
 
 #EXTINF:0,BT SPORT 1
-http://02e4.vp9.tv/chn/btsu1/v.m3u8
+http://bit.ly/1RN8isP 
 
 #EXTINF:0,BT SPORT 2
-http://02e4.vp9.tv/chn/btsu2/v.m3u8
+http://bit.ly/1VRjg0j 
 
 #EXTINF:0,canal 9
 http://rtmp.infomaniak.ch/livecast/livehd/playlist.m3u8
-
-#EXTINF:0,canal 9
-rtmp://rtmp.infomaniak.ch/livecast/livehd
 
 #EXTINF:0,Canal C
 http://streaming06.axeweb.be:1935/canalc_live/_definst_/live.stream/chunklist_w643589610.m3u8
@@ -71,9 +65,6 @@ http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3
 
 #EXTINF:0,CBeebies
 http://ic.5896f952.064889.vs-hls-uk-live.bbcfmt.vo.llnwi.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d5070000.m3u8
-
-#EXTINF:0,CBS
-http://lv7.ustvnow.com/dvrtest/mp4:B2144WHP0USTVNOW1/chunklist.m3u8?wowzasessionid=1814481146&key=C.OIKONA7223FD481753AC6223F6B7970D6E26AF262
 
 #EXTINF:0,Channel 4
 http://c001.p111.edgesuite.net/i/c001/channel4hd_1@97441/master.m3u8?__a__=off&b=500-1000
@@ -174,7 +165,7 @@ https://9nowlivehls-i.akamaihd.net/hls/live/226647/ch9adlprd/master.m3u8
 #EXTINF:0,Channel Ten
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDATV.m3u8?zone=tenplay.web.live&vid=4640806154001®ion=SDATV
 
-#EXTINF:-1,CITV
+#EXTINF:-1,Citv
 http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
 
 #EXTINF:0,CITY
@@ -291,19 +282,19 @@ http://79.171.99.70:1935/webtv/innwebtv.stream/chunklist_w844868756.m3u8
 #EXTINF:-1,IL TV
 http://82.138.87.105:80/iltv/high/playlist.m3u8
 
-#EXTINF:-1,ITV
+#EXTINF:-1,itv
 http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1200.m3u8
 
-#EXTINF:-1,ITV2
+#EXTINF:-1,itv2
 http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1200.m3u8
 
-#EXTINF:-1,ITV3
+#EXTINF:-1,itv3
 http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
 
-#EXTINF:-1,ITV4
+#EXTINF:-1,itv4
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
 
-#EXTINF:-1,ITVBe
+#EXTINF:-1,itvBe
 http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
 
 #EXTINF:-1,JUCE TV
@@ -311,9 +302,6 @@ http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
 
 #EXTINF:-1,kanal 9
 http://rtmp.infomaniak.ch/livecast/livesd2/playlist.m3u8
-
-#EXTINF:-1,kanal 9
-rtmp://rtmp.infomaniak.ch/livecast/livesd2
 
 #EXTINF:-1,kanal 10
 http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
@@ -339,10 +327,10 @@ http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:0,M TUNES
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8
 
-#EXTINF:-1,m2o tv
+#EXTINF:-1,m2otv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,m2o tv 
+#EXTINF:-1,m2otv 
 http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 #EXTINF:-1,M6 Swiss
