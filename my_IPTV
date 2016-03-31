@@ -324,6 +324,12 @@ http://kontratv.flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
 #EXTINF:0,kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 
+#EXTINF:0,La3
+http://h3ghdchan102-i.akamaihd.net/hls/live/217154/Virtual_Channel102/master.m3u8
+
+#EXTINF:-1,La7
+http://la7live-lh.akamaihd.net/i/test_1@143593/index_1_av-b.m3u8
+
 #EXTINF:0,Léman Bleu
 http://rtmp.infomaniak.ch/livecast/naxoo/playlist.m3u8
 
@@ -399,6 +405,9 @@ http://cdn.stream.bbvms.com/live/omroepwest/tv-mobile/playlist.m3u8?wowzasession
 #EXTINF:-1,Omroep Zeeland
 http://livestream.zeelandnet.nl:1935/live/omroepzeeland_tv_200k.sdp/chunklist_w543682264.m3u8
 
+#EXTINF:-1,Onda Italiana
+http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
+
 #EXTINF:-1,One.by
 http://rtmp.one.by:1200
 
@@ -435,6 +444,12 @@ http://185.28.3.10/powertv/powertv.stream/playlist.m3u8
 #EXTINF:-1,Radio 105 TV
 rtmp://fms.105.net/live/105Test1
 
+#EXTINF:-1,RADIO CAPITAL TiVu
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1,Radio Italia Tv
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x576_av-p.m3u8
+
 #EXTINF:-1,RADIO MONTE CARLO TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
@@ -443,6 +458,24 @@ http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
 
 #EXTINF:-1,RADIONORBA TV
 http://85.17.80.132:1935/radionorbatv/norbatv_source.stream/live.m3u8
+
+#EXTINF:-1,Rai 1
+http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/index_1200_av-p.m3u8
+
+#EXTINF:-1,Rai 2
+http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/index_1200_av-p.m3u8
+
+#EXTINF:-1,Rai 3
+http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/index_1200_av-p.m3u8
+
+#EXTINF:-1,Rai 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
+
+#EXTINF:-1,Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1,Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 
 #EXTINF:-1,retro music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
