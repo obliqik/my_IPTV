@@ -258,9 +258,6 @@ http://194.116.73.146:1935/quartaretetv1/formusicweb/live.m3u8
 #EXTINF:-1,FORMUSIC.TV
 http://wowza1.top-ix.org:1935/quartaretetv1/formusicweb/live.m3u8
 
-#EXTINF:-1,FOX
-http://lv7.ustvnow.com/dvrtest/mp4:8A119WPMTUSTVNOW1/chunklist.m3u8?wowzasessionid=2065449581&key=C.OIKONA7223FD481753AC6223F6B7970D6E26AF262
-
 #EXTINF:-1,heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
@@ -360,14 +357,8 @@ http://s4w.deb1.scdn.smcloud.net/live/vox2/stream1/chunklist_w183889425.m3u8
 #EXTINF:0,Mute HD
 http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
 
-#EXTINF:-1,my 9
-http://lv7.ustvnow.com/dvrtest/mp4:6B3F2WHVLUSTVNOW1/chunklist.m3u8?wowzasessionid=1626206331&key=C.OIKONA7223FD481753AC6223F6B7970D6E26AF262
-
 #EXTINF:0,N4
 http://playlist.oz.com/live/n4/2500/playlist.m3u8
-
-#EXTINF:0,NBC
-http://lv7.ustvnow.com/dvrtest/mp4:2C2A5WGALUSTVNOW1/chunklist.m3u8?wowzasessionid=1044755190&key=C.OIKONA7223FD481753AC6223F6B7970D6E26AF262
 
 #EXTINF:0,notélé
 http://streaming06.axeweb.be/live//direct.stream/playlist.m3u8
