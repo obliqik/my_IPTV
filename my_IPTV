@@ -608,3 +608,9 @@ rtmp://piktv.cdnvideo.ru/piktv_live//piktv2pik2tv
 
 #EXTINF:-1,ПИК ТВ
 rtmp://piktv.cdnvideo.ru/piktv_live//piktv3pik3tv
+
+#EXTINF:-1,SPORTS
+http://pastebin.com/raw/5vpASk7H
+
+#EXTINF:-1,MUSIC
+http://pastebin.com/raw/FF6NjiQf
