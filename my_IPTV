@@ -3,17 +3,11 @@
 #EXTINF:-1,3e
 http://csm-e-eur3-50.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8;jsessionid=B7BDA7728E5095704990E6CB2B69BEC8.csm-e-eur3-50.cds1.yospace.com?yo.ac=true&yo.ac=true&yo.sl=3
 
-#EXTINF:-1,ABC 1 (Australia)
-http://philheg02.ddns.net:1935/stream.m3u8
-
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&b=800-2500&rebase=on
-
-#EXTINF:-1,ABC News 24
-http://iphonestreaming.abc.net.au/news24/news24.m3u8
 
 #EXTINF:0,ACTION 24
 http://stream-04.vty.dailymotion.com/11/dm/1/x2p626q/live.isml/events(live-1458228575)/live-audio=64000-video=400000.m3u8
@@ -68,102 +62,6 @@ http://ic.5896f952.064889.vs-hls-uk-live.bbcfmt.vo.llnwi.net/pool_2/live/cbeebie
 
 #EXTINF:0,Channel 4
 http://c001.p111.edgesuite.net/i/c001/channel4hd_1@97441/master.m3u8?__a__=off&b=500-1000
-
-#EXTINF:0,Channel Seven (HD Feed)
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224838/MISC2/master.m3u8
-
-#EXTINF:0,Channel Seven (Sydney HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224814/SYD1/master_high.m3u8
-
-#EXTINF:0,Channel Seven (Sydney) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224814/SYD1/master.m3u8
-
-#EXTINF:0,Channel Seven (Melbourne HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224813/MEL1/master_high.m3u8
-
-#EXTINF:0,Channel Seven (Brisbane) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224815/BRI1/master.m3u8
-
-#EXTINF:0,Channel Seven (Perth HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224817/PER1/master_high.m3u8
-
-#EXTINF:0,Channel Seven (Adelaide HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224816/ADE1/master_high.m3u8
-
-#EXTINF:0,7Mate (Sydney HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224840/SYD3/master_high.m3u8
-
-#EXTINF:0,7Mate (Sydney) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224840/SYD3/master.m3u8
-
-#EXTINF:0,7Mate (Melbourne HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224839/MEL3/master_high.m3u8
-
-#EXTINF:0,7Mate (Brisbane) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224841/BRI3/master.m3u8
-
-#EXTINF:0,7Mate (Perth) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224843/PER3/master.m3u8
-
-#EXTINF:0,7Mate (Adelaide HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224842/ADE3/master_high.m3u8
-
-#EXTINF:0,7TWO (Sydney HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224827/SYD2/master_high.m3u8
-
-#EXTINF:0,7TWO (Sydney) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224827/SYD2/master.m3u8
-
-#EXTINF:0,7TWO (Melbourne HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224826/MEL2/master_high.m3u8
-
-#EXTINF:0,7TWO (Brisbane) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224828/BRI2/master.m3u8
-
-#EXTINF:0,7TWO (Perth) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224830/PER2/master.m3u8
-
-#EXTINF:0,7TWO (Adelaide HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224829/ADE2/master_high.m3u8
-
-#EXTINF:0,7Flix (Sydney HQ) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224840/SYD3/master_high.m3u8
-
-#EXTINF:0,7Flix (Sydney) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224857/SYD6/master.m3u8
-
-#EXTINF:0,7Flix (Melbourne) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224856/MEL6/master.m3u8
-
-#EXTINF:0,7Flix (Brisbane) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224858/BRI6/master.m3u8
-
-#EXTINF:0,7Flix (Perth) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224860/PER6/master.m3u8
-
-#EXTINF:0,7Flix (Adelaide) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224859/ADE6/master.m3u8
-
-#EXTINF:0,7Flix (Queensland) 
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224861/QLD6/master.m3u8
-
-#EXTINF:0,Channel Nine (Melbourne)
-https://9nowlivehls-i.akamaihd.net/hls/live/226644/ch9melprd/master.m3u8
-
-#EXTINF:0,Channel Nine (Brisbane)
-https://9nowlivehls-i.akamaihd.net/hls/live/226646/ch9bneprd/master.m3u8
-
-#EXTINF:0,Channel Nine (Sydney) 
-https://9nowlivehls-i.akamaihd.net/hls/live/226554/ch9sydprd/master.m3u8
-
-#EXTINF:0,Channel Nine (Perth) 
-https://9nowlivehls-i.akamaihd.net/hls/live/226645/ch9perprd/master.m3u8
-
-#EXTINF:0,Channel Nine (Adelaide) 
-https://9nowlivehls-i.akamaihd.net/hls/live/226647/ch9adlprd/master.m3u8
-
-#EXTINF:0,Channel Ten
-http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDATV.m3u8?zone=tenplay.web.live&vid=4640806154001®ion=SDATV
 
 #EXTINF:-1,Citv
 http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
