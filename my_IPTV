@@ -597,20 +597,17 @@ http://str81.creacast.com:80/weo/high/playlist.m3u8
 #EXTINF:-1,WÈo HD
 rtmp://str81.creacast.com:80/weo/high
 
-#EXTINF:-1,Óčko
+#EXTINF:0,Óčko
 http://194.79.52.76:1935/ockoi/ockoHQ1/playlist.m3u8
 
-#EXTINF:-1,ПИК ТВ
-https://r6---sn-nv47lnez.googlevideo.com/videoplayback?c=web&clen=463969&cpn=hrRoAecpAF4H2SVQ&ctier=L&cver=as3&dur=18.240&expire=1456878619&fexp=3300131%2C3300161%2C3312306%2C3312381%2C9405975%2C9416126%2C9418199%2C9420452%2C9422596%2C9423485%2C9423661%2C9423662%2C9424135%2C9424822%2C9428472%2C9428649%2C9428702%2C9428991%2C9429384%2C9429983&gir=yes&hightc=yes&id=o-AHZ0--dwSv2UrZ3LVZortyV9nB9HlqA2NzB74DgFhcNX&ip=79.167.59.192&ipbits=0&itag=134&keepalive=yes&key=cms1&lmt=1449911867292883&mime=video%2Fmp4&pl=21&ratebypass=yes&requiressl=yes&signature=2D83CA7E82E68695F855D1D4FB7013C6F63DED52.25D7590AB2E0C74727B83F0040016091E023F9D8&source=youtube&sparams=clen,ctier,dur,expire,gir,hightc,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,nh,pl,requiressl,source,upn&sver=3&upn=jnY7vHpUGGY&redirect_counter=1&req_id=6dd79aed312312c3&cms_redirect=yes&mm=30&mn=sn-nv47lnez&ms=nxu&mt=1456856958&mv=m&nh=IgpwcjAzLnNvZjAxKgkxMjcuMC4wLjE
-
-#EXTINF:-1,ПИК ТВ
+#EXTINF:0,ПИК ТВ
 rtmp://piktv.cdnvideo.ru/piktv_live//piktv2pik2tv
 
-#EXTINF:-1,ПИК ТВ
+#EXTINF:0,ПИК ТВ
 rtmp://piktv.cdnvideo.ru/piktv_live//piktv3pik3tv
 
-#EXTINF:-1,_SPORTS_
+#EXTINF:0,/SPORTS/
 http://pastebin.com/raw/5vpASk7H
 
-#EXTINF:-1,_MUSIC_
+#EXTINF:0,/MUSIC/
 http://pastebin.com/raw/FF6NjiQf
