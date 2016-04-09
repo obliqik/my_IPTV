@@ -1,12 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1,3e
-http://csm-e-eur3-50.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8;jsessionid=B7BDA7728E5095704990E6CB2B69BEC8.csm-e-eur3-50.cds1.yospace.com?yo.ac=true&yo.ac=true&yo.sl=3
-
-#EXTINF:-1,ABC News
+#EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
-#EXTINF:-1,ABC News
+#EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&b=800-2500&rebase=on
 
 #EXTINF:0,ACTION 24
@@ -14,18 +11,6 @@ http://stream-04.vty.dailymotion.com/11/dm/1/x2p626q/live.isml/events(live-14582
 
 #EXTINF:0,ANT1 Cyprus
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
-
-#EXTINF:0,BBC ONE
-http://vs-hls-uk-live.edgesuite.net/pool_1/live/bbc_one_london/bbc_one_london.isml/bbc_one_london-pa4%3d128000-video%3d1604000.m3u8
-
-#EXTINF:0,BBC TWO
-http://ic.053f91a4.05a298.vs-hls-uk-live.bbcfmt.vo.llnwi.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
-
-#EXTINF:0,BBC FOUR
-http://vs-hls-uk-live.edgesuite.net/pool_2/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-pa4%3d128000-video%3d5070000.m3u8
-
-#EXTINF:0,BBC News
-http://ic.053f91a4.134c5e.vs-hls-uk-live.bbcfmt.vo.llnwi.net/pool_3/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
 
 #EXTINF:0,BLUE SKY
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
@@ -39,41 +24,32 @@ http://streaming06.axeweb.be:1935/canalc_live/_definst_/live.stream/chunklist_w6
 #EXTINF:0,Canal Zoom
 http://streaming06.axeweb.be:1935/canalzoom_live/_definst_/live.stream/chunklist_w1139540045.m3u8
 
-#EXTINF:0,CBBC
-http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
-
-#EXTINF:0,CBeebies
-http://ic.5896f952.064889.vs-hls-uk-live.bbcfmt.vo.llnwi.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d5070000.m3u8
-
-#EXTINF:0,Channel 4
-http://c001.p111.edgesuite.net/i/c001/channel4hd_1@97441/master.m3u8?__a__=off&b=500-1000
-
-#EXTINF:-1,Citv
-http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
-
-#EXTINF:-1,CNN Europe
+#EXTINF:0,CNN 
 http://c001.p105.edgesuite.net/i/c001/cnn_1@97501/master.m3u8?__a__=off&b=500-1000
 
-#EXTINF:-1,DELUXE MUSIC
+#EXTINF:0,CTV (HQ)
+http://ooyalahd2-f.akamaihd.net/i/gonet01_delivery@329735/index_2528_av-p.m3u8
+
+#EXTINF:0,CTV (MQ)
+http://ooyalahd2-f.akamaihd.net/i/gonet01_delivery@329735/index_1164_av-p.m3u8CNN Europe
+
+#EXTINF:0,DELUXE MUSIC
 http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
 
-#EXTINF:-1,DR1
+#EXTINF:0,DR1
 http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8?b=100-2000
 
-#EXTINF:-1,DR2
+#EXTINF:0,DR2
 http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8?b=100-2000
 
-#EXTINF:-1,DR3
+#EXTINF:0,DR3
 http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8?b=100-1600
 
-#EXTINF:-1,DR k
+#EXTINF:0,DR k
 http://dr04-lh.akamaihd.net/i/dr04_0@147057/master.m3u8?b=100-1600
 
-#EXTINF:-1,DR RamaSjang
+#EXTINF:0,DR RamaSjang
 http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=100-1600
-
-#EXTINF:-1,E4
-http://c001.p124.edgesuite.net/i/c001/e4_1@137789/master.m3u8?__a__=off&b=500-1000
 
 #EXTINF:0,Elbe Kanal
 http://62.113.210.250/medienasa-live/elbe_high/playlist.m3u8
@@ -81,26 +57,17 @@ http://62.113.210.250/medienasa-live/elbe_high/playlist.m3u8
 #EXTINF:0,EXTRA
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
 
-#EXTINF:0,Film4
-http://c001.p124.edgesuite.net/i/c001/film4_1@137790/master.m3u8?__a__=off&b=500-1000
+#EXTINF:0,Global (Toronto)
+https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
+
+#EXTINF:0,Global (British Columbia)
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8
+
+#EXTINF:0,Global (Halifax)
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
 
 #EXTINF:0,ÍNN
 http://79.171.99.70:1935/webtv/innwebtv.stream/chunklist_w844868756.m3u8
-
-#EXTINF:0,itv
-http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1200.m3u8
-
-#EXTINF:0,itv2
-http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1200.m3u8
-
-#EXTINF:0,itv3
-http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
-
-#EXTINF:0,itv4
-http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
-
-#EXTINF:0,itvBe
-http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
 
 #EXTINF:0,kanal 9
 http://rtmp.infomaniak.ch/livecast/livesd2/playlist.m3u8
@@ -123,9 +90,6 @@ http://la7live-lh.akamaihd.net/i/test_1@143593/index_1_av-b.m3u8
 #EXTINF:0,Léman Bleu
 http://rtmp.infomaniak.ch/livecast/naxoo/playlist.m3u8
 
-#EXTINF:0,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-
 #EXTINF:-1,M6 Swiss
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
@@ -147,59 +111,35 @@ http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
 #EXTINF:0,N4
 http://playlist.oz.com/live/n4/2500/playlist.m3u8
 
+#EXTINF:0,NASA
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:0,notélé
 http://streaming06.axeweb.be/live//direct.stream/playlist.m3u8
 
 #EXTINF:0,NR1
 http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
 
-#EXTINF:-1,Nuacht TG4
+#EXTINF:0,Nuacht TG4
 http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4688357261001&pubId=1290862567001&videoId=4688195840001
 
-#EXTINF:-1,Omroep Fryslan
+#EXTINF:0,Omroep Fryslan
 http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/chunklist_w1020411311_b2000000.m3u8
 
-#EXTINF:-1,Omroep West
+#EXTINF:0,Omroep West
 http://cdn.stream.bbvms.com/live/omroepwest/tv-mobile/playlist.m3u8?wowzasessionid=846044658
 
-#EXTINF:-1,Omroep Zeeland
+#EXTINF:0,Omroep Zeeland
 http://livestream.zeelandnet.nl:1935/live/omroepzeeland_tv_200k.sdp/chunklist_w543682264.m3u8
 
-#EXTINF:-1,Öppna Kanalen
+#EXTINF:0,Öppna Kanalen
 http://80.252.162.14/edge/_451iw2h_/451iw2h/chunklist_w185907408.m3u8?id=&s_referrer=http%3A%2F%2Fwww.squidtv.net%2Feurope%2Fsweden%2Fsweden-008.html&s_type=1
 
-#EXTINF:-1,ORF Sport + 
+#EXTINF:0,ORF Sport + 
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
-
-#EXTINF:-1,Rai 1
-http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/index_1200_av-p.m3u8
-
-#EXTINF:-1,Rai 2
-http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/index_1200_av-p.m3u8
-
-#EXTINF:-1,Rai 3
-http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/index_1200_av-p.m3u8
-
-#EXTINF:-1,Rai 4
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
-
-#EXTINF:-1,Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1,Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 
 #EXTINF:0,RFH
 http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
-
-#EXTINF:0,RTÉ 24 News
-http://cdn.rasset.ie/hls-live/_definst_/newsnow/newsnow-576.m3u8
-
-#EXTINF:0,RTÉ One
-http://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-360.m3u8
-
-#EXTINF:0,RTÉ Two
-http://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
 
 #EXTINF:-1,RTL
 http://live01.rtl.lu/channel1/smil:channel1/chunklist_w948198792_b2128000_slltz.m3u8
@@ -246,9 +186,6 @@ http://itv08.digizuite.dk/tv2b/ch1/playlist.m3u8
 #EXTINF:0,TV2/Øst
 http://cdn-lt-live.tveast.dk/dc-1/m/ny-live-publish2/kLive/smil:0_zphj9q61_all.smil/chunklist_b2144000.m3u8
 
-#EXTINF:0,TV3
-http://csm-e-eur3-20.cds1.yospace.com/csm/extlive/tv3ie01,tv3-prd.m3u8;jsessionid=BDC61B6B4929495C637FD003A890F640.csm-e-eur3-20.cds1.yospace.com?yo.ac=true&yo.ac=true&yo.sl=3
-
 #EXTINF:0,TV10
 http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
 
@@ -267,6 +204,9 @@ http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&reb
 #EXTINF:0,TVM 2
 http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8
 
+#EXTINF:0,TVNZ Duke
+https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/Duke/playlistR_55.m3u8
+
 #EXTINF:-1,Västmanlands TV
 http://82.96.17.34/cdn/_definst_/smil:e8e126fdd7c51ec3d56eed2492cc775e/s6c6uhl6.smil/chunklist_w1127379425_b4224000.m3u8
 
@@ -279,14 +219,3 @@ http://str81.creacast.com:80/weo/high/playlist.m3u8
 #EXTINF:-1,WÈo HD
 rtmp://str81.creacast.com:80/weo/high
 
-#EXTINF:0, S P O R T S
-http://pastebin.com/raw/5vpASk7H
-
-#EXTINF:0, M U S I C
-http://pastebin.com/raw/FF6NjiQf
-
-#EXTINF:0, A U S S I E
-http://pastebin.com/raw/b0AW18VF
-
-#EXTINF:0, T E S T
-http://pastebin.com/raw/aTxw1ptb
