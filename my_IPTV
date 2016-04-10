@@ -207,15 +207,38 @@ http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8
 #EXTINF:0,TVNZ Duke
 https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/Duke/playlistR_55.m3u8
 
-#EXTINF:-1,Västmanlands TV
+#EXTINF:0,Västmanlands TV
 http://82.96.17.34/cdn/_definst_/smil:e8e126fdd7c51ec3d56eed2492cc775e/s6c6uhl6.smil/chunklist_w1127379425_b4224000.m3u8
 
-#EXTINF:-1,WÈo
+#EXTINF:0,WÈo
 rtmp://str81.creacast.com:80/weo/high
 
-#EXTINF:-1,WÈo
+#EXTINF:0,WÈo
 http://str81.creacast.com:80/weo/high/playlist.m3u8
 
-#EXTINF:-1,WÈo HD
+#EXTINF:0,WÈo HD
 rtmp://str81.creacast.com:80/weo/high
 
+#EXTINF:0,_MUSIC
+http://pastebin.com/raw/FF6NjiQf
+
+#EXTINF:0,_BRITISH
+http://pastebin.com/raw/SkNNc6Mi
+
+#EXTINF:0,_FRENCH
+http://pastebin.com/raw/HWtuYHz2
+
+#EXTINF:0,_ITALIAN
+http://pastebin.com/raw/eXLw2QcP
+
+#EXTINF:0,_AUSTRALIAN
+http://pastebin.com/raw/b0AW18VF
+
+#EXTINF:0,_X
+http://pastebin.com/raw/j7qh3GX2
+
+#EXTINF:0,_SPORTS
+http://pastebin.com/raw/5vpASk7H
+
+#EXTINF:0,_TRST
+http://pastebin.com/raw/aTxw1ptb
