@@ -13,7 +13,7 @@ http://stream-11.vty.dailymotion.com/34/dm/1/x2p626q/live.isml/live.m3u8?e=14604
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 
 #EXTINF:0,BLUE SKY
-http://136.243.200.188/tvlive/tvlive/playlist.m3u8
+http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
 
 #EXTINF:0,canal 9
 http://rtmp.infomaniak.ch/livecast/livehd/playlist.m3u8
