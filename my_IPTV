@@ -7,13 +7,13 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&b=800-2500&rebase=on
 
 #EXTINF:0,ACTION 24
-http://stream-04.vty.dailymotion.com/11/dm/1/x2p626q/live.isml/events(live-1458228575)/live-audio=64000-video=400000.m3u8
+http://stream-07.vty.dailymotion.com/41/dm/1/x2p626q/live.isml/events(live-1459931039)/live-audio=64000-video=400000.m3u8
 
 #EXTINF:0,ANT1 Cyprus
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 
 #EXTINF:0,BLUE SKY
-http://88.198.238.44:1935/live/bluesky/playlist.m3u8
+http://136.243.200.188/tvlive/tvlive/playlist.m3u8
 
 #EXTINF:0,canal 9
 http://rtmp.infomaniak.ch/livecast/livehd/playlist.m3u8
