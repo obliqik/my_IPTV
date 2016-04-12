@@ -84,25 +84,28 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0,La3
 http://h3ghdchan102-i.akamaihd.net/hls/live/217154/Virtual_Channel102/master.m3u8
 
-#EXTINF:-1,La7
+#EXTINF:0,La7
 http://la7live-lh.akamaihd.net/i/test_1@143593/index_1_av-b.m3u8
 
 #EXTINF:0,Léman Bleu
 http://rtmp.infomaniak.ch/livecast/naxoo/playlist.m3u8
 
-#EXTINF:-1,M6 Swiss
+#EXTINF:0,M1
+http://5.135.139.145:80/M1/mono.m3u8
+
+#EXTINF:0,M6 Swiss
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
-#EXTINF:-1,Malmö MK
+#EXTINF:0,Malmö MK
 http://82.96.17.34/edge/_8ynhbua3_/8ynhbua3/chunklist_w471369106.m3u8?id=&s_referrer=http%3A%2F%2Ftvmalmo.se%2Flive%2F&s_type=1
 
-#EXTINF:-1,MAtélé
+#EXTINF:0,MAtélé
 http://streaming06.axeweb.be/matele_live//live.stream/playlist.m3u8
 
 #EXTINF:0,MNM
 http://live.stream.vrt.be/vrt_mnm_live/_definst_/smil:vrt_mnm_live.smil/chunklist_w528390648_b1296000.m3u8
 
-#EXTINF:-1,MFMTV
+#EXTINF:0,MFMTV
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
 
 #EXTINF:0,Mute HD
@@ -141,19 +144,22 @@ http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:0,RFH
 http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
 
-#EXTINF:-1,RTL
+#EXTINF:0,RTL
 http://live01.rtl.lu/channel1/smil:channel1/chunklist_w948198792_b2128000_slltz.m3u8
 
-#EXTINF:-1,RTV Drenthe
+#EXTINF:0,RTL KLUB
+http://5.135.139.145:80/RTL_Klub_HD/mono.m3u8
+
+#EXTINF:0,RTV Drenthe
 http://stream.rtvdrenthe.nl/tv/tvstream1/chunklist_w33710350.m3u8
 
-#EXTINF:-1,RTV Rijnmond
+#EXTINF:0,RTV Rijnmond
 http://cdn.stream.bbvms.com/live/rijnmond/tv-high/playlist.m3u8?wowzasessionid=6264898
 
-#EXTINF:-1,RÚV
+#EXTINF:0,RÚV
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
 
-#EXTINF:-1,RÚV 2
+#EXTINF:0,RÚV 2
 http://ruvruv2erl-live.hls.adaptive.level3.net/ruv/ruv2erl/index/stream4.m3u8
 
 #EXTINF:0,SCHWEIZ 5
