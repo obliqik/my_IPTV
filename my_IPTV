@@ -39,14 +39,26 @@ http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
 #EXTINF:0,DR1
 http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8?b=100-2000
 
+#EXTINF:0,DR1
+http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8
+
 #EXTINF:0,DR2
 http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8?b=100-2000
+
+#EXTINF:0,DR2
+http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8
 
 #EXTINF:0,DR3
 http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8?b=100-1600
 
+#EXTINF:0,DR3
+http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8
+
 #EXTINF:0,DR k
 http://dr04-lh.akamaihd.net/i/dr04_0@147057/master.m3u8?b=100-1600
+
+#EXTINF:0,DR k
+http://dr04-lh.akamaihd.net/i/dr04_0@147057/master.m3u8
 
 #EXTINF:0,DR RamaSjang
 http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=100-1600
@@ -159,8 +171,14 @@ http://cdn.stream.bbvms.com/live/rijnmond/tv-high/playlist.m3u8?wowzasessionid=6
 #EXTINF:0,RÚV
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
 
+#EXTINF:0,RÚV
+http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv/index.m3u8
+
 #EXTINF:0,RÚV 2
 http://ruvruv2erl-live.hls.adaptive.level3.net/ruv/ruv2erl/index/stream4.m3u8
+
+#EXTINF:0,RÚV 2
+http://ruvruv2erl-live.hls.adaptive.level3.net/ruv/ruv2/index.m3u8
 
 #EXTINF:0,SCHWEIZ 5
 rtmp://194.29.5.2:80/live//myStream
@@ -170,6 +188,12 @@ http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 
 #EXTINF:0,Sky News
 http://skydvn-sn-cdhls-prod.skydvn.com/cdhls/skynewsamericas/1013/skynewsamericas_cdhls.m3u8
+
+#EXTINF:0,SVT 1
+https://svt10-lh.akamaihd.net/i/svt10_0@77505/master.m3u8
+
+#EXTINF:0,SVT 2
+https://svt12-lh.akamaihd.net/i/svt12_0@77507/master.m3u8
 
 #EXTINF:0,Tele Bärn
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_0mc3z57p_all.smil/chunklist_b846000.m3u8
@@ -191,6 +215,9 @@ http://itv08.digizuite.dk/tv2b/ch1/playlist.m3u8
 
 #EXTINF:0,TV2/Øst
 http://cdn-lt-live.tveast.dk/dc-1/m/ny-live-publish2/kLive/smil:0_zphj9q61_all.smil/chunklist_b2144000.m3u8
+
+#EXTINF:0,TV3 (NZ)
+http://mworks-i.akamaihd.net/hls/live/247858/AES128/3812193411001/tv3_live/master_2000
 
 #EXTINF:0,TV10
 http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
