@@ -211,7 +211,7 @@ http://vm109.imust.org:1935/live/telemb-live/chunklist_w1382850771.m3u8
 http://vm109.imust.org:1935/live/televesdre-live/chunklist_w1412507044.m3u8
 
 #EXTINF:0,TV2/Bornholm
-http://itv08.digizuite.dk/tv2b/ch1/playlist.m3u8
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 #EXTINF:0,TV2/Øst
 http://cdn-lt-live.tveast.dk/dc-1/m/ny-live-publish2/kLive/smil:0_zphj9q61_all.smil/chunklist_b2144000.m3u8
@@ -241,7 +241,7 @@ http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8
 https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/Duke/playlistR_55.m3u8
 
 #EXTINF:0,Västmanlands TV
-http://82.96.17.34/cdn/_definst_/smil:e8e126fdd7c51ec3d56eed2492cc775e/s6c6uhl6.smil/chunklist_w1127379425_b4224000.m3u8
+http://83.140.64.214/edge/_93pr0kxj_/93pr0kxj/chunklist_w309347408.m3u8?id=&s_referrer=http%3A%2F%2Fwww.vastmanland.tv%2F&s_type=2
 
 #EXTINF:0,WÈo
 http://str81.creacast.com:80/weo/high/playlist.m3u8
