@@ -31,7 +31,7 @@ http://c001.p105.edgesuite.net/i/c001/cnn_1@97501/master.m3u8?__a__=off&b=500-10
 http://ooyalahd2-f.akamaihd.net/i/gonet01_delivery@329735/index_2528_av-p.m3u8
 
 #EXTINF:0,CTV (MQ)
-http://ooyalahd2-f.akamaihd.net/i/gonet01_delivery@329735/index_1164_av-p.m3u8CNN Europe
+http://ooyalahd2-f.akamaihd.net/i/gonet01_delivery@329735/index_1164_av-p.m3u8
 
 #EXTINF:0,DELUXE MUSIC
 http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
@@ -67,7 +67,7 @@ http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=100-1600
 http://62.113.210.250/medienasa-live/elbe_high/playlist.m3u8
 
 #EXTINF:0,EXTRA
-rtmp://213.16.167.186:1935/live/mpegts_256.stream
+http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
 
 #EXTINF:0,Global (Toronto)
 https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
@@ -181,7 +181,7 @@ http://ruvruv2erl-live.hls.adaptive.level3.net/ruv/ruv2erl/index/stream4.m3u8
 http://ruvruv2erl-live.hls.adaptive.level3.net/ruv/ruv2/index.m3u8
 
 #EXTINF:0,SCHWEIZ 5
-rtmp://194.29.5.2:80/live//myStream
+http://194.29.5.2:80/live//myStream/playlist.m3u8
 
 #EXTINF:0,Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
@@ -202,7 +202,7 @@ http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_0mc3z57p_al
 http://rtmp.infomaniak.ch/livecast/telebielinguech/playlist.m3u8
 
 #EXTINF:0,Tele M1
-http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_ljzy3evp_all.smil/chunklist_b846000.m3u8
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish2/kLive/smil:1_ljzy3evp_all.smil/32/chunklist.m3u8
 
 #EXTINF:0,Télé MB
 http://vm109.imust.org:1935/live/telemb-live/chunklist_w1382850771.m3u8
@@ -244,13 +244,7 @@ https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/Duke/playlist
 http://82.96.17.34/cdn/_definst_/smil:e8e126fdd7c51ec3d56eed2492cc775e/s6c6uhl6.smil/chunklist_w1127379425_b4224000.m3u8
 
 #EXTINF:0,WÈo
-rtmp://str81.creacast.com:80/weo/high
-
-#EXTINF:0,WÈo
 http://str81.creacast.com:80/weo/high/playlist.m3u8
-
-#EXTINF:0,WÈo HD
-rtmp://str81.creacast.com:80/weo/high
 
 #EXTINF:0,_MUSIC
 http://pastebin.com/raw/FF6NjiQf
