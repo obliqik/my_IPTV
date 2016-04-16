@@ -246,26 +246,26 @@ http://83.140.64.214/edge/_93pr0kxj_/93pr0kxj/chunklist_w309347408.m3u8?id=&s_re
 #EXTINF:0,WÈo
 http://str81.creacast.com:80/weo/high/playlist.m3u8
 
-#EXTINF:0,_MUSIC
+#EXTGRP:_MUSIC
 http://pastebin.com/raw/FF6NjiQf
 
-#EXTINF:0,_BRITISH
+#EXTGRP:_BRITISH
 http://pastebin.com/raw/SkNNc6Mi
 
-#EXTINF:0,_FRENCH
+#EXTGRP:_FRENCH
 http://pastebin.com/raw/HWtuYHz2
 
-#EXTINF:0,_ITALIAN
+#EXTGRP:_ITALIAN
 http://pastebin.com/raw/eXLw2QcP
 
-#EXTINF:0,_AUSTRALIAN
+#EXTGRP:_AUSTRALIAN
 http://pastebin.com/raw/b0AW18VF
 
-#EXTINF:0,_X
+#EXTGRP:_X
 http://pastebin.com/raw/j7qh3GX2
 
-#EXTINF:0,_SPORTS
+#EXTGRP:_SPORTS
 http://pastebin.com/raw/5vpASk7H
 
-#EXTINF:0,_TEST
+#EXTGRP:_TEST
 http://pastebin.com/raw/aTxw1ptb
