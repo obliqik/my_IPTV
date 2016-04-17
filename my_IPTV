@@ -1,16 +1,46 @@
 #EXTM3U
 
+#EXTINF:0,3+
+http://91.188.34.232:1234/3+
+
+#EXTINF:0,7 Kanal
+http://vs8.cdn.ott.otautv.kz:80/dtv/id105_KTR_SG--7Canal/03/plst.m3u8
+
 #EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 #EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&b=800-2500&rebase=on
 
+#EXTINF:0,AC TV Belg
+http://vm109.imust.org:1935/live/livestream/playlist.m3u8?wowzasessionid=1212295388
+
 #EXTINF:0,ACTION 24
 http://stream-08.vty.dailymotion.com/15/dm/1/x2p626q/live.isml/events(live-1460864383)/live-audio=64000-video=400000.m3u8
 
+#EXTINF:0,AMG TV
+http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8
+
 #EXTINF:0,ANT1 Cyprus
-rtmp://46.21.53.171/iwohttporigin/mp4:livestream
+http://46.21.53.171/iwohttporigin/mp4:livestream/playlist.m3u8
+
+#EXTINF:0,Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
+#EXTINF:0,Antenne Centre TV
+http://vm109.imust.org:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1,ARTE
+http://streaming-hub.com/stream/arte.m3u8
+
+#EXTINF:0,AT5
+http://lb-rtvnh-live.streamgate.nl/at5/video/at5.smil/chunklist_w1802746158_b2500000.m3u8
+
+#EXTINF:0,AUSTRIA 24
+http://streaming.austria24.tv/live/stream_360p/playlist.m3u8
+
+#EXTINF:0,Beatz
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
 
 #EXTINF:0,BLUE SKY
 http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
@@ -114,6 +144,9 @@ http://82.96.17.34/edge/_8ynhbua3_/8ynhbua3/chunklist_w471369106.m3u8?id=&s_refe
 #EXTINF:0,MAtélé
 http://streaming06.axeweb.be/matele_live//live.stream/playlist.m3u8
 
+#EXTINF:0,7 Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8
+
 #EXTINF:0,MNM
 http://live.stream.vrt.be/vrt_mnm_live/_definst_/smil:vrt_mnm_live.smil/chunklist_w528390648_b1296000.m3u8
 
@@ -129,8 +162,14 @@ http://playlist.oz.com/live/n4/2500/playlist.m3u8
 #EXTINF:0,NASA
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:0,7 Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-p.m3u8
+
 #EXTINF:0,notélé
 http://streaming06.axeweb.be/live//direct.stream/playlist.m3u8
+
+#EXTINF:0,nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
 
 #EXTINF:0,NR1
 http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
