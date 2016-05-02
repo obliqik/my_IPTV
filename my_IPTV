@@ -39,9 +39,6 @@ http://lb-rtvnh-live.streamgate.nl/at5/video/at5.smil/chunklist_w1802746158_b250
 #EXTINF:0,AUSTRIA 24
 http://streaming.austria24.tv/live/stream_360p/playlist.m3u8
 
-#EXTINF:0,Beatz
-http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
-
 #EXTINF:0,BLUE SKY
 http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
 
