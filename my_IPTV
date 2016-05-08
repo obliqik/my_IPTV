@@ -274,7 +274,7 @@ http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
 http://nerit2-lh.akamaihd.net/i/neritplus_1@121149/master.m3u8
 
 #EXTINF:0,ACTION 24
-http://stream-08.vty.dailymotion.com/15/dm/1/x2p626q/live.isml/events(live-1460864383)/live-audio=64000-video=400000.m3u8
+http://stream-12.vty.dailymotion.com/05/dm/1/x2p626q/live.isml/live.m3u8?e=1462904934&st=EQT6oD-3jCKQ6Y4ZkeOptw#cell=lvty
 
 #EXTINF:0,BLUE SKY
 http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
