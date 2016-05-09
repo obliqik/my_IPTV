@@ -294,6 +294,21 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0,kontra
 http://flashcloud.mediacdn.com/live/kontratv/hasbahca.m3u8
 
+#EXTINF:0,Real FM 97.8
+http://realfm.live24.gr/realfm
+
+#EXTINF:0,Parapolitika FM 90.1
+http://live24.gr/radio/generic.jsp?sid=1986
+
+#EXTINF:0,Focus FM 103.6
+http://live24.gr/radio/generic.jsp?sid=2001
+
+#EXTINF:0,ΣΚΑΪ 100.3
+http://www.skai.gr/mobile/radio-live/
+
+#EXTINF:0,ΒΗΜΑ FM 99.5
+http://www.tovima.gr/vimafm995/radioad/vimafmlive.html
+
 #EXTGRP:_MUSIC
 http://pastebin.com/raw/FF6NjiQf
 
