@@ -285,6 +285,9 @@ http://kontratv.flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
 #EXTINF:0,kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 
+#EXTINF:0,kontra
+http://flashcloud.mediacdn.com/live/kontratv/hasbahca.m3u8
+
 #EXTGRP:_MUSIC
 http://pastebin.com/raw/FF6NjiQf
 
