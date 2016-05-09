@@ -267,6 +267,12 @@ http://str81.creacast.com:80/weo/high/playlist.m3u8
 #EXTINF:0,Alpha
 http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
  
+#EXTINF:0,ANT1
+http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
+
+#EXTINF:0,mega
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+
 #EXTINF:0,ERT1
 http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
 
