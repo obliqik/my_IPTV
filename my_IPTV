@@ -345,6 +345,9 @@ http://streaming.dol.gr/vimafm
 #EXTINF:0,Alpha 98.9
 http://194.219.46.2:8080/live
 
+#EXTINF:0,ERT Open
+http://radio.ertopen.com/erasport
+
 #EXTGRP:_MUSIC
 http://pastebin.com/raw/FF6NjiQf
 
