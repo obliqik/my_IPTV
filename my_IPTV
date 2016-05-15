@@ -1,16 +1,10 @@
 #EXTM3U
 
-#EXTINF:0,3+
-http://91.188.34.232:1234/3+
-
 #EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 #EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&b=800-2500&rebase=on
-
-#EXTINF:0,AC TV Belg
-http://vm109.imust.org:1935/live/livestream/playlist.m3u8?wowzasessionid=1212295388
 
 #EXTINF:0,AMG TV
 http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8
@@ -21,14 +15,8 @@ http://46.21.53.171:1935/iwohttporigin/mp4:livestream/playlist.m3u8
 #EXTINF:0,ANT1 Cyprus
 http://ant1cypruslive-vh.akamaihd.net/iwohttporigin/livestream/playlist.m3u8
 
-#EXTINF:0,ANT1 Focus
-http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
-
 #EXTINF:0,Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-
-#EXTINF:0,Antenne Centre TV
-http://vm109.imust.org:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1,ARTE
 http://streaming-hub.com/stream/arte.m3u8
@@ -50,12 +38,6 @@ http://streaming06.axeweb.be:1935/canalzoom_live/_definst_/live.stream/chunklist
 
 #EXTINF:0,CNN 
 http://c001.p105.edgesuite.net/i/c001/cnn_1@97501/master.m3u8?__a__=off&b=500-1000
-
-#EXTINF:0,CTV (HQ)
-http://ooyalahd2-f.akamaihd.net/i/gonet01_delivery@329735/index_2528_av-p.m3u8
-
-#EXTINF:0,CTV (MQ)
-http://ooyalahd2-f.akamaihd.net/i/gonet01_delivery@329735/index_1164_av-p.m3u8
 
 #EXTINF:0,DELUXE MUSIC
 http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
@@ -89,9 +71,6 @@ http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=100-1600
 
 #EXTINF:0,Elbe Kanal
 http://62.113.210.250/medienasa-live/elbe_high/playlist.m3u8
-
-#EXTINF:0,EXTRA
-http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
 
 #EXTINF:0,Global (Toronto)
 https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
@@ -323,6 +302,9 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 
 #EXTINF:0,kontra
 http://flashcloud.mediacdn.com/live/kontratv/hasbahca.m3u8
+
+#EXTINF:0,EXTRA
+http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
 
 #EXTINF:0,MAKELEIO TV
 http://makeliolive-lh.akamaihd.net/i/event_1@167269/master.m3u8
