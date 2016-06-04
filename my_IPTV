@@ -24,6 +24,21 @@ http://lb-rtvnh-live.streamgate.nl/at5/video/at5.smil/chunklist_w1802746158_b250
 #EXTINF:0,AUSTRIA 24
 http://streaming.austria24.tv/live/stream_360p/playlist.m3u8
 
+#EXTINF:0,AUSTRIA 24
+http://5.9.11.81/live/stream_720p/playlist.m3u8
+
+#EXTINF:0,BNT 1
+http://media2.bnt.bg:1935/live/bnt1/playlist.m3u8
+
+#EXTINF:0,BNT 2
+http://media2.bnt.bg:1935/live/bnt2/playlist.m3u8
+
+#EXTINF:0,BNT HD
+http://media2.bnt.bg:1935/live/bnthd/playlist.m3u8
+
+#EXTINF:0,BNT World
+http://media2.bnt.bg:1935/live/bntsat/playlist.m3u8
+
 #EXTINF:0,canal 9
 http://rtmp.infomaniak.ch/livecast/livehd/playlist.m3u8
 
@@ -203,6 +218,9 @@ http://vm109.imust.org:1935/live/telemb-live/chunklist_w1382850771.m3u8
 
 #EXTINF:0,Televesdre
 http://vm109.imust.org:1935/live/televesdre-live/chunklist_w1412507044.m3u8
+
+#EXTINF:-1,Trace Sport✰Stars
+http://stream-01.vty.dailymotion.com/21/dc/1/50b7998806361d3ecc0138cc/51fa29bf94739943dc000014/live.isml/events/live-audio%3D64000-video%3D928000.m3u8
 
 #EXTINF:0,TV2/Bornholm
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
