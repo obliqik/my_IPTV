@@ -135,7 +135,22 @@ http://livestream.zeelandnet.nl:1935/live/omroepzeeland_tv_200k.sdp/chunklist_w5
 #EXTINF:0,Öppna Kanalen
 http://80.252.162.14/edge/_451iw2h_/451iw2h/chunklist_w185907408.m3u8?id=&s_referrer=http%3A%2F%2Fwww.squidtv.net%2Feurope%2Fsweden%2Fsweden-008.html&s_type=1
 
-#EXTINF:0,ORF Sport + 
+#EXTINF:0,ORF eins
+http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
+
+#EXTINF:0,ORF 2
+http://185.85.28.20/orf2/q8c.sdp/chunklist.m3u8
+
+#EXTINF:0,ORF 2
+http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
+
+#EXTINF:0,ORF |||
+http://185.85.28.20/orf3/q8c.sdp/chunklist.m3u8
+
+#EXTINF:0,ORF |||
+http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
+
+#EXTINF:0,ORF SPORT + 
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 
 #EXTINF:0,RFH
