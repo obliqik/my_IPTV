@@ -15,6 +15,9 @@ http://46.21.53.171:1935/iwohttporigin/mp4:livestream/playlist.m3u8
 #EXTINF:0,ANT1 Cyprus
 http://ant1cypruslive-vh.akamaihd.net/iwohttporigin/livestream/playlist.m3u8
 
+#EXTINF:0,Antenne Centre Télévision
+http://vm109.imust.org:1935/live/livestream/chunklist_w1493629114.m3u8
+
 #EXTINF:-1,ARTE
 http://streaming-hub.com/stream/arte.m3u8
 
@@ -51,6 +54,9 @@ http://streaming06.axeweb.be:1935/canalzoom_live/_definst_/live.stream/chunklist
 #EXTINF:0,CNN 
 http://c001.p105.edgesuite.net/i/c001/cnn_1@97501/master.m3u8?__a__=off&b=500-1000
 
+#EXTINF:0,CT 1
+http://213.81.153.241/live001/channel031_p4.stream/chunklist_w1396882511_DVR.m3u8
+
 #EXTINF:0,DELUXE MUSIC
 http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
 
@@ -84,6 +90,9 @@ http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=100-1600
 #EXTINF:0,Elbe Kanal
 http://62.113.210.250/medienasa-live/elbe_high/playlist.m3u8
 
+#EXTINF:0,FilmBOX
+http://213.81.153.241/live001/channel018_p4.stream/chunklist_w713018998_DVR.m3u8
+
 #EXTINF:0,Global (Toronto)
 https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
 
@@ -92,6 +101,9 @@ https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8
 
 #EXTINF:0,Global (Halifax)
 https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
+
+#EXTINF:0,GPTV
+http://stream3.paystream.tv/live/test/chunklist_w1170642058.m3u8?time=1465325184788
 
 #EXTINF:0,ÍNN
 http://79.171.99.70:1935/webtv/innwebtv.stream/chunklist_w844868756.m3u8
@@ -102,11 +114,17 @@ http://rtmp.infomaniak.ch/livecast/livesd2/playlist.m3u8
 #EXTINF:0,kanal 10
 http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
 
+#EXTINF:0,KNR
+https://r7---sn-ixaa5n-5uiz.googlevideo.com/videoplayback/id/y-Za81o1Oo4.86/itag/137/source/yt_live_broadcast/requiressl/yes/playlist_type/DVR/gcr/ae/ratebypass/yes/cmbypass/yes/mime/video%2Fmp4/live/1/gir/yes/sver/3/upn/aI_yGI-Q5As/fexp/9416126,9416891,9422596,9428398,9431012,9431849,9432683,9432772,9433096,9433221,9433946,9435394,9435527,9435697,9435876,9435988,9436275,9436346,9436918,9436952,9437066,9437228,9437553,9438382/key/cms1/signature/627C041B1F87912C045B57B1DE2C0D5D731BEDF0.6926FCE3299E763AB72C38F131DAD8370C66E010/cpn/a5NeZVBwIST9OiJn/mpd_version/4/pacing/0/ip/46.177.214.201/ipbits/0/expire/1465345722/sparams/cmbypass,expire,gcr,gir,id,ip,ipbits,itag,live,mime,mm,mn,ms,mv,pcm2cms,pl,playlist_type,ratebypass,requiressl,source/mm/32/mn/sn-ixaa5n-5uiz/ms/lv/mt/1465324104/mv/m/pcm2cms/yes/pl/19/
+
 #EXTINF:0,La3
 http://h3ghdchan102-i.akamaihd.net/hls/live/217154/Virtual_Channel102/master.m3u8
 
 #EXTINF:0,La7
 http://la7live-lh.akamaihd.net/i/test_1@143593/index_1_av-b.m3u8
+
+#EXTINF:0,LA TELE
+http://rtmp.infomaniak.ch/livecast/latele/chunklist_w941698022.m3u8
 
 #EXTINF:0,Léman Bleu
 http://rtmp.infomaniak.ch/livecast/naxoo/playlist.m3u8
@@ -153,11 +171,17 @@ http://80.252.162.14/edge/_451iw2h_/451iw2h/chunklist_w185907408.m3u8?id=&s_refe
 #EXTINF:0,ORF eins
 http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
 
+#EXTINF:0,ORF eins
+http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/chunklist_w1527620949.m3u8?ip=37.143.176.35&ua=Mozilla%252f5.0%2B%28iPhone%253b%2BU%253b%2BCPU%2BiPhone%2BOS%2B3_0%2Blike%2BMac%2BOS%2BX%253b%2Ben-us%29&lbs=20160522193743927&origin=http%253a%252f%252f185.85.28.19%252forf1%252fq4a.sdp%252fchunklist_w1527620949.m3u8%253fip%253d37.143.176.35%2526ua%253dMozilla%2525252f5.0%25252B%252528iPhone%2525253b%25252BU%2525253b%25252BCPU%25252BiPhone%25252BOS%25252B3_0%25252Blike%25252BMac%25252BOS%25252BX%2525253b%25252Ben-us%252529%2526lbs%253d20160522193743927
+
 #EXTINF:0,ORF 2
 http://185.85.28.20/orf2/q8c.sdp/chunklist.m3u8
 
 #EXTINF:0,ORF 2
 http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
+
+#EXTINF:0,ORF 2
+http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/chunklist_w1914914098.m3u8?ip=37.143.176.21&ua=Mozilla%252f5.0%2B%28iPhone%253b%2BU%253b%2BCPU%2BiPhone%2BOS%2B3_0%2Blike%2BMac%2BOS%2BX%253b%2Ben-us%29&lbs=20160522165320119&origin=http%253a%252f%252f185.85.28.21%252forf2%252fq4a.sdp%252fchunklist_w1914914098.m3u8%253fip%253d37.143.176.20%2526ua%253dMozilla%2525252f5.0%25252B%252528iPhone%2525253b%25252BU%2525253b%25252BCPU%25252BiPhone%25252BOS%25252B3_0%25252Blike%25252BMac%25252BOS%25252BX%2525253b%25252Ben-us%252529%2526lbs%253d20160522165320119
 
 #EXTINF:0,ORF |||
 http://185.85.28.20/orf3/q8c.sdp/chunklist.m3u8
@@ -168,11 +192,20 @@ http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 #EXTINF:0,ORF SPORT + 
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 
+#EXTINF:0,ORF SPORT +
+http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/chunklist_w436109872.m3u8?ip=37.143.176.25&ua=Mozilla%252f5.0%2B%28iPhone%253b%2BU%253b%2BCPU%2BiPhone%2BOS%2B3_0%2Blike%2BMac%2BOS%2BX%253b%2Ben-us%29&lbs=20160522193559902&origin=http%253a%252f%252f185.85.29.19%252forfs%252fq4a.sdp%252fchunklist_w436109872.m3u8%253fip%253d37.143.176.25%2526ua%253dMozilla%2525252f5.0%25252B%252528iPhone%2525253b%25252BU%2525253b%25252BCPU%25252BiPhone%25252BOS%25252B3_0%25252Blike%25252BMac%25252BOS%25252BX%2525253b%25252Ben-us%252529%2526lbs%253d20160522193559902
+
+#EXTINF:0,RE eins
+http://www.reeins.tv:1935/live/re1/chunklist_w1776156647.m3u8
+
 #EXTINF:0,RFH
 http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
 
 #EXTINF:0,RTL
 http://live01.rtl.lu/channel1/smil:channel1/chunklist_w948198792_b2128000_slltz.m3u8
+
+#EXTINF:0,RTS
+http://80.237.191.228:1935/live/_definst_/RTS2015/chunklist_w701308619.m3u8
 
 #EXTINF:0,RTV Drenthe
 http://stream.rtvdrenthe.nl/tv/tvstream1/chunklist_w33710350.m3u8
@@ -201,14 +234,32 @@ http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 #EXTINF:0,SIGMA
 http://81.21.47.74/hls/live.m3u8
 
+#EXTINF:0,Spectrum
+http://213.81.153.241/live001/channel054_p4.stream/chunklist_w1144031428_DVR.m3u8
+
+#EXTINF:0,Spectrum Home
+http://213.81.153.241/live001/channel056_p4.stream/chunklist_w1994030569_DVR.m3u8
+
 #EXTINF:0,SVT 1
 https://svt10-lh.akamaihd.net/i/svt10_0@77505/master.m3u8
 
 #EXTINF:0,SVT 2
 https://svt12-lh.akamaihd.net/i/svt12_0@77507/master.m3u8
 
+#EXTINF:0,Tallinna TV
+http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/chunklist_w2101110295_b3220674_t64SFE=.m3u8
+
+#EXTINF:0,TeleBarn
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish2/kLive/smil:1_0mc3z57p_all.smil/32/chunklist.m3u8
+
+#EXTINF:0,TeleBasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/chunklist_w1076008788.m3u8
+
 #EXTINF:0,TeleBielingue
 http://rtmp.infomaniak.ch/livecast/telebielinguech/playlist.m3u8
+
+#EXTINF:0,TeleBielingue
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish2/kLive/smil:1_0mc3z57p_all.smil/32/chunklist.m3u8
 
 #EXTINF:0,Tele M1
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish2/kLive/smil:1_ljzy3evp_all.smil/32/chunklist.m3u8
@@ -218,6 +269,9 @@ http://vm109.imust.org:1935/live/telemb-live/chunklist_w1382850771.m3u8
 
 #EXTINF:0,Televesdre
 http://vm109.imust.org:1935/live/televesdre-live/chunklist_w1412507044.m3u8
+
+#EXTINF:0,Televize Slovácko
+https://r2---sn-ixaa5n-5uiz.googlevideo.com/videoplayback/id/mpr8UUj1doQ.65/itag/135/source/yt_live_broadcast/requiressl/yes/playlist_type/DVR/gcr/ae/ratebypass/yes/cmbypass/yes/mime/video%2Fmp4/live/1/gir/yes/sver/3/fexp/9416126,9416891,9422596,9428398,9431012,9431849,9432683,9432772,9433096,9433221,9433946,9435394,9435527,9435876,9435988,9436275,9436346,9436918,9436952,9437066,9437228,9437553,9438382/upn/1_pK7PtrKkU/key/cms1/signature/176D1BA505C782BFADA9C064155A6FBB7170D305.750990F369E51DC8B0C64360D5DD1E22B30987B9/cpn/V4_RKQb8tYmetHyu/mpd_version/4/pacing/0/ip/46.177.214.201/ipbits/0/expire/1465350761/sparams/cmbypass,expire,gcr,gir,id,ip,ipbits,itag,live,mime,mm,mn,ms,mv,pcm2cms,pl,playlist_type,ratebypass,requiressl,source/mm/32/mn/sn-ixaa5n-5uiz/ms/lv/mt/1465329144/mv/m/pcm2cms/yes/pl/19/
 
 #EXTINF:-1,Trace Sport✰Stars
 http://stream-01.vty.dailymotion.com/21/dc/1/50b7998806361d3ecc0138cc/51fa29bf94739943dc000014/live.isml/events/live-audio%3D64000-video%3D928000.m3u8
@@ -231,8 +285,14 @@ http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
 #EXTINF:-1,TV4
 http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8
 
+#EXTINF:-1,TV7
+http://vod.tv7.fi:1935/tv7-se/smil:tv7-se.smil/chunklist_w259139648_b1596000_slse.m3u8
+
 #EXTINF:-1,TVA
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,TV Limburg
+http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/index_1_av-p.m3u8?sd=10&rebase=on
  
 #EXTINF:-1,TV Lux
 http://wowza.tvlux.imust.org:1935/live/tvlux-live/chunklist_w690549418.m3u8
@@ -243,8 +303,17 @@ http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&reb
 #EXTINF:0,TVM 2
 http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8
 
+#EXTINF:0,TV Syd +
+http://cdn-lt-live.tvsyd.dk/dc-1/m/ny-live-publish2/kLive/smil:0_e9slj9wh_all.smil/32/chunklist.m3u8
+
+#EXTINF:0,V1
+http://185.58.41.34/vctv/vctvlive-1/playlist.m3u8
+
 #EXTINF:0,Västmanlands TV
 http://83.140.64.214/edge/_93pr0kxj_/93pr0kxj/chunklist_w309347408.m3u8?id=&s_referrer=http%3A%2F%2Fwww.vastmanland.tv%2F&s_type=2
+
+#EXTINF:0,W24
+http://ms01.w24.at/hls-live/streams/livepkgr/events/_definst_/liveevent/livestream3Num1495.ts
 
 #EXTINF:0,WÈo
 http://str81.creacast.com:80/weo/high/playlist.m3u8
