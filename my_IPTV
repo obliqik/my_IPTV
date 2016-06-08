@@ -231,11 +231,17 @@ http://live01.rtl.lu/channel1/smil:channel1/chunklist_w948198792_b2128000_slltz.
 #EXTINF:0,RTS
 http://80.237.191.228:1935/live/_definst_/RTS2015/chunklist_w701308619.m3u8
 
+#EXTINF:0,RTV Bor
+http://stream-05.vty.dailymotion.com/01/dm/1/x46p655/live.isml/events(live-1465368092)/live-audio=128000-video=1200000.m3u8
+
 #EXTINF:0,RTV Drenthe
 http://stream.rtvdrenthe.nl/tv/tvstream1/chunklist_w33710350.m3u8
 
 #EXTINF:0,RTV Oost
 http://145.58.83.153/tv/smil:live.smil/chunklist_w419789141_b1000000.m3u8
+
+#EXTINF:0,RTV Puls
+http://84.22.48.253:89/puls1/mono.m3u8
 
 #EXTINF:0,RTV Rijnmond
 http://cdn.stream.bbvms.com/live/rijnmond/tv-high/playlist.m3u8?wowzasessionid=6264898
