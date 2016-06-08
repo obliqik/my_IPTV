@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0,ABC
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/2564k/prog.m3u8
+
 #EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
@@ -23,6 +26,9 @@ http://streaming-hub.com/stream/arte.m3u8
 
 #EXTINF:0,AT5
 http://lb-rtvnh-live.streamgate.nl/at5/video/at5.smil/chunklist_w1802746158_b2500000.m3u8
+
+#EXTINF:0,atv
+http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,AUSTRIA 24
 http://streaming.austria24.tv/live/stream_360p/playlist.m3u8
@@ -51,14 +57,26 @@ http://streaming06.axeweb.be:1935/canalc_live/_definst_/live.stream/chunklist_w6
 #EXTINF:0,Canal Zoom
 http://streaming06.axeweb.be:1935/canalzoom_live/_definst_/live.stream/chunklist_w1139540045.m3u8
 
+#EXTINF:0,CBS
+http://sjc-ucdn02-level3-tcdn.ustream.tv/sjc-uhs-omega08/streams/httpflv/ustreamVideo/19076498/streams/live_1_1465394833_162318954.flv?start=185109
+
 #EXTINF:0,CNN 
 http://c001.p105.edgesuite.net/i/c001/cnn_1@97501/master.m3u8?__a__=off&b=500-1000
 
-#EXTINF:0,CT 1
+#EXTINF:0,ČT1
 http://213.81.153.241/live001/channel031_p4.stream/chunklist_w1396882511_DVR.m3u8
+
+#EXTINF:0,ČT2
+http://213.81.153.241/live001/channel032_p4.stream/chunklist_w1811927640_DVR.m3u8
+
+#EXTINF:0,ČT24
+http://213.81.153.241/live001/channel033_p4.stream/chunklist_w2004046425_DVR.m3u8
 
 #EXTINF:0,DELUXE MUSIC
 http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
+
+#EXTINF:0,Dobbit TV
+http://193.110.252.20:1935/live/dobbittv.stream/chunklist.m3u8?wowzasessionid=530891833
 
 #EXTINF:0,DR1
 http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8?b=100-2000
@@ -135,8 +153,11 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes
 #EXTINF:0,Malmö MK
 http://82.96.17.34/edge/_8ynhbua3_/8ynhbua3/chunklist_w471369106.m3u8?id=&s_referrer=http%3A%2F%2Ftvmalmo.se%2Flive%2F&s_type=1
 
-#EXTINF:0,MAtélé
+#EXTINF:0,MaTélé
 http://streaming06.axeweb.be/matele_live//live.stream/playlist.m3u8
+
+#EXTINF:0,MaTélé
+http://streaming06.axeweb.be:1935/matele_live/_definst_/live.stream/chunklist_w1007713063.m3u8
 
 #EXTINF:0,MNM
 http://live.stream.vrt.be/vrt_mnm_live/_definst_/smil:vrt_mnm_live.smil/chunklist_w528390648_b1296000.m3u8
@@ -152,6 +173,9 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebas
 
 #EXTINF:0,notélé
 http://streaming06.axeweb.be/live//direct.stream/playlist.m3u8
+
+#EXTINF:0,notélé
+http://streaming06.axeweb.be/live//direct.stream/chunklist_w1317592216.m3u8
 
 #EXTINF:0,NR1
 http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
@@ -209,6 +233,9 @@ http://80.237.191.228:1935/live/_definst_/RTS2015/chunklist_w701308619.m3u8
 
 #EXTINF:0,RTV Drenthe
 http://stream.rtvdrenthe.nl/tv/tvstream1/chunklist_w33710350.m3u8
+
+#EXTINF:0,RTV Oost
+http://145.58.83.153/tv/smil:live.smil/chunklist_w419789141_b1000000.m3u8
 
 #EXTINF:0,RTV Rijnmond
 http://cdn.stream.bbvms.com/live/rijnmond/tv-high/playlist.m3u8?wowzasessionid=6264898
@@ -317,6 +344,9 @@ http://ms01.w24.at/hls-live/streams/livepkgr/events/_definst_/liveevent/livestre
 
 #EXTINF:0,WÈo
 http://str81.creacast.com:80/weo/high/playlist.m3u8
+
+#EXTINF:0,WGN
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,yle TV1
 http://yletv-lh.akamaihd.net/i/yletv1hls_1@103188/master.m3u8?__b__=363
