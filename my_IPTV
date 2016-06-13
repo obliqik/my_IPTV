@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0,A&E
+http://play.uktvnow.net:1935/live/ae9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDE2IDY6NTI6MjkgUE0maGFzaF92YWx1ZT1TY0pWV2VabXhsVVB4elZOOVlMUmVRPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:0,ABC
 http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/2564k/prog.m3u8
 
