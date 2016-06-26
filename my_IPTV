@@ -400,7 +400,8 @@ http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
 
 #EXTINF:0,ACTION 24
-http://stream-01.vty.dailymotion.com/40/dm/1/x2p626q/live.isml/live.m3u8?e=1465931451&st=duTfKEakytLCRpx3423AqQ#cell=lvty
+http://stream-01.vty.dailymotion.com/14/dm/1/x2p626q/live.isml/live.m3u8?e=1467143325&st=fScGLj1UfAbnI0dVRcH0lQ#cell=lvty&comment=QOEABR10
+
 
 #EXTINF:0,BLUE SKY
 http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
