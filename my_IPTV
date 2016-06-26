@@ -6,6 +6,9 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&b=800-2500&rebase=on
 
+#EXTINF:0,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
 #EXTINF:0,AMG TV
 http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8
 
@@ -398,7 +401,6 @@ http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
 
 #EXTINF:0,ACTION 24
 http://stream-01.vty.dailymotion.com/40/dm/1/x2p626q/live.isml/live.m3u8?e=1465931451&st=duTfKEakytLCRpx3423AqQ#cell=lvty
-
 
 #EXTINF:0,BLUE SKY
 http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
