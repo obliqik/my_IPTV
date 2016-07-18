@@ -223,7 +223,7 @@ http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
 http://live01.rtl.lu/channel1/smil:channel1/chunklist_w948198792_b2128000_slltz.m3u8
 
 #EXTINF:0,RT
-http://s18.cdn.tvcatchup.com/rt_hi.m3u8?streamKey=8bd7b7f834946d57e8f8c3a5c6708b35-c20473e5fc29671794303bd4f64be061
+http://s107.cdn.tvcatchup.com/rt_adp.m3u8?clientKey=03fb0d738ab332ea868a707c47b243c3-MTQ2ODg3ODU0Ng==&channelid=78&device=web&channel=78&uuid=578d13820186f
 
 #EXTINF:0,RTS
 http://80.237.191.228:1935/live/_definst_/RTS2015/chunklist_w701308619.m3u8
