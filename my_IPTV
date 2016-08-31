@@ -12,14 +12,8 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&
 #EXTINF:0,AMG TV
 http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8
 
-#EXTINF:0,Antenne Centre Télévision
-http://vm109.imust.org:1935/live/livestream/chunklist_w1493629114.m3u8
-
 #EXTINF:-1,ARTE
 http://streaming-hub.com/stream/arte.m3u8
-
-#EXTINF:0,AT5
-http://lb-rtvnh-live.streamgate.nl/at5/video/at5.smil/chunklist_w1802746158_b2500000.m3u8
 
 #EXTINF:0,atv
 http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/index_1_av-p.m3u8?sd=10&rebase=on
@@ -30,15 +24,6 @@ http://streaming.austria24.tv/live/stream_360p/playlist.m3u8
 #EXTINF:0,AUSTRIA 24
 http://5.9.11.81/live/stream_720p/playlist.m3u8
 
-#EXTINF:0,BNT 1
-http://media2.bnt.bg:1935/live/bnt1/playlist.m3u8
-
-#EXTINF:0,BNT 2
-http://media2.bnt.bg:1935/live/bnt2/playlist.m3u8
-
-#EXTINF:0,BNT HD
-http://media2.bnt.bg:1935/live/bnthd/playlist.m3u8
-
 #EXTINF:0,BNT World
 http://media2.bnt.bg:1935/live/bntsat/playlist.m3u8
 
@@ -48,23 +33,8 @@ http://rtmp.infomaniak.ch/livecast/livehd/playlist.m3u8
 #EXTINF:0,Canal C
 http://streaming06.axeweb.be:1935/canalc_live/_definst_/live.stream/chunklist_w643589610.m3u8
 
-#EXTINF:0,Canal Zoom
-http://streaming06.axeweb.be:1935/canalzoom_live/_definst_/live.stream/chunklist_w1139540045.m3u8
-
-#EXTINF:0,CBS
-http://sjc-ucdn02-level3-tcdn.ustream.tv/sjc-uhs-omega08/streams/httpflv/ustreamVideo/19076498/streams/live_1_1465394833_162318954.flv?start=185109
-
 #EXTINF:0,CNN 
 http://c001.p105.edgesuite.net/i/c001/cnn_1@97501/master.m3u8?__a__=off&b=500-1000
-
-#EXTINF:0,ČT1
-http://213.81.153.241/live001/channel031_p4.stream/chunklist_w1396882511_DVR.m3u8
-
-#EXTINF:0,ČT2
-http://213.81.153.241/live001/channel032_p4.stream/chunklist_w1811927640_DVR.m3u8
-
-#EXTINF:0,ČT24
-http://213.81.153.241/live001/channel033_p4.stream/chunklist_w2004046425_DVR.m3u8
 
 #EXTINF:0,DELUXE MUSIC
 http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
@@ -102,18 +72,6 @@ http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=100-1600
 #EXTINF:0,Elbe Kanal
 http://62.113.210.250/medienasa-live/elbe_high/playlist.m3u8
 
-#EXTINF:0,FilmBOX
-http://213.81.153.241/live001/channel018_p4.stream/chunklist_w713018998_DVR.m3u8
-
-#EXTINF:0,Global (Toronto)
-https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
-
-#EXTINF:0,Global (British Columbia)
-https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8
-
-#EXTINF:0,Global (Halifax)
-https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
-
 #EXTINF:0,GPTV
 http://stream3.paystream.tv/live/test/chunklist_w1170642058.m3u8?time=1465325184788
 
@@ -126,23 +84,11 @@ http://rtmp.infomaniak.ch/livecast/livesd2/playlist.m3u8
 #EXTINF:0,kanal 10
 http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
 
-#EXTINF:0,KNR
-https://r7---sn-ixaa5n-5uiz.googlevideo.com/videoplayback/id/y-Za81o1Oo4.86/itag/137/source/yt_live_broadcast/requiressl/yes/playlist_type/DVR/gcr/ae/ratebypass/yes/cmbypass/yes/mime/video%2Fmp4/live/1/gir/yes/sver/3/upn/aI_yGI-Q5As/fexp/9416126,9416891,9422596,9428398,9431012,9431849,9432683,9432772,9433096,9433221,9433946,9435394,9435527,9435697,9435876,9435988,9436275,9436346,9436918,9436952,9437066,9437228,9437553,9438382/key/cms1/signature/627C041B1F87912C045B57B1DE2C0D5D731BEDF0.6926FCE3299E763AB72C38F131DAD8370C66E010/cpn/a5NeZVBwIST9OiJn/mpd_version/4/pacing/0/ip/46.177.214.201/ipbits/0/expire/1465345722/sparams/cmbypass,expire,gcr,gir,id,ip,ipbits,itag,live,mime,mm,mn,ms,mv,pcm2cms,pl,playlist_type,ratebypass,requiressl,source/mm/32/mn/sn-ixaa5n-5uiz/ms/lv/mt/1465324104/mv/m/pcm2cms/yes/pl/19/
-
-#EXTINF:0,La3
-http://h3ghdchan102-i.akamaihd.net/hls/live/217154/Virtual_Channel102/master.m3u8
-
-#EXTINF:0,La7
-http://la7live-lh.akamaihd.net/i/test_1@143593/index_1_av-b.m3u8
-
 #EXTINF:0,LA TELE
 http://rtmp.infomaniak.ch/livecast/latele/chunklist_w941698022.m3u8
 
 #EXTINF:0,Léman Bleu
 http://rtmp.infomaniak.ch/livecast/naxoo/playlist.m3u8
-
-#EXTINF:0,M6 Swiss
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
 #EXTINF:0,Malmö MK
 http://82.96.17.34/edge/_8ynhbua3_/8ynhbua3/chunklist_w471369106.m3u8?id=&s_referrer=http%3A%2F%2Ftvmalmo.se%2Flive%2F&s_type=1
@@ -155,12 +101,6 @@ http://streaming06.axeweb.be:1935/matele_live/_definst_/live.stream/chunklist_w1
 
 #EXTINF:0,MNM
 http://live.stream.vrt.be/vrt_mnm_live/_definst_/smil:vrt_mnm_live.smil/chunklist_w528390648_b1296000.m3u8
-
-#EXTINF:0,MFMTV
-http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
-
-#EXTINF:0,Mute HD
-http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
 
 #EXTINF:0,NASA
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
@@ -186,34 +126,13 @@ http://livestream.zeelandnet.nl:1935/live/omroepzeeland_tv_200k.sdp/chunklist_w5
 #EXTINF:0,Öppna Kanalen
 http://80.252.162.14/edge/_451iw2h_/451iw2h/chunklist_w185907408.m3u8?id=&s_referrer=http%3A%2F%2Fwww.squidtv.net%2Feurope%2Fsweden%2Fsweden-008.html&s_type=1
 
-#EXTINF:0,ORF eins
-http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
-
-#EXTINF:0,ORF eins
-http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/chunklist_w1527620949.m3u8?ip=37.143.176.35&ua=Mozilla%252f5.0%2B%28iPhone%253b%2BU%253b%2BCPU%2BiPhone%2BOS%2B3_0%2Blike%2BMac%2BOS%2BX%253b%2Ben-us%29&lbs=20160522193743927&origin=http%253a%252f%252f185.85.28.19%252forf1%252fq4a.sdp%252fchunklist_w1527620949.m3u8%253fip%253d37.143.176.35%2526ua%253dMozilla%2525252f5.0%25252B%252528iPhone%2525253b%25252BU%2525253b%25252BCPU%25252BiPhone%25252BOS%25252B3_0%25252Blike%25252BMac%25252BOS%25252BX%2525253b%25252Ben-us%252529%2526lbs%253d20160522193743927
-
 #EXTINF:0,ORF 2
 http://185.85.28.20/orf2/q8c.sdp/chunklist.m3u8
-
-#EXTINF:0,ORF 2
-http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
-
-#EXTINF:0,ORF 2
-http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/chunklist_w1914914098.m3u8?ip=37.143.176.21&ua=Mozilla%252f5.0%2B%28iPhone%253b%2BU%253b%2BCPU%2BiPhone%2BOS%2B3_0%2Blike%2BMac%2BOS%2BX%253b%2Ben-us%29&lbs=20160522165320119&origin=http%253a%252f%252f185.85.28.21%252forf2%252fq4a.sdp%252fchunklist_w1914914098.m3u8%253fip%253d37.143.176.20%2526ua%253dMozilla%2525252f5.0%25252B%252528iPhone%2525253b%25252BU%2525253b%25252BCPU%25252BiPhone%25252BOS%25252B3_0%25252Blike%25252BMac%25252BOS%25252BX%2525253b%25252Ben-us%252529%2526lbs%253d20160522165320119
 
 #EXTINF:0,ORF |||
 http://185.85.28.20/orf3/q8c.sdp/chunklist.m3u8
 
-#EXTINF:0,ORF |||
-http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
-
-#EXTINF:0,ORF SPORT + 
-http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
-
-#EXTINF:0,ORF SPORT +
-http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/chunklist_w436109872.m3u8?ip=37.143.176.25&ua=Mozilla%252f5.0%2B%28iPhone%253b%2BU%253b%2BCPU%2BiPhone%2BOS%2B3_0%2Blike%2BMac%2BOS%2BX%253b%2Ben-us%29&lbs=20160522193559902&origin=http%253a%252f%252f185.85.29.19%252forfs%252fq4a.sdp%252fchunklist_w436109872.m3u8%253fip%253d37.143.176.25%2526ua%253dMozilla%2525252f5.0%25252B%252528iPhone%2525253b%25252BU%2525253b%25252BCPU%25252BiPhone%25252BOS%25252B3_0%25252Blike%25252BMac%25252BOS%25252BX%2525253b%25252Ben-us%252529%2526lbs%253d20160522193559902
-
-#EXTINF:0,RE eins
+#EXTINF:0,reeins.tv
 http://www.reeins.tv:1935/live/re1/chunklist_w1776156647.m3u8
 
 #EXTINF:0,RFH
@@ -225,20 +144,8 @@ http://live01.rtl.lu/channel1/smil:channel1/chunklist_w948198792_b2128000_slltz.
 #EXTINF:0,RTS
 http://80.237.191.228:1935/live/_definst_/RTS2015/chunklist_w701308619.m3u8
 
-#EXTINF:0,RTV Bor
-http://stream-05.vty.dailymotion.com/01/dm/1/x46p655/live.isml/events(live-1465368092)/live-audio=128000-video=1200000.m3u8
-
 #EXTINF:0,RTV Drenthe
 http://stream.rtvdrenthe.nl/tv/tvstream1/chunklist_w33710350.m3u8
-
-#EXTINF:0,RTV Oost
-http://145.58.83.153/tv/smil:live.smil/chunklist_w419789141_b1000000.m3u8
-
-#EXTINF:0,RTV Puls
-http://84.22.48.253:89/puls1/mono.m3u8
-
-#EXTINF:0,RTV Rijnmond
-http://cdn.stream.bbvms.com/live/rijnmond/tv-high/playlist.m3u8?wowzasessionid=6264898
 
 #EXTINF:0,RÚV
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
@@ -248,9 +155,6 @@ http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv/index.m3u8
 
 #EXTINF:0,RÚV 2
 http://ruvruv2erl-live.hls.adaptive.level3.net/ruv/ruv2erl/index/stream4.m3u8
-
-#EXTINF:0,RÚV 2
-http://ruvruv2erl-live.hls.adaptive.level3.net/ruv/ruv2/index.m3u8
 
 #EXTINF:0,SCHWEIZ 5
 http://194.29.5.2:80/live//myStream/playlist.m3u8
