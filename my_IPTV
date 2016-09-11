@@ -27,6 +27,9 @@ http://5.9.11.81/live/stream_720p/playlist.m3u8
 #EXTINF:0,BNT World
 http://media2.bnt.bg:1935/live/bntsat/playlist.m3u8
 
+#EXTINF:0,BTV
+http://138.201.53.47/vb/2016_36/dorfroas_regau_vb.mp4
+
 #EXTINF:0,canal 9
 http://rtmp.infomaniak.ch/livecast/livehd/playlist.m3u8
 
