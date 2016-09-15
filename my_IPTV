@@ -177,10 +177,10 @@ https://svt10-lh.akamaihd.net/i/svt10_0@77505/master.m3u8?__b__=563&__b__=564&b=
 #EXTINF:0,SVT 2
 https://svt12-lh.akamaihd.net/i/svt12_0@77507/master.m3u8?__b__=563&__b__=564&b=0-2796
 
-#EXTINF:0,SVT BARN KANALEN
+#EXTINF:0,SVT BARNKANALEN
 https://svt13-lh.akamaihd.net/i/svt13_0@77508/master.m3u8?__b__=563&__b__=564&b=0-2796
 
-#EXTINF:0,SVT
+#EXTINF:0,SVT Kunskapskanalen
 https://svt11-lh.akamaihd.net/i/svt11_0@77506/master.m3u8?__b__=563&__b__=564&b=0-2796
 
 #EXTINF:0,Tallinna TV
