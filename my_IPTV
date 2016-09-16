@@ -282,7 +282,7 @@ http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8
 #EXTINF:0,ANT1
 http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
 
-#EXTINF:-1,ANT1
+#EXTINF:0,ANT1
 http://www.iptvsaga.com/play/tv3/0133.m3u8
 
 #EXTINF:0,mega
@@ -293,6 +293,9 @@ http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8
 
 #EXTINF:0,Alpha
 http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
+
+#EXTINF:0,Alpha
+http://193.92.37.235:1935/liveedge/live@720/chunklist_w518635263_DVR.m3u8
 
 #EXTINF:0,Alpha
 http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8
@@ -311,7 +314,6 @@ http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
 
 #EXTINF:0,ACTION 24
 http://stream-01.vty.dailymotion.com/14/dm/1/x2p626q/live.isml/live.m3u8?e=1467143325&st=fScGLj1UfAbnI0dVRcH0lQ#cell=lvty&comment=QOEABR10
-
 
 #EXTINF:0,BLUE SKY
 http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
