@@ -114,6 +114,9 @@ http://streaming06.axeweb.be/live//direct.stream/chunklist_w1317592216.m3u8
 #EXTINF:0,NR1
 http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
 
+#EXTINF:0,NRK 2
+https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8?b=500-3500&__b__=1428&__a__=off
+
 #EXTINF:0,NRK super
 https://nrksuper-lh.akamaihd.net/i/nrksupertvus_0@108447/master.m3u8?b=500-3500&__b__=1428&__a__=off
 
