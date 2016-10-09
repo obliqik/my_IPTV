@@ -184,7 +184,7 @@ http://213.81.153.241/live001/channel056_p4.stream/chunklist_w1994030569_DVR.m3u
 https://svt10-lh.akamaihd.net/i/svt10_0@77505/master.m3u8?__b__=563&__b__=564&b=0-2796
 
 #EXTINF:0,SVT 2
-https://svt12-lh.akamaihd.net/i/svt12_0@77507/master.m3u8?__b__=563&__b__=564&b=0-2796
+https://svt12-lh.akamaihd.net/i/svt12_0@77507/master.m3u8?__b__=563
 
 #EXTINF:0,SVT BARNKANALEN
 https://svt13-lh.akamaihd.net/i/svt13_0@77508/master.m3u8?__b__=563&__b__=564&b=0-2796
