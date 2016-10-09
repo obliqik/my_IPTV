@@ -127,7 +127,7 @@ https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8?b=500-3500&__b__=142
 https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8
 
 #EXTINF:0,NRK 3
-https://nrksuper-lh.akamaihd.net/i/nrksupertvus_0@108447/master.m3u8
+https://nrk3us-f.akamaihd.net/i/nrk3us_0@107233/master.m3u8
 
 #EXTINF:0,NRK super
 https://nrksuper-lh.akamaihd.net/i/nrksupertvus_0@108447/master.m3u8?b=500-3500&__b__=1428&__a__=off
