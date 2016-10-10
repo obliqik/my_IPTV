@@ -114,25 +114,25 @@ http://streaming06.axeweb.be/live//direct.stream/chunklist_w1317592216.m3u8
 #EXTINF:0,NR1
 http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
 
-#EXTINF:0,NRK 1
+#EXTINF:0,NRK1
 https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8?b=500-3500&__b__=1428&__a__=off
 
-#EXTINF:0,NRK 1
+#EXTINF:0,NRK1
 https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8
 
-#EXTINF:0,NRK 2
+#EXTINF:0,NRK2
 https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8?b=500-3500&__b__=1428&__a__=off
 
-#EXTINF:0,NRK 2
+#EXTINF:0,NRK2
 https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8
 
-#EXTINF:0,NRK 3
+#EXTINF:0,NRK3
 https://nrk3us-f.akamaihd.net/i/nrk3us_0@107233/master.m3u8
 
-#EXTINF:0,NRK super
+#EXTINF:0,NRKsuper
 https://nrksuper-lh.akamaihd.net/i/nrksupertvus_0@108447/master.m3u8?b=500-3500&__b__=1428&__a__=off
 
-#EXTINF:0,NRK super
+#EXTINF:0,NRKsuper
 https://nrksuper-lh.akamaihd.net/i/nrksupertvus_0@108447/master.m3u8
 
 #EXTINF:0,Nuacht TG4
@@ -192,17 +192,29 @@ http://213.81.153.241/live001/channel054_p4.stream/chunklist_w1144031428_DVR.m3u
 #EXTINF:0,Spectrum Home
 http://213.81.153.241/live001/channel056_p4.stream/chunklist_w1994030569_DVR.m3u8
 
-#EXTINF:0,SVT 1
+#EXTINF:0,SVT1
 https://svt10-lh.akamaihd.net/i/svt10_0@77505/master.m3u8
 
-#EXTINF:0,SVT 2
+#EXTINF:0,SVT1
+https://svt10-lh.akamaihd.net/i/svt10_0@77505/master.m3u8?__b__=563&__b__=564&b=0-2796
+
+#EXTINF:0,SVT2
 https://svt12-lh.akamaihd.net/i/svt12_0@77507/master.m3u8
+
+#EXTINF:0,SVT2
+https://svt12-lh.akamaihd.net/i/svt12_0@77507/master.m3u8?__b__=563&__b__=564&b=0-2796
+
+#EXTINF:0,SVT24
+https://svt13-lh.akamaihd.net/i/svt13_0@77508/master.m3u8?__b__=563&__b__=564&b=0-2796
 
 #EXTINF:0,SVT BARNKANALEN
 https://svt13-lh.akamaihd.net/i/svt13_0@77508/master.m3u8
 
 #EXTINF:0,SVT Kunskapskanalen
 https://svt11-lh.akamaihd.net/i/svt11_0@77506/master.m3u8
+
+#EXTINF:0,SVT Kunskapskanalen
+https://svt11-lh.akamaihd.net/i/svt11_0@77506/master.m3u8?__b__=563&__b__=564&b=0-2796
 
 #EXTINF:0,Tallinna TV
 http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/chunklist_w2101110295_b3220674_t64SFE=.m3u8
