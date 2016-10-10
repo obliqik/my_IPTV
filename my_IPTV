@@ -115,22 +115,13 @@ http://streaming06.axeweb.be/live//direct.stream/chunklist_w1317592216.m3u8
 http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
 
 #EXTINF:0,NRK1
-https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8?b=500-3500&__b__=1428&__a__=off
-
-#EXTINF:0,NRK1
 https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8
-
-#EXTINF:0,NRK2
-https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8?b=500-3500&__b__=1428&__a__=off
 
 #EXTINF:0,NRK2
 https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8
 
 #EXTINF:0,NRK3
 https://nrk3us-f.akamaihd.net/i/nrk3us_0@107233/master.m3u8
-
-#EXTINF:0,NRKsuper
-https://nrksuper-lh.akamaihd.net/i/nrksupertvus_0@108447/master.m3u8?b=500-3500&__b__=1428&__a__=off
 
 #EXTINF:0,NRKsuper
 https://nrksuper-lh.akamaihd.net/i/nrksupertvus_0@108447/master.m3u8
@@ -147,11 +138,14 @@ http://livestream.zeelandnet.nl:1935/live/omroepzeeland_tv_200k.sdp/chunklist_w5
 #EXTINF:0,Öppna Kanalen
 http://80.252.162.14/edge/_451iw2h_/451iw2h/chunklist_w185907408.m3u8?id=&s_referrer=http%3A%2F%2Fwww.squidtv.net%2Feurope%2Fsweden%2Fsweden-008.html&s_type=1
 
+#EXTINF:0,ORF eins
+http://185.85.29.19/orf1/q8c.sdp/chunklist.m3u8
+
 #EXTINF:0,ORF 2
-http://185.85.28.20/orf2/q8c.sdp/chunklist.m3u8
+http://185.85.29.19/orf2/q8c.sdp/chunklist.m3u8
 
 #EXTINF:0,ORF |||
-http://185.85.28.20/orf3/q8c.sdp/chunklist.m3u8
+http://185.85.29.19/orf3/q8c.sdp/chunklist.m3u8
 
 #EXTINF:0,reeins.tv
 http://www.reeins.tv:1935/live/re1/chunklist_w1776156647.m3u8
@@ -195,17 +189,11 @@ http://213.81.153.241/live001/channel056_p4.stream/chunklist_w1994030569_DVR.m3u
 #EXTINF:0,SVT1
 https://svt10-lh.akamaihd.net/i/svt10_0@77505/master.m3u8
 
-#EXTINF:0,SVT1
-https://svt10-lh.akamaihd.net/i/svt10_0@77505/master.m3u8?__b__=563&__b__=564&b=0-2796
-
 #EXTINF:0,SVT2
 https://svt12-lh.akamaihd.net/i/svt12_0@77507/master.m3u8
 
-#EXTINF:0,SVT2
-https://svt12-lh.akamaihd.net/i/svt12_0@77507/master.m3u8?__b__=563&__b__=564&b=0-2796
-
 #EXTINF:0,SVT24
-https://svt13-lh.akamaihd.net/i/svt13_0@77508/master.m3u8?__b__=563&__b__=564&b=0-2796
+https://svt13-lh.akamaihd.net/i/svt13_0@77508/master.m3u8
 
 #EXTINF:0,SVT BARNKANALEN
 https://svt13-lh.akamaihd.net/i/svt13_0@77508/master.m3u8
@@ -214,7 +202,7 @@ https://svt13-lh.akamaihd.net/i/svt13_0@77508/master.m3u8
 https://svt11-lh.akamaihd.net/i/svt11_0@77506/master.m3u8
 
 #EXTINF:0,SVT Kunskapskanalen
-https://svt11-lh.akamaihd.net/i/svt11_0@77506/master.m3u8?__b__=563&__b__=564&b=0-2796
+https://svt11-lh.akamaihd.net/i/svt11_0@77506/master.m3u8
 
 #EXTINF:0,Tallinna TV
 http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/chunklist_w2101110295_b3220674_t64SFE=.m3u8
