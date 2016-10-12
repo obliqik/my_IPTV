@@ -12,9 +12,6 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&
 #EXTINF:0,AMG TV
 http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8
 
-#EXTINF:-1,ARTE
-http://streaming-hub.com/stream/arte.m3u8
-
 #EXTINF:0,atv
 http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/index_1_av-p.m3u8?sd=10&rebase=on
 
@@ -42,33 +39,6 @@ http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
 #EXTINF:0,Dobbit TV
 http://193.110.252.20:1935/live/dobbittv.stream/chunklist.m3u8?wowzasessionid=530891833
 
-#EXTINF:0,DR1
-http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8?b=100-2000
-
-#EXTINF:0,DR1
-http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8
-
-#EXTINF:0,DR2
-http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8?b=100-2000
-
-#EXTINF:0,DR2
-http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8
-
-#EXTINF:0,DR3
-http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8?b=100-1600
-
-#EXTINF:0,DR3
-http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8
-
-#EXTINF:0,DR k
-http://dr04-lh.akamaihd.net/i/dr04_0@147057/master.m3u8?b=100-1600
-
-#EXTINF:0,DR k
-http://dr04-lh.akamaihd.net/i/dr04_0@147057/master.m3u8
-
-#EXTINF:0,DR RamaSjang
-http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=100-1600
-
 #EXTINF:0,Elbe Kanal
 http://62.113.210.250/medienasa-live/elbe_high/playlist.m3u8
 
@@ -81,50 +51,11 @@ http://79.171.99.70:1935/webtv/innwebtv.stream/chunklist_w844868756.m3u8
 #EXTINF:0,kanal 9
 http://rtmp.infomaniak.ch/livecast/livesd2/playlist.m3u8
 
-#EXTINF:0,kanal 10
-http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
-
-#EXTINF:0,LA TELE
-http://rtmp.infomaniak.ch/livecast/latele/chunklist_w941698022.m3u8
-
-#EXTINF:0,Léman Bleu
-http://rtmp.infomaniak.ch/livecast/naxoo/playlist.m3u8
-
-#EXTINF:0,Malmö MK
-http://82.96.17.34/edge/_8ynhbua3_/8ynhbua3/chunklist_w471369106.m3u8?id=&s_referrer=http%3A%2F%2Ftvmalmo.se%2Flive%2F&s_type=1
-
-#EXTINF:0,MaTélé
-http://streaming06.axeweb.be/matele_live//live.stream/playlist.m3u8
-
-#EXTINF:0,MaTélé
-http://streaming06.axeweb.be:1935/matele_live/_definst_/live.stream/chunklist_w1007713063.m3u8
-
 #EXTINF:0,MNM
 http://live.stream.vrt.be/vrt_mnm_live/_definst_/smil:vrt_mnm_live.smil/chunklist_w528390648_b1296000.m3u8
 
 #EXTINF:0,NASA
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:0,notélé
-http://streaming06.axeweb.be/live//direct.stream/playlist.m3u8
-
-#EXTINF:0,notélé
-http://streaming06.axeweb.be/live//direct.stream/chunklist_w1317592216.m3u8
-
-#EXTINF:0,NR1
-http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
-
-#EXTINF:0,NRK1
-https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8
-
-#EXTINF:0,NRK2
-https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8
-
-#EXTINF:0,NRK3
-https://nrk3us-f.akamaihd.net/i/nrk3us_0@107233/master.m3u8
-
-#EXTINF:0,NRKsuper
-https://nrksuper-lh.akamaihd.net/i/nrksupertvus_0@108447/master.m3u8
 
 #EXTINF:0,Nuacht TG4
 http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4688357261001&pubId=1290862567001&videoId=4688195840001
@@ -162,15 +93,6 @@ http://80.237.191.228:1935/live/_definst_/RTS2015/chunklist_w701308619.m3u8
 #EXTINF:0,RTV Drenthe
 http://stream.rtvdrenthe.nl/tv/tvstream1/chunklist_w33710350.m3u8
 
-#EXTINF:0,RÚV
-http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
-
-#EXTINF:0,RÚV
-http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv/index.m3u8
-
-#EXTINF:0,RÚV 2
-http://ruvruv2erl-live.hls.adaptive.level3.net/ruv/ruv2erl/index/stream4.m3u8
-
 #EXTINF:0,SCHWEIZ 5
 http://194.29.5.2:80/live//myStream/playlist.m3u8
 
@@ -179,33 +101,6 @@ http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 
 #EXTINF:0,SIGMA
 http://81.21.47.74/hls/live.m3u8
-
-#EXTINF:0,Spectrum
-http://213.81.153.241/live001/channel054_p4.stream/chunklist_w1144031428_DVR.m3u8
-
-#EXTINF:0,Spectrum Home
-http://213.81.153.241/live001/channel056_p4.stream/chunklist_w1994030569_DVR.m3u8
-
-#EXTINF:0,SVT1
-https://svt10-lh.akamaihd.net/i/svt10_0@77505/master.m3u8
-
-#EXTINF:0,SVT2
-https://svt12-lh.akamaihd.net/i/svt12_0@77507/master.m3u8
-
-#EXTINF:0,SVT24
-https://svt13-lh.akamaihd.net/i/svt13_0@77508/master.m3u8
-
-#EXTINF:0,SVT BARNKANALEN
-https://svt13-lh.akamaihd.net/i/svt13_0@77508/master.m3u8
-
-#EXTINF:0,SVT Kunskapskanalen
-https://svt11-lh.akamaihd.net/i/svt11_0@77506/master.m3u8
-
-#EXTINF:0,SVT Kunskapskanalen
-https://svt11-lh.akamaihd.net/i/svt11_0@77506/master.m3u8
-
-#EXTINF:0,Tallinna TV
-http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/chunklist_w2101110295_b3220674_t64SFE=.m3u8
 
 #EXTINF:0,TeleBarn
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish2/kLive/smil:1_0mc3z57p_all.smil/32/chunklist.m3u8
@@ -219,32 +114,11 @@ http://rtmp.infomaniak.ch/livecast/telebielinguech/playlist.m3u8
 #EXTINF:0,TeleBielingue
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish2/kLive/smil:1_0mc3z57p_all.smil/32/chunklist.m3u8
 
-#EXTINF:0,Tele M1
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish2/kLive/smil:1_ljzy3evp_all.smil/32/chunklist.m3u8
-
-#EXTINF:0,Télé MB
-http://vm109.imust.org:1935/live/telemb-live/chunklist_w1382850771.m3u8
-
 #EXTINF:0,Televesdre
 http://vm109.imust.org:1935/live/televesdre-live/chunklist_w1412507044.m3u8
 
 #EXTINF:0,Televize Slovácko
 https://r2---sn-ixaa5n-5uiz.googlevideo.com/videoplayback/id/mpr8UUj1doQ.65/itag/135/source/yt_live_broadcast/requiressl/yes/playlist_type/DVR/gcr/ae/ratebypass/yes/cmbypass/yes/mime/video%2Fmp4/live/1/gir/yes/sver/3/fexp/9416126,9416891,9422596,9428398,9431012,9431849,9432683,9432772,9433096,9433221,9433946,9435394,9435527,9435876,9435988,9436275,9436346,9436918,9436952,9437066,9437228,9437553,9438382/upn/1_pK7PtrKkU/key/cms1/signature/176D1BA505C782BFADA9C064155A6FBB7170D305.750990F369E51DC8B0C64360D5DD1E22B30987B9/cpn/V4_RKQb8tYmetHyu/mpd_version/4/pacing/0/ip/46.177.214.201/ipbits/0/expire/1465350761/sparams/cmbypass,expire,gcr,gir,id,ip,ipbits,itag,live,mime,mm,mn,ms,mv,pcm2cms,pl,playlist_type,ratebypass,requiressl,source/mm/32/mn/sn-ixaa5n-5uiz/ms/lv/mt/1465329144/mv/m/pcm2cms/yes/pl/19/
-
-#EXTINF:-1,Trace Sport✰Stars
-http://stream-01.vty.dailymotion.com/21/dc/1/50b7998806361d3ecc0138cc/51fa29bf94739943dc000014/live.isml/events/live-audio%3D64000-video%3D928000.m3u8
-
-#EXTINF:0,TV2/Bornholm
-http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-
-#EXTINF:0,TV10
-http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
-
-#EXTINF:-1,TV4
-http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8
-
-#EXTINF:-1,TV7
-http://vod.tv7.fi:1935/tv7-se/smil:tv7-se.smil/chunklist_w259139648_b1596000_slse.m3u8
 
 #EXTINF:-1,TVA
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
@@ -252,17 +126,11 @@ http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?
 #EXTINF:-1,TV Limburg
 http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/index_1_av-p.m3u8?sd=10&rebase=on
  
-#EXTINF:-1,TV Lux
-http://wowza.tvlux.imust.org:1935/live/tvlux-live/chunklist_w690549418.m3u8
- 
 #EXTINF:0,TVM
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,TVM 2
 http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8
-
-#EXTINF:0,TV Syd +
-http://cdn-lt-live.tvsyd.dk/dc-1/m/ny-live-publish2/kLive/smil:0_e9slj9wh_all.smil/32/chunklist.m3u8
 
 #EXTINF:0,V1
 http://185.58.41.34/vctv/vctvlive-1/playlist.m3u8
@@ -278,18 +146,6 @@ http://str81.creacast.com:80/weo/high/playlist.m3u8
 
 #EXTINF:0,WGN
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:0,yle TV1
-http://yletv-lh.akamaihd.net/i/yletv1hls_1@103188/master.m3u8?__b__=363
-
-#EXTINF:0,yle TV2
-http://yletv-lh.akamaihd.net/i/yletv2hls_1@103189/master.m3u8?__b__=363
-
-#EXTINF:0,yle FEM
-http://yletv-lh.akamaihd.net/i/ylefemfihls_1@103185/master.m3u8?__b__=363
-
-#EXTINF:0,yle TEEMA
-http://yletv-lh.akamaihd.net/i/yleteemahls_1@103187/master.m3u8?__b__=363g
 
 #EXTINF:0,ERT1
 http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
