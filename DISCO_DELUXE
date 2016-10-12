@@ -1,5 +1,328 @@
 #EXTM3U
 
+#EXTINF:0,1Music Hungary
+http://stream.1music.hu/stream/1music.m3u8
+
+#EXTINF:0,538
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
+
+#EXTINF:0,538
+https://hlscdn.538.nl/content/538webcam/538webcam_0.m3u8
+
+#EXTINF:0,BEATZ
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+
+#EXTINF:0,bpm
+http://bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+
+#EXTINF:0,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+
+#EXTINF:0,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0,CITY
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
+
+#EXTINF:0,CITY
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w1715628851.m3u8
+
+#EXTINF:0,CITY
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
+
+#EXTINF:0,CITY
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+
+#EXTINF:0,DELUXE MUSIC
+http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
+
+#EXTINF:0,DELUXE MUSIC
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
+
+#EXTINF:0,DJING Animation
+http://www.djing.com/tv/a-05.m3u8
+
+#EXTINF:0,DJING Classic
+http://www.djing.com/tv/i-05.m3u8
+
+#EXTINF:0,DJING Dancefloor
+http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:0,DJING Underground
+http://www.djing.com/tv/u-05.m3u8
+
+#EXTINF:0,dream
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:0,dream
+http://212.224.109.101/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:0,Elektrosound
+http://www.electrosound.tv:1935/public/stream/playlist.m3u8
+
+#EXTINF:0,ESKA Best Music TV
+http://stream.smcloud.net/tv/best/best_480p/playlist.m3u8
+
+#EXTINF:0,ESKA Party TV
+http://stream.smcloud.net/tv/eska_party/eska_party_480p/playlist.m3u8
+
+#EXTINF:0,Eska ROCK TV
+http://stream.smcloud.net/tv/eska_rock/eska_rock_480p/playlist.m3u8
+
+#EXTINF:0,ESKA TV
+http://stream.smcloud.net/tv/eskatv/eskatv_360p/playlist.m3u8
+
+#EXTINF:0,FORMUSIC.TV
+http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
+
+#EXTINF:0,FORMUSIC.TV
+http://194.116.73.146/quartaretetv1/formusicweb/playlist.m3u8
+
+#EXTINF:0,FORMUSIC.TV
+http://194.116.73.146:1935/quartaretetv1/formusicweb/live.m3u8
+
+#EXTINF:0,FORMUSIC.TV
+http://wowza1.top-ix.org:1935/quartaretetv1/formusicweb/live.m3u8
+
+#EXTINF:0,heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:0,heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0,HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+
+#EXTINF:0,JAYZEE
+http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+
+#EXTINF:0,JUCE TV
+http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
+
+#EXTINF:0,KISS
+http://csm-e-eur3aws-114.tm.yospace.com/csm/live/78581270/4.m3u8;jsessionid=789C9AFAA9A555DB0488E49E9E390C99.csm-e-eur3aws-114.cds1.yospace.com?partnerId=463504&yo.ac=true&mediaId=Kiss&mediaTitle=Kiss
+
+#EXTINF:0,Klipkar TV
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/chunklist_w1607607812_b1200000.m3u8
+
+#EXTINF:0,M TUNES
+http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8
+
+http://ds.serving-sys.com/BurstingRes/Site-84393/Type-16/cafd7a62-d96e-48ec-8fc4-6e0f98c10fd7.mp4
+
+#EXTINF:0,m2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0,m2o
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF:0,M6 Music
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+#EXTINF:0,MAD Cyprus
+http://eradio.networksolutions.com.cy/live/livestream/playlist.m3u8
+
+#EXTINF:0,MAD Cyprus
+http://144.76.2.213/live/livestream/playlist.m3u8
+
+#EXTINF:0,MAD Cyprus
+http://144.76.2.213:1935/live/livestream/playlist.m3u8
+
+#EXTINF:0,MAGIC TV
+http://31.13.217.76:1935/magictv/magictv_live.stream/chunklist_w1673671683.m3u8
+
+#EXTINF:0,MFM TV
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+
+#EXTINF:0,Miami Music TV
+http://74.208.152.93/music/stream3/stream.m3u8
+
+#EXTINF:0,mooz dance
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END
+
+#EXTINF:0,Music Vox TV
+http://stream.smcloud.net/live/vox2/stream1/playlist.m3u8
+
+#EXTINF:0,Music Vox TV
+http://s4w.deb1.scdn.smcloud.net/live/vox2/stream1/chunklist_w183889425.m3u8
+
+#EXTINF:0,Mute HD
+http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
+
+#EXTINF:0,NR1
+http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
+
+#EXTINF:0,NRJ TV
+http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
+
+#EXTINF:0,NRJ TV
+http://rtmp.infomaniak.ch:1935/livecast/energytv/chunklist_w286042546.m3u8
+
+#EXTINF:0,NRJ HITS
+http://5.196.138.6:1935/live/nrjbelgique/playlist.m3u8
+
+#EXTINF:0,NUsicTV
+http://130.88.20.237:1238/test.flv
+
+#EXTINF:-1,Onda Italiana
+http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
+
+#EXTINF:0,One.by
+http://rtmp.one.by:1200
+
+#EXTINF:0,One.by HD
+http://rtmp.one.by:1300
+
+#EXTINF:0,One.by UHD
+http://rtmp.one.by:1400
+
+#EXTINF:0,One.by Россия
+http://rtmp.one.by:2200
+
+#EXTINF:0,One.by Россия HD
+http://rtmp.one.by:2300
+
+#EXTINF:0,OTTO FM TV
+http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8
+
+#EXTINF:0,OTTO FM TV
+http://live.youiptv.ch:1935/8FM/8FM/livestream.m3u8
+
+#EXTINF:0,polo tv
+http://s4w.deb1.scdn.smcloud.net/live/_definst_/polotv/chunklist_w421222378.m3u8
+
+#EXTINF:0,Power TV
+http://185.28.3.10/powertv/powertv.stream/playlist.m3u8
+
+#EXTINF:0,Radio 105 TV
+http://tv.105.net/live/105Test1/playlist.m3u8
+
+#EXTINF:0,Radio 105 TV
+http://tv.105.net:1935/live/105Test1/chunklist_w81137801.m3u8
+
+#EXTINF:0,Radio 105 TV
+http://tv.105.net:1935/live/105Test1/chunklist_w1343453010.m3u8
+
+#EXTINF:0,RADIO CAPITAL TiVu
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:0,RADIO CAPITAL TiVu
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0,Radio Italia Tv
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0,Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/live/lifestyle480/chunks.m3u8?nimblesessionid=360210
+
+#EXTINF:0,RADIO MONTE CARLO TV
+http://tv.105.net/live/rmc1/playlist.m3u8
+
+#EXTINF:0,RADIO MONTE CARLO TV
+http://tv.105.net:1935/live/rmc1/chunklist_w894220054.m3u8
+
+#EXTINF:0,RADIONORBA TV
+http://85.17.80.132:1935/radionorbatv/norbatv_source.stream/live.m3u8
+
+#EXTINF:0,Radio Number One
+http://wma02.fluidstream.net/RN1TV/livestream/chunklist_w1655015167.m3u8
+
+#EXTINF:0,retro music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:0,retro music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1271560500.m3u8
+
+#EXTINF:0,retro music
+http://81.201.52.159:8018
+
+#EXTINF:0,retro music
+http://www.retromusic.czrtmp://stream.mediawork.cz/retrotv/retrotvHQ1
+
+#EXTINF:0,RTL 102.5
+http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
+
+#EXTINF:0,RTL 102.5
+http://origin-rtl-radio-stream.4mecloud.it:80/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
+
+#EXTINF:0,SLAM!
+http://hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8
+
+#EXTINF:0,Sporttime 1 
+http://sporttimelive1.content-cdn.net/livechannel1/smil:switch1.smil/chunklist_b3174400.m3u8
+
+#EXTINF:0,TeleMusica
+http://186.155.200.118/live/telemusica/playlist.m3u8
+
+#EXTINF:0,The Box
+http://csm-e-eur3aws-114.tm.yospace.com/csm/live/78581259/4.m3u8;jsessionid=48001B931613F94E0ADD0765FC87A481.csm-e-eur3aws-114.cds1.yospace.com?partnerId=463514&yo.ac=true&mediaId=Box&mediaTitle=Box
+
+#EXTINF:0,The Edge
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8
+
+#EXTINF:-1,tvm3
+http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
+
+#EXTINF:-1,tvm3
+http://rtmp.infomaniak.ch/livecast/tvm3/chunklist_w1655634859.m3u8
+
+#EXTINF:0,RadioU
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
+
+#EXTINF:0,RadioU
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:radioutv_all.smil/chunklist_w1021598803_b1300000.m3u8
+
+#EXTINF:0,VEVO TV Hits
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:0,VEVO TV Flow
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:0,VEVO TV Nashville
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:0,Virgin Radio TV
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+
+#EXTINF:0,Virgin Radio TV 
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+
+#EXTINF:0,Virgin Radio TV
+http://fms.105.net:1935/live/virgin2/playlist.m3u8
+
+#EXTINF:0,VM
+http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
+
+#EXTINF:0,VOX Music TV
+http://stream.smcloud.net/live/vox2/stream1/playlist.m3u8
+
+#EXTINF:0,VOX Old's Cool TV
+http://stream.smcloud.net/tv//vox/vox_360p/playlist.m3u8
+
+#EXTINF:0,wawa tv
+http://stream.smcloud.net/tv//wawa/wawa_360p/playlist.m3u8
+
+#EXTINF:0,XITE
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/chunklist_w1738239119.m3u8
+
+#EXTINF:0,Óčko
+http://se01.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_hq.m3u8
+
+#EXTINF:0,Óčko Gold
+http://se02.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
+
+#EXTINF:0,Óčko Express
+http://se01.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8
+
+#EXTINF:0,ПИК ТВ
+http://piktv.cdnvideo.ru/piktv_live//piktv2pik2tv/playlist.m3u8
+
+#EXTINF:0,ПИК ТВ
+http://piktv.cdnvideo.ru/piktv_live//piktv3pik3tv/playlist.m3u8
+
 #EXTINF:0,Set 1
 http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/810262.mp4/playlist.m3u8
 
