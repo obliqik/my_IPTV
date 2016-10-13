@@ -81,6 +81,9 @@ http://185.85.29.19/orf3/q8c.sdp/chunklist.m3u8
 #EXTINF:0,reeins.tv
 http://www.reeins.tv:1935/live/re1/chunklist_w1776156647.m3u8
 
+#EXTINF:0,reeins.tv
+http://www.reeins.tv:1935/live/re1/playlist.m3u8
+
 #EXTINF:0,RFH
 http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
 
