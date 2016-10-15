@@ -234,29 +234,35 @@ http://194.219.46.2:8080/live
 #EXTINF:0,ERT Open
 http://radio.ertopen.com/erasport
 
-#EXTGRP:_MUSIC
-http://pastebin.com/raw/FF6NjiQf
+#EXTINF:0,3/24
+http://media3.crtvg.es/live/tvge/chunklist_w549510057.m3u8
 
-#EXTGRP:_BRITISH
-http://pastebin.com/raw/SkNNc6Mi
+#EXTINF:0,8TV
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w960715751.m3u8
 
-#EXTGRP:_FRENCH
-http://pastebin.com/raw/HWtuYHz2
+#EXTINF:0,Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
-#EXTGRP:_ITALIAN
-http://pastebin.com/raw/eXLw2QcP
+#EXTINF:0,A3S
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-p.m3u8
 
-#EXTGRP:_AUSTRALIAN
-http://pastebin.com/raw/b0AW18VF
+#EXTINF:0,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8
 
-#EXTGRP:_SPANISH
-http://pastebin.com/raw/y8Zg3aZr
+#EXTINF:0,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8
 
-#EXTGRP:_X
-http://pastebin.com/raw/j7qh3GX2
+#EXTINF:0,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8
 
-#EXTGRP:_SPORTS
-http://pastebin.com/raw/5vpASk7H
+#EXTINF:0,neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-p.m3u8
 
-#EXTGRP:_TEST
-http://pastebin.com/raw/aTxw1ptb
+#EXTINF:0,nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
+
+#EXTINF:0,la Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-p.m3u8
+
+#EXTINF:0,TVG
+http://media3.crtvg.es/live/tvge/chunklist_w549510057.m3u8
