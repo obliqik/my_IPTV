@@ -37,9 +37,6 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 
 #EXTINF:0,DELUXE MUSIC
-http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
-
-#EXTINF:0,DELUXE MUSIC
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 
 #EXTINF:0,DJING Animation
