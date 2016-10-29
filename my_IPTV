@@ -34,7 +34,7 @@ http://streaming06.axeweb.be:1935/canalc_live/_definst_/live.stream/chunklist_w6
 http://c001.p105.edgesuite.net/i/c001/cnn_1@97501/master.m3u8?__a__=off&b=500-1000
 
 #EXTINF:0,DELUXE MUSIC
-http://c001.p123.edgesuite.net/i/c001/deluxemusic_1@137777/master.m3u8
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 
 #EXTINF:0,Dobbit TV
 http://193.110.252.20:1935/live/dobbittv.stream/chunklist.m3u8?wowzasessionid=530891833
