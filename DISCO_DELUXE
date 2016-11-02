@@ -227,6 +227,9 @@ http://85.17.80.132:1935/radionorbatv/norbatv_source.stream/live.m3u8
 #EXTINF:0,Radio Number One
 http://wma02.fluidstream.net/RN1TV/livestream/chunklist_w1655015167.m3u8
 
+#EXTINF:-1,Radio One TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+
 #EXTINF:0,retro music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
