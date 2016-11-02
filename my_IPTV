@@ -193,7 +193,7 @@ http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
 
 #EXTINF:0,ACTION 24
-http://stream-ec2.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/live.m3u8?77838fedd64fa52abe6a11bcbbbb4e6281537322dce95af812d4de5969e0ecd7368ffbcbea4b0d1a1b44f6c31b3b221ec9f6655a9493e886b7cc6475a541053d28e3dbd9cd76efee1dea
+http://stream-01.vty.dailymotion.com/32/dm/1/x2p626q/live.isml/live.m3u8?e=1478290933&st=XrLvyzY6n_MijsADYsa_8g#cell=lvty&comment=QOEP2P&hls_abrEwmaFast=2&hls_abrEwmaSlow=9
 
 #EXTINF:0,BLUE SKY
 http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
