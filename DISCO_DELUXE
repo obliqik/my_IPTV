@@ -93,6 +93,9 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.
 #EXTINF:0,HIT TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
 
+#EXTINF:-1,Hit Channel Music
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+
 #EXTINF:0,JAYZEE
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 
@@ -104,6 +107,9 @@ http://csm-e-eur3aws-114.tm.yospace.com/csm/live/78581270/4.m3u8;jsessionid=789C
 
 #EXTINF:0,Klipkar TV
 http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/chunklist_w1607607812_b1200000.m3u8
+
+#EXTINF:-1,Kronehit TV
+http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 
 #EXTINF:0,M TUNES
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8
@@ -149,8 +155,14 @@ http://s4w.deb1.scdn.smcloud.net/live/vox2/stream1/chunklist_w183889425.m3u8
 #EXTINF:0,Mute HD
 http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
 
+#EXTINF:0,Now Music
+http://88.212.46.127:9000/rtp/232.232.64.71:5004
+
 #EXTINF:0,NR1
 http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
+
+#EXTINF:0,NR1 TURK
+http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
 
 #EXTINF:0,NRJ TV
 http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
@@ -160,6 +172,9 @@ http://rtmp.infomaniak.ch:1935/livecast/energytv/chunklist_w286042546.m3u8
 
 #EXTINF:0,NRJ HITS
 http://5.196.138.6:1935/live/nrjbelgique/playlist.m3u8
+
+#EXTINF:0,NRJ HITS
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
 
 #EXTINF:0,NUsicTV
 http://130.88.20.237:1238/test.flv
@@ -203,11 +218,17 @@ http://tv.105.net:1935/live/105Test1/chunklist_w81137801.m3u8
 #EXTINF:0,Radio 105 TV
 http://tv.105.net:1935/live/105Test1/chunklist_w1343453010.m3u8
 
+#EXTINF:-1,Radio Italia TV
+http://cwedge.cdcache.net:1935/cwedge/rilive/livestream.m3u8
+
 #EXTINF:0,RADIO CAPITAL TiVu
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
 #EXTINF:0,RADIO CAPITAL TiVu
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Radio Company TV
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
 
 #EXTINF:0,Radio Italia Tv
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-b.m3u8?sd=10&rebase=on
@@ -221,14 +242,23 @@ http://tv.105.net/live/rmc1/playlist.m3u8
 #EXTINF:0,RADIO MONTE CARLO TV
 http://tv.105.net:1935/live/rmc1/chunklist_w894220054.m3u8
 
-#EXTINF:0,RADIONORBA TV
+#EXTINF:-1,Radio Monte Carlo TV
+http://fms.105.net:1935/live/rmc1/livestream.m3u8
+
+#EXTINF:0,radionorba TV
 http://85.17.80.132:1935/radionorbatv/norbatv_source.stream/live.m3u8
+
+#EXTINF:-1,radionorba TV
+http://85.17.80.132:1935/radionorbatv/norbatv_source.stream/chunklist.m3u8?wowzasessionid=451762510
 
 #EXTINF:0,Radio Number One
 http://wma02.fluidstream.net/RN1TV/livestream/chunklist_w1655015167.m3u8
 
 #EXTINF:-1,Radio One TV
 http://server5.stweb.tv/radioone/live/playlist.m3u8
+
+#EXTINF:-1,RE TV
+http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 
 #EXTINF:0,retro music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -242,11 +272,17 @@ http://81.201.52.159:8018
 #EXTINF:0,retro music
 http://www.retromusic.czrtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 
+#EXTINF:-1,RTI
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+
 #EXTINF:0,RTL 102.5
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
 
 #EXTINF:0,RTL 102.5
 http://origin-rtl-radio-stream.4mecloud.it:80/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
+
+#EXTINF:0,RTL 102.5
+http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
 
 #EXTINF:0,SLAM!
 http://hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8
@@ -268,6 +304,9 @@ http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
 
 #EXTINF:-1,tvm3
 http://rtmp.infomaniak.ch/livecast/tvm3/chunklist_w1655634859.m3u8
+
+#EXTINF:0,TOPSONG TV
+http://37.9.156.189:4022/udp/232.0.1.27:1234
 
 #EXTINF:0,RadioU
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
@@ -292,6 +331,9 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 #EXTINF:0,Virgin Radio TV
 http://fms.105.net:1935/live/virgin2/playlist.m3u8
+
+#EXTINF:-1,Visual Radio
+http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 
 #EXTINF:0,VM
 http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
