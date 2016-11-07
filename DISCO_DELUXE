@@ -39,6 +39,9 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 #EXTINF:0,DELUXE MUSIC
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 
+#EXTINF:0,DJING
+http://www.djing.com/tv/05.m3u8
+
 #EXTINF:0,DJING Animation
 http://www.djing.com/tv/a-05.m3u8
 
@@ -47,6 +50,9 @@ http://www.djing.com/tv/i-05.m3u8
 
 #EXTINF:0,DJING Dancefloor
 http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:0,DJING Dancefloor
+http://www.djing.com/tv/dancefloor.m3u8
 
 #EXTINF:0,DJING Underground
 http://www.djing.com/tv/u-05.m3u8
@@ -60,17 +66,20 @@ http://212.224.109.101/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0,Elektrosound
 http://www.electrosound.tv:1935/public/stream/playlist.m3u8
 
-#EXTINF:0,ESKA Best Music TV
-http://stream.smcloud.net/tv/best/best_480p/playlist.m3u8
+#EXTINF:0,eska TV
+http://stream.smcloud.net/tv/eskatv/eskatv_360p/playlist.m3u8
+
+#EXTINF:0,eska TV
+http://212.180.238.9/live/eskatv/playlist.m3u8
+
+#EXTINF:0,eska best music TV
+http://stream.smcloud.net/tv/best/best_720p/playlist.m3u8
 
 #EXTINF:0,ESKA Party TV
 http://stream.smcloud.net/tv/eska_party/eska_party_480p/playlist.m3u8
 
 #EXTINF:0,Eska ROCK TV
 http://stream.smcloud.net/tv/eska_rock/eska_rock_480p/playlist.m3u8
-
-#EXTINF:0,ESKA TV
-http://stream.smcloud.net/tv/eskatv/eskatv_360p/playlist.m3u8
 
 #EXTINF:0,FORMUSIC.TV
 http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
@@ -101,6 +110,9 @@ http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 
 #EXTINF:0,JUCE TV
 http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
+
+#EXTINF:0,JUCE TV
+http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8
 
 #EXTINF:0,KISS
 http://csm-e-eur3aws-114.tm.yospace.com/csm/live/78581270/4.m3u8;jsessionid=789C9AFAA9A555DB0488E49E9E390C99.csm-e-eur3aws-114.cds1.yospace.com?partnerId=463504&yo.ac=true&mediaId=Kiss&mediaTitle=Kiss
@@ -143,6 +155,9 @@ http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
 #EXTINF:0,Miami Music TV
 http://74.208.152.93/music/stream3/stream.m3u8
 
+#EXTINF:-1,MNM
+http://live.stream.vrt.be/vrt_mnm_live/smil:vrt_mnm_live.smil/playlist.m3u8
+
 #EXTINF:0,mooz dance
 http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END
 
@@ -179,8 +194,23 @@ http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
 #EXTINF:0,NUsicTV
 http://130.88.20.237:1238/test.flv
 
-#EXTINF:-1,Onda Italiana
-http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
+#EXTINF:-1,O2
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
+
+#EXTINF:0,Óčko Flirt 
+http://se01.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_hq.m3u8
+
+#EXTINF:0,Óčko Flirt 
+http://ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8
+
+#EXTINF:0,Óčko Gold
+http://se02.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
+
+#EXTINF:0,Óčko Gold
+http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
+
+#EXTINF:0,Óčko Express
+http://se01.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8
 
 #EXTINF:0,One.by
 http://rtmp.one.by:1200
@@ -323,6 +353,9 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0,VEVO TV Nashville
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
+#EXTINF:-1,Vibee
+http://46.101.21.42:8081/live/live2/chunks.m3u8
+
 #EXTINF:0,Virgin Radio TV
 http://wow01.105.net/live/virgin1/chunklist.m3u8
 
@@ -349,15 +382,6 @@ http://stream.smcloud.net/tv//wawa/wawa_360p/playlist.m3u8
 
 #EXTINF:0,XITE
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/chunklist_w1738239119.m3u8
-
-#EXTINF:0,Óčko
-http://se01.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_hq.m3u8
-
-#EXTINF:0,Óčko Gold
-http://se02.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
-
-#EXTINF:0,Óčko Express
-http://se01.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8
 
 #EXTINF:0,ПИК ТВ
 http://piktv.cdnvideo.ru/piktv_live//piktv2pik2tv/playlist.m3u8
