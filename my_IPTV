@@ -160,12 +160,6 @@ http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 
 #EXTINF:0,ANT1
-http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8
-
-#EXTINF:0,ANT1
-http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
-
-#EXTINF:0,ANT1
 http://www.iptvsaga.com/play/tv3/0133.m3u8
 
 #EXTINF:0,mega
@@ -175,13 +169,7 @@ http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8
 
 #EXTINF:0,Alpha
-http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
-
-#EXTINF:0,Alpha
 http://193.92.37.235:1935/liveedge/live@720/chunklist_w518635263_DVR.m3u8
-
-#EXTINF:0,Alpha
-http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8
 
 #EXTINF:0,STAR
 http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
@@ -193,7 +181,7 @@ http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 
 #EXTINF:0,SKAI
-http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
+http://iphone.skai.gr.edgesuite.net/iphoneglobal_iphone.m3u8
 
 #EXTINF:0,ACTION 24
 http://stream-01.vty.dailymotion.com/32/dm/1/x2p626q/live.isml/live.m3u8?e=1478290933&st=XrLvyzY6n_MijsADYsa_8g#cell=lvty&comment=QOEP2P&hls_abrEwmaFast=2&hls_abrEwmaSlow=9
