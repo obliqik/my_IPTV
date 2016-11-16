@@ -184,9 +184,7 @@ http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 http://iphone.skai.gr.edgesuite.net/iphoneglobal_iphone.m3u8
 
 #EXTINF:0,ACTION 24
-http://stream-08.vty.dailymotion.com/32/dm/1/x2p626q/live.isml/live.m3u8?e=1478895566&st=YAss3AEMQgkZxAJZLtHBZg#cell=lvty&comment=QOEP2P&hls_abrEwmaFastLive=1&hls_abrEwmaSlowLive=6&p2p=p5&ab_p2pLive=1
-
-
+http://stream-ec2.vty.dailymotion.com/48/dm/1/x2p626q/live.isml/live.m3u8?77838fedd64fa52abe6a11bcbbbb4e6281537322dce95af812d4de5663e2ecd1751c3458a9dcd0834796583a3fcdd32ce5dd407e02cfe66ddf530997973cd1a3456c55e5987334b3f95f#cell=lecvty&hls_abrEwmaFastLive=3&hls_abrEwmaSlowLive=9&comment=QOEP2P&ab_p2pLive=1
 
 #EXTINF:0,BLUE SKY
 http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
