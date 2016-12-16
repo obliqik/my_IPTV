@@ -275,3 +275,6 @@ http://81.17.17.169:217/session/05cd1180-c3cc-11e6-b032-005056bc1a52/nvnv5a/1/11
 
 #EXTINF:0,ITALIA UNO
 http://81.17.17.169:149/session/3e28b8bc-c3cd-11e6-b76d-005056bc06d1/nvnv5a/2/3028/2290000/index.m3u8
+
+#EXTINF:0,ITALIA UNO
+http://81.17.17.169:155/session/663d84cc-c3cd-11e6-b374-005056bc49ac/nvnv5a/2/4024/2290000/index.m3u8
