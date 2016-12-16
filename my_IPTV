@@ -257,3 +257,16 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-p.m3u8
 
 #EXTINF:0,TVG
 http://media3.crtvg.es/live/tvge/chunklist_w549510057.m3u8
+
+#EXTINF:0,CBS
+http://cbs-nyc-wcbs.live.sonytv.adaptive.level3.net/PROD03/sony/CBS_WCBS_NYC/live/2016/11/17/5230294/4500K/4500_slide.m3u8
+
+#EXTINF:0,NBC
+http://nbc-nyc-wnbc.live.sonytv.adaptive.level3.net/PROD03/sony/NBC_WNBC_NYC/live/2016/11/06/5092830/4500K/4500_slide.m3u8
+
+#EXTINF:0,FOX
+http://fox-nyc-wnyw-dt.live.sonytv.adaptive.level3.net/PROD03/sony/FOX_WNYW_NYC/live/2016/12/01/5395805/4500K/4500_slide.m3u8
+
+#EXTINF:0,ABC
+http://abc-wabc-nyc.live.sonytv.adaptive.level3.net/PROD11/sony/ABC_WABC_NYC/live/2016/11/14/5178651/4500K/4500_slide.m3u8
+
