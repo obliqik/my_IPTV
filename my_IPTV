@@ -262,13 +262,10 @@ http://media3.crtvg.es/live/tvge/chunklist_w549510057.m3u8
 http://cbs-nyc-wcbs.live.sonytv.adaptive.level3.net/PROD03/sony/CBS_WCBS_NYC/live/2016/11/17/5230294/4500K/4500_slide.m3u8
 
 #EXTINF:0,NBC
-http://nbc-nyc-wnbc.live.sonytv.adaptive.level3.net/PROD03/sony/NBC_WNBC_NYC/live/2016/11/06/5092830/4500K/4500_slide.m3u8
 
 #EXTINF:0,FOX
-http://fox-nyc-wnyw-dt.live.sonytv.adaptive.level3.net/PROD03/sony/FOX_WNYW_NYC/live/2016/12/01/5395805/4500K/4500_slide.m3u8
 
 #EXTINF:0,ABC
-http://abc-wabc-nyc.live.sonytv.adaptive.level3.net/PROD11/sony/ABC_WABC_NYC/live/2016/11/14/5178651/4500K/4500_slide.m3u8
 
 #EXTINF:0,DELUXE MUSIC
 http://81.17.17.169:217/session/05cd1180-c3cc-11e6-b032-005056bc1a52/nvnv5a/1/1153/2290000/index.m3u8
