@@ -287,6 +287,9 @@ http://wma02.fluidstream.net/RN1TV/livestream/chunklist_w1655015167.m3u8
 #EXTINF:-1,RADIO one
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
+#EXTINF:-1,RADIO one
+http://server5.stweb.tv/radioone/ngrp:live_all/chunklist_w362302302_b2146304.m3u8
+
 #EXTINF:-1,RE TV
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 
