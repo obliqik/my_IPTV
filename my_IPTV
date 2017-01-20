@@ -168,26 +168,14 @@ http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 #EXTINF:0,mega
 http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8
 
-#EXTINF:0,Alpha
-http://193.92.37.235:1935/liveedge/live@720/chunklist_w518635263_DVR.m3u8
-
 #EXTINF:0,STAR
 http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
 
 #EXTINF:0,ERT2
 http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
 
-#EXTINF:0,EPSILON
-http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
-
 #EXTINF:0,SKAI
 http://iphone.skai.gr.edgesuite.net/iphoneglobal_iphone.m3u8
-
-#EXTINF:0,ACTION 24
-http://stream-02.vty.dailymotion.com/08/dm/1/x2p626q/live.isml/live.m3u8?e=1481922490&st=QathrI6-IpVmLLtcYHLdUA#cell=lvty&p2p=p5&comment=QOEP2P 
-
-#EXTINF:0,BLUE SKY
-http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
 
 #EXTINF:0,kontra
 http://kontratv.flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
@@ -201,9 +189,6 @@ http://flashcloud.mediacdn.com/live/kontratv/hasbahca.m3u8
 #EXTINF:0,EXTRA
 http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
 
-#EXTINF:0,MAKELEIO TV
-http://makeliolive-lh.akamaihd.net/i/event_1@167269/master.m3u8
-
 #EXTINF:0,Real FM 97.8
 http://realfm.live24.gr/realfm
 
@@ -215,9 +200,6 @@ http://focus.greekstream.net/;
 
 #EXTINF:0,ΣΚΑΪ 100.3
 http://radioskaigroup-lh.akamaihd.net/i/2_600@119868/master.m3u8
-
-#EXTINF:0,ΒΗΜΑ FM 99.5
-http://streaming.dol.gr/vimafm
 
 #EXTINF:0,Alpha 98.9
 http://194.219.46.2:8080/live
@@ -258,23 +240,5 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-p.m3u8
 #EXTINF:0,TVG
 http://media3.crtvg.es/live/tvge/chunklist_w549510057.m3u8
 
-#EXTINF:0,bbctwo
-http://live.tvplayer.com/bbctwo/5/prog_index.m3u8
-
-#EXTINF:0,bbcone
-http://live.tvplayer.com/bbcone/5/prog_index.m3u8
-
-#EXTINF:0,dave
-http://live.tvplayer.com/dave/5/prog_index.m3u8
-
-#EXTINF:0,really
-http://live.tvplayer.com/really/5/prog_index.m3u8
-
-#EXTINF:0,DELUXE MUSIC
-http://81.17.17.169:217/session/05cd1180-c3cc-11e6-b032-005056bc1a52/nvnv5a/1/1153/2290000/index.m3u8
-
-#EXTINF:0,ITALIA UNO
-http://81.17.17.169:149/session/3e28b8bc-c3cd-11e6-b76d-005056bc06d1/nvnv5a/2/3028/2290000/index.m3u8
-
-#EXTINF:0,ITALIA UNO
-http://81.17.17.169:155/session/663d84cc-c3cd-11e6-b374-005056bc49ac/nvnv5a/2/4024/2290000/index.m3u8
+#EXTINF:0,Tele MELODY
+http://str81.creacast.com/telemelody//e2a4ba88e2617f77ad7a6844883084a4/playlist.m3u8
