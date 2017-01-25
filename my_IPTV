@@ -186,8 +186,8 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0,kontra
 http://flashcloud.mediacdn.com/live/kontratv/hasbahca.m3u8
 
-#EXTINF:0,EXTRA
-http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
+#EXTINF:0,Action 24
+http://www.dailymotion.com/cdn/live/video/x2p626q.m3u8?auth=1485548504-2688-dx93ajvn-73cd7149c33b8ea842265b5fd368e416
 
 #EXTINF:0,Real FM 97.8
 http://realfm.live24.gr/realfm
