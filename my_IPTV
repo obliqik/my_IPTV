@@ -207,6 +207,9 @@ http://194.219.46.2:8080/live
 #EXTINF:0,ERT Open
 http://radio.ertopen.com/erasport
 
+#EXTINF:0,Melody
+http://str81.creacast.com/telemelody//bb1181cb5e0fabf42de3f88c7f5139a7/playlist.m3u8
+
 #EXTINF:0,3/24
 http://media3.crtvg.es/live/tvge/chunklist_w549510057.m3u8
 
