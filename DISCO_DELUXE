@@ -149,6 +149,9 @@ http://144.76.2.213:1935/live/livestream/playlist.m3u8
 #EXTINF:0,MAGIC TV
 http://31.13.217.76:1935/magictv/magictv_live.stream/chunklist_w1673671683.m3u8
 
+#EXTINF:0,Melody
+http://str81.creacast.com/telemelody//bb1181cb5e0fabf42de3f88c7f5139a7/playlist.m3u8
+
 #EXTINF:0,MFM TV
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
 
