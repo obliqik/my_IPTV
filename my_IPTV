@@ -207,6 +207,9 @@ http://194.219.46.2:8080/live
 #EXTINF:0,ERT Open
 http://radio.ertopen.com/erasport
 
+#EXTINF:0,msnbc
+http://nbc-msnbc.live.sonytv.adaptive.level3.net/PROD02/sony/NBC_MSNBC/live/2016/12/13/5525423/4500K/4500_slide.m3u8
+
 #EXTINF:0,3/24
 http://media3.crtvg.es/live/tvge/chunklist_w549510057.m3u8
 
