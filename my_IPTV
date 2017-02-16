@@ -187,7 +187,7 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 http://flashcloud.mediacdn.com/live/kontratv/hasbahca.m3u8
 
 #EXTINF:0,Action 24
-http://stream-12.vty.dailymotion.com/36/dm/1/x2p626q/live.isml/live.m3u8?e=1486758919&st=53SADqkGmyfPpekPLuXwfQ#cell=lvty&hls_highBufferWatchdogPeriod=4&hls_nudgeMaxRetry=2&hls_nudgeOffset=0.3&ab_nudge=2&p2p=sr&comment=QOEP2PLIVE3
+http://proxy-011.dc3.dailymotion.com/sec(a7661219f865a749ef95b1b21d2df94a)/video/998/133/322331899_mp4_h264_aac.m3u8
 
 #EXTINF:0,Real FM 97.8
 http://realfm.live24.gr/realfm
