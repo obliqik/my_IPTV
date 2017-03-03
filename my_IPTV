@@ -246,17 +246,18 @@ http://media3.crtvg.es/live/tvge/chunklist_w549510057.m3u8
 #EXTINF:0,Tele MELODY
 http://str81.creacast.com/telemelody//e2a4ba88e2617f77ad7a6844883084a4/playlist.m3u8
 
-#EXTINF:0,TEST
+#EXTINF:0,FS1
 http://fox-foxsports1.live.sonytv.adaptive.level3.net/PROD11/sony/FOX_FOXSPORTS1/live/2017/02/27/6397045/4500K/4500_slide.m3u8
 
-#EXTINF:0,TEST
+#EXTINF:0,HGTV
 http://scripps-hgtv.live.sonytv.adaptive.level3.net/PROD12/sony/SCRIPPS_HGTV/live/2017/02/13/6233691/4500K/4500_slide_ads.m3u8
 
-#EXTINF:0,TEST
+#EXTINF:0,ABC
 http://abc-wabc-nyc.live.sonytv.adaptive.level3.net/PROD11/sony/ABC_WABC_NYC/live/2017/02/27/6397037/4500K/4500_slide.m3u8
 
-#EXTINF:0,TEST
+#EXTINF:0,BBC AMERICA
 http://amc-bbcamerica.live.sonytv.adaptive.level3.net/PROD12/sony/AMC_BBCAMERICA/live/2017/03/01/6408726/4500K/4500_slide.m3u8
 
-
+#EXTINF:0,FOX
+http://fox-wttg-wdc.live.sonytv.adaptive.level3.net/PROD11/sony/FOX_WTTG_WDC/live/2017/02/21/6327186/4500K/4500_slide.m3u8
 
