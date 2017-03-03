@@ -263,3 +263,6 @@ http://fox-wttg-wdc.live.sonytv.adaptive.level3.net/PROD11/sony/FOX_WTTG_WDC/liv
 
 #EXTINF:0,epix HITS
 http://epix-epix3.live.sonytv.adaptive.level3.net/PROD11/sony/EPIX_EPIX3/live/2017/02/16/6270833/4500K/4500_slide.m3u8
+
+#EXTINF:0,SONY MOVIE CHANNEL
+http://sony-sonymoviechannel.live.sonytv.adaptive.level3.net/PROD12/sony/SONY_SONYMOVIECHANNEL/live/2017/02/24/6364019/4500K/4500_slide.m3u8
