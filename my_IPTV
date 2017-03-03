@@ -266,3 +266,9 @@ http://epix-epix3.live.sonytv.adaptive.level3.net/PROD11/sony/EPIX_EPIX3/live/20
 
 #EXTINF:0,SONY MOVIE CHANNEL
 http://sony-sonymoviechannel.live.sonytv.adaptive.level3.net/PROD12/sony/SONY_SONYMOVIECHANNEL/live/2017/02/24/6364019/4500K/4500_slide.m3u8
+
+#EXTINF:0,NBC
+http://nbc-wrc-wdc.live.sonytv.edgesuite.net/PROD09/sony/NBC_WRC_WDC/live/2017/02/24/6363816/4500K/4500_slide.m3u8
+
+#EXTINF:0,AMC
+http://amc-amc.live.sonytv.adaptive.level3.net/PROD06/sony/AMC_AMC/live/2017/03/01/6408729/4500K/4500_slide_ads.m3u8
