@@ -249,8 +249,8 @@ http://str81.creacast.com/telemelody//e2a4ba88e2617f77ad7a6844883084a4/playlist.
 #EXTINF:0,FS1
 http://fox-foxsports1.live.sonytv.adaptive.level3.net/PROD11/sony/FOX_FOXSPORTS1/live/2017/02/27/6397045/4500K/4500_slide.m3u8
 
-#EXTINF:0,HGTV
-http://scripps-hgtv.live.sonytv.adaptive.level3.net/PROD12/sony/SCRIPPS_HGTV/live/2017/02/13/6233691/4500K/4500_slide_ads.m3u8
+#EXTINF:0,FX
+http://fox-fx.live.sonytv.edgesuite.net/PROD10/sony/FOX_FX/live/2017/02/21/6327168/4500K/4500_slide.m3u8
 
 #EXTINF:0,ABC
 http://abc-wabc-nyc.live.sonytv.adaptive.level3.net/PROD11/sony/ABC_WABC_NYC/live/2017/02/27/6397037/4500K/4500_slide.m3u8
@@ -259,16 +259,16 @@ http://abc-wabc-nyc.live.sonytv.adaptive.level3.net/PROD11/sony/ABC_WABC_NYC/liv
 http://amc-bbcamerica.live.sonytv.adaptive.level3.net/PROD12/sony/AMC_BBCAMERICA/live/2017/03/01/6408726/4500K/4500_slide.m3u8
 
 #EXTINF:0,FOX
-http://fox-wttg-wdc.live.sonytv.adaptive.level3.net/PROD11/sony/FOX_WTTG_WDC/live/2017/02/21/6327186/4500K/4500_slide.m3u8
+http://fox-nyc-wnyw-dt.live.sonytv.edgesuite.net/PROD03/sony/FOX_WNYW_NYC/live/2017/02/08/6176695/4500K/4500_slide.m3u8
 
 #EXTINF:0,epix HITS
-http://epix-epix3.live.sonytv.adaptive.level3.net/PROD11/sony/EPIX_EPIX3/live/2017/02/16/6270833/4500K/4500_slide.m3u8
+http://epix-epix3.live.sonytv.adaptive.level3.net/PROD11/sony/EPIX_EPIX3/live/2017/03/14/6561537/4500K/4500_slide.m3u8
 
-#EXTINF:0,SONY MOVIE CHANNEL
-http://sony-sonymoviechannel.live.sonytv.adaptive.level3.net/PROD12/sony/SONY_SONYMOVIECHANNEL/live/2017/02/24/6364019/4500K/4500_slide.m3u8
+#EXTINF:0,CBS
+http://cbs-nyc-wcbs.live.sonytv.adaptive.level3.net/PROD03/sony/CBS_WCBS_NYC/live/2017/02/24/6363825/4500K/4500_slide.m3u8
 
 #EXTINF:0,NBC
-http://nbc-wrc-wdc.live.sonytv.edgesuite.net/PROD09/sony/NBC_WRC_WDC/live/2017/02/24/6363816/4500K/4500_slide.m3u8
+http://nbc-nyc-wnbc.live.sonytv.edgesuite.net/PROD03/sony/NBC_WNBC_NYC/live/2017/02/27/6397047/4500K/4500_slide.m3u8
 
 #EXTINF:0,AMC
 http://amc-amc.live.sonytv.adaptive.level3.net/PROD06/sony/AMC_AMC/live/2017/03/01/6408729/4500K/4500_slide_ads.m3u8
