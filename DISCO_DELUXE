@@ -278,6 +278,9 @@ http://tv.105.net:1935/live/rmc1/chunklist_w894220054.m3u8
 #EXTINF:-1,Radio Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/livestream.m3u8
 
+#EXTINF:-1,Radiofreccia
+https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
+
 #EXTINF:0,radionorba TV
 http://85.17.80.132:1935/radionorbatv/norbatv_source.stream/live.m3u8
 
