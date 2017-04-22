@@ -126,8 +126,6 @@ http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 #EXTINF:0,M TUNES
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8
 
-http://ds.serving-sys.com/BurstingRes/Site-84393/Type-16/cafd7a62-d96e-48ec-8fc4-6e0f98c10fd7.mp4
-
 #EXTINF:0,m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
@@ -263,6 +261,9 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8?sd=10&r
 #EXTINF:-1,Radio Company TV
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
 
+#EXTINF:-1,Radio Freccia
+https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
+
 #EXTINF:0,Radio Italia Tv
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-b.m3u8?sd=10&rebase=on
 
@@ -277,9 +278,6 @@ http://tv.105.net:1935/live/rmc1/chunklist_w894220054.m3u8
 
 #EXTINF:-1,Radio Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/livestream.m3u8
-
-#EXTINF:-1,Radiofreccia
-https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
 
 #EXTINF:0,radionorba TV
 http://85.17.80.132:1935/radionorbatv/norbatv_source.stream/live.m3u8
