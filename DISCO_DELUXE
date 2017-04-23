@@ -93,6 +93,9 @@ http://194.116.73.146:1935/quartaretetv1/formusicweb/live.m3u8
 #EXTINF:0,FORMUSIC.TV
 http://wowza1.top-ix.org:1935/quartaretetv1/formusicweb/live.m3u8
 
+#EXTINF:-1, Fresh TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+
 #EXTINF:0,heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
@@ -126,11 +129,17 @@ http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 #EXTINF:0,M TUNES
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8
 
+#EXTINF:-1,M tv
+http://81.30.182.82:18092/hls/live.m3u8
+
 #EXTINF:0,m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:0,m2o
 http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF:0,m2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 #EXTINF:0,M6 Music
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
@@ -147,20 +156,26 @@ http://144.76.2.213:1935/live/livestream/playlist.m3u8
 #EXTINF:0,MAGIC TV
 http://31.13.217.76:1935/magictv/magictv_live.stream/chunklist_w1673671683.m3u8
 
-#EXTINF:0,Melody
-http://str81.creacast.com/telemelody//bb1181cb5e0fabf42de3f88c7f5139a7/playlist.m3u8
-
 #EXTINF:0,MFM TV
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
 
 #EXTINF:0,Miami Music TV
 http://74.208.152.93/music/stream3/stream.m3u8
 
+#EXTINF:-1,Mimusica HD
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
 #EXTINF:-1,MNM
 http://live.stream.vrt.be/vrt_mnm_live/smil:vrt_mnm_live.smil/playlist.m3u8
 
 #EXTINF:0,mooz dance
 http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END
+
+#EXTINF:-1,Music Box
+http://212.26.132.86/hls/mb_ua.m3u8
+
+#EXTINF:-1, Music Box
+http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 
 #EXTINF:0,Music Vox TV
 http://stream.smcloud.net/live/vox2/stream1/playlist.m3u8
@@ -179,6 +194,9 @@ http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
 
 #EXTINF:0,NR1 TURK
 http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
+
+#EXTINF:-1, NRJ Hits Belgique
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
 
 #EXTINF:0,NRJ TV
 http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
@@ -236,6 +254,9 @@ http://live.youiptv.ch:1935/8FM/8FM/livestream.m3u8
 
 #EXTINF:0,polo tv
 http://s4w.deb1.scdn.smcloud.net/live/_definst_/polotv/chunklist_w421222378.m3u8
+
+#EXTINF:0,polo tv
+http://stream.smcloud.net/live/polotv/playlist.m3u8
 
 #EXTINF:0,Power TV
 http://185.28.3.10/powertv/powertv.stream/playlist.m3u8
@@ -330,6 +351,9 @@ http://sporttimelive1.content-cdn.net/livechannel1/smil:switch1.smil/chunklist_b
 #EXTINF:0,TeleMusica
 http://186.155.200.118/live/telemusica/playlist.m3u8
 
+#EXTINF:-1,Telemusica
+http://186.155.200.118:1935/live/telemusica/chunklist_w475203218.m3u8
+
 #EXTINF:0,The Box
 http://csm-e-eur3aws-114.tm.yospace.com/csm/live/78581259/4.m3u8;jsessionid=48001B931613F94E0ADD0765FC87A481.csm-e-eur3aws-114.cds1.yospace.com?partnerId=463514&yo.ac=true&mediaId=Box&mediaTitle=Box
 
@@ -362,6 +386,9 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:-1,Vibee
 http://46.101.21.42:8081/live/live2/chunks.m3u8
+
+#EXTINF:-1,Vibee
+http://46.101.21.42:8081/live/live2/playlist.m3u8
 
 #EXTINF:0,Virgin Radio TV
 http://wow01.105.net/live/virgin1/chunklist.m3u8
