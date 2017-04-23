@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0,Channel 7
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224858/BRI6/master.m3u8
+#EXTINF:-1,13 Max
+http://www.coninfo.net:1935/13max/live/chunklist_w1171882123.m3u8
 
 #EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
@@ -12,8 +12,14 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&b=800-2
 #EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 
+#EXTINF:-1,Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
 #EXTINF:0,AMG TV
 http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8
+
+#EXTINF:-1,Anime TV Latino
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 #EXTINF:0,atv
 http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/index_1_av-p.m3u8?sd=10&rebase=on
@@ -27,14 +33,32 @@ http://5.9.11.81/live/stream_720p/playlist.m3u8
 #EXTINF:0,BNT World
 http://media2.bnt.bg:1935/live/bntsat/playlist.m3u8
 
+#EXTINF:-1,Canal 4 HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
+
+#EXTINF:-1,Canal 4 Esquel
+http://192.99.46.56:1935/envivo/canal4esquel/chunklist_w1614550225.m3u8
+
+#EXTINF:-1,Canal 79
+http://painel.serveron.com.br:1935/8168/8168/playlist.m3u8
+
 #EXTINF:0,canal 9
 http://rtmp.infomaniak.ch/livecast/livehd/playlist.m3u8
 
 #EXTINF:0,Canal C
 http://streaming06.axeweb.be:1935/canalc_live/_definst_/live.stream/chunklist_w643589610.m3u8
 
+#EXTINF:-1,Canal Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1,Canal Trece
+http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
+
 #EXTINF:0,CNN 
 http://c001.p105.edgesuite.net/i/c001/cnn_1@97501/master.m3u8?__a__=off&b=500-1000
+
+#EXTINF:-1,CNN TuRK HD News
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 
 #EXTINF:0,DELUXE MUSIC
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
@@ -42,17 +66,26 @@ http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 #EXTINF:0,Dobbit TV
 http://193.110.252.20:1935/live/dobbittv.stream/chunklist.m3u8?wowzasessionid=530891833
 
+#EXTINF:-1,Dorf TV Austria
+http://dorf.openplayout.org/hls/dorf_high/index.m3u8
+
 #EXTINF:0,Elbe Kanal
 http://62.113.210.250/medienasa-live/elbe_high/playlist.m3u8
 
 #EXTINF:0,GPTV
 http://stream3.paystream.tv/live/test/chunklist_w1170642058.m3u8?time=1465325184788
 
+#EXTINF:-1,Hispan TV
+http://efusion1-i.akamaihd.net/hls/live/252882/hispantv/chunklist.m3u8
+
 #EXTINF:0,ÍNN
 http://79.171.99.70:1935/webtv/innwebtv.stream/chunklist_w844868756.m3u8
 
 #EXTINF:0,kanal 9
 http://rtmp.infomaniak.ch/livecast/livesd2/playlist.m3u8
+
+#EXTINF:0, MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,MNM
 http://live.stream.vrt.be/vrt_mnm_live/_definst_/smil:vrt_mnm_live.smil/chunklist_w528390648_b1296000.m3u8
@@ -63,14 +96,23 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:0,Nuacht TG4
 http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4688357261001&pubId=1290862567001&videoId=4688195840001
 
+#EXTINF:-1,Okto TV
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
+
 #EXTINF:0,Omroep Fryslan
 http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/chunklist_w1020411311_b2000000.m3u8
 
 #EXTINF:0,Omroep Zeeland
 http://livestream.zeelandnet.nl:1935/live/omroepzeeland_tv_200k.sdp/chunklist_w543682264.m3u8
 
+#EXTINF:0,ON AIR Bulgaria
+http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+
 #EXTINF:0,Öppna Kanalen
 http://80.252.162.14/edge/_451iw2h_/451iw2h/chunklist_w185907408.m3u8?id=&s_referrer=http%3A%2F%2Fwww.squidtv.net%2Feurope%2Fsweden%2Fsweden-008.html&s_type=1
+
+#EXTINF:-1,Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 
 #EXTINF:0,ORF eins
 http://185.85.29.19/orf1/q8c.sdp/chunklist.m3u8
@@ -81,6 +123,12 @@ http://185.85.29.19/orf2/q8c.sdp/chunklist.m3u8
 #EXTINF:0,ORF |||
 http://185.85.29.19/orf3/q8c.sdp/chunklist.m3u8
 
+#EXTINF:-1, Publica TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+
+#EXTINF:-1,Rede TV
+http://evp.mm.uol.com.br:1935/redetv2/_definst_/redetv2/playlist.m3u8
+
 #EXTINF:0,reeins.tv
 http://www.reeins.tv:1935/live/re1/chunklist_w1776156647.m3u8
 
@@ -90,11 +138,17 @@ http://www.reeins.tv:1935/live/re1/playlist.m3u8
 #EXTINF:0,RFH
 http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
 
+#EXTINF:-1,RTI
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+
 #EXTINF:0,RTL
 http://live01.rtl.lu/channel1/smil:channel1/chunklist_w948198792_b2128000_slltz.m3u8
 
 #EXTINF:0,RTS
 http://80.237.191.228:1935/live/_definst_/RTS2015/chunklist_w701308619.m3u8
+
+#EXTINF:-1,RTS
+http://80.237.191.228:1935/live/_definst_/RTS2015/playlist.m3u8
 
 #EXTINF:0,RTV Drenthe
 http://stream.rtvdrenthe.nl/tv/tvstream1/chunklist_w33710350.m3u8
@@ -102,11 +156,20 @@ http://stream.rtvdrenthe.nl/tv/tvstream1/chunklist_w33710350.m3u8
 #EXTINF:0,SCHWEIZ 5
 http://194.29.5.2:80/live//myStream/playlist.m3u8
 
+#EXTINF:-1,SDF
+http://livestream.goinfo.it/SDFLive/sdfrosnew1/chunklist.m3u8
+
 #EXTINF:0,Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 
 #EXTINF:0,SIGMA
 http://81.21.47.74/hls/live.m3u8
+
+#EXTINF:-1,TDC TV
+http://painel.serveron.com.br:1935/8166/8166/live.m3u8
+
+#EXTINF:-1,TEC TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/index_3_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,TeleBarn
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish2/kLive/smil:1_0mc3z57p_all.smil/32/chunklist.m3u8
@@ -120,14 +183,35 @@ http://rtmp.infomaniak.ch/livecast/telebielinguech/playlist.m3u8
 #EXTINF:0,TeleBielingue
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish2/kLive/smil:1_0mc3z57p_all.smil/32/chunklist.m3u8
 
+#EXTINF:-1,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1688859984_b1828000_sleng.m3u8
+
 #EXTINF:0,Televesdre
 http://vm109.imust.org:1935/live/televesdre-live/chunklist_w1412507044.m3u8
 
 #EXTINF:0,Televize Slovácko
 https://r2---sn-ixaa5n-5uiz.googlevideo.com/videoplayback/id/mpr8UUj1doQ.65/itag/135/source/yt_live_broadcast/requiressl/yes/playlist_type/DVR/gcr/ae/ratebypass/yes/cmbypass/yes/mime/video%2Fmp4/live/1/gir/yes/sver/3/fexp/9416126,9416891,9422596,9428398,9431012,9431849,9432683,9432772,9433096,9433221,9433946,9435394,9435527,9435876,9435988,9436275,9436346,9436918,9436952,9437066,9437228,9437553,9438382/upn/1_pK7PtrKkU/key/cms1/signature/176D1BA505C782BFADA9C064155A6FBB7170D305.750990F369E51DC8B0C64360D5DD1E22B30987B9/cpn/V4_RKQb8tYmetHyu/mpd_version/4/pacing/0/ip/46.177.214.201/ipbits/0/expire/1465350761/sparams/cmbypass,expire,gcr,gir,id,ip,ipbits,itag,live,mime,mm,mn,ms,mv,pcm2cms,pl,playlist_type,ratebypass,requiressl,source/mm/32/mn/sn-ixaa5n-5uiz/ms/lv/mt/1465329144/mv/m/pcm2cms/yes/pl/19/
 
+#EXTINF:-1,TRT1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+
+#EXTINF:-1,TRT Muzik Music
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+
+#EXTINF:-1,TRT Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+
+#EXTINF:-1,TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+
 #EXTINF:-1,TVA
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,TV Geral BA
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
 
 #EXTINF:-1,TV Limburg
 http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/index_1_av-p.m3u8?sd=10&rebase=on
@@ -146,6 +230,12 @@ http://83.140.64.214/edge/_93pr0kxj_/93pr0kxj/chunklist_w309347408.m3u8?id=&s_re
 
 #EXTINF:0,W24
 http://ms01.w24.at/hls-live/streams/livepkgr/events/_definst_/liveevent/livestream3Num1495.ts
+
+#EXTINF:0,W24
+http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
+
+#EXTINF:-1,W24
+http://ms01.w24.at:1935/livepkgr/livestream2/playlist.m3u8
 
 #EXTINF:0,WÈo
 http://str81.creacast.com:80/weo/high/playlist.m3u8
