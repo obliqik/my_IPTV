@@ -93,6 +93,36 @@ http://live.stream.vrt.be/vrt_mnm_live/_definst_/smil:vrt_mnm_live.smil/chunklis
 #EXTINF:0,NASA
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:0,NPO 1
+https://smoote1g.omroep.nl/urishieldv2/l2cm0ef682562d00592c3ef4000000.12251d383c0dc84b/live/npo/tvlive/npo1/npo1.isml/npo1-audio_nld=128000-video=1400000.m3u8
+
+#EXTINF:0,NPO 2
+https://smoote1d.omroep.nl/urishieldv2/l2cmab5459d6bd00592c3fba000000.c533976bf3563237/live/npo/tvlive/npo2/npo2.isml/npo2-audio_nld=128000-video=1400000.m3u8
+
+#EXTINF:0,NPO 3
+https://smoote1b.omroep.nl/urishieldv2/l2cmc8502b467800592c400a000000.5700c7917a59eb21/live/npo/tvlive/npo3/npo3.isml/npo3-audio_nld=128000-video=1400000.m3u8
+
+#EXTINF:0,NPO zapp
+https://smoote1d.omroep.nl/urishieldv2/l2cm232ec192e500592c42c3000000.61cca78acf3b8e8e/live/npo/tvlive/npo3/npo3.isml/npo3-audio_nld=128000-video=1400000.m3u8
+
+#EXTINF:0,NPO 101
+https://smoote2g.omroep.nl/urishieldv2/l2cmce7790f4e300592c4081000000.ebcac4e784e6f75a/live/npo/thematv/101tv/101tv.isml/101tv-audio_nld=128000-video=1400000.m3u8
+
+#EXTINF:0,NPO zappelin
+https://smoote2h.omroep.nl/urishieldv2/l2cm59a28028e500592c4287000000.b6da900d5a3bd5e1/live/npo/thematv/zappelin24/zappelin24.isml/zappelin24-audio_nld=128000-video=1400000.m3u8
+
+#EXTINF:0,NPO extra zapp
+https://smoote2c.omroep.nl/urishieldv2/l2cm753d14641200592c40be000000.28ea40c40418f309/live/npo/thematv/zappelin24/zappelin24.isml/zappelin24-audio_nld=128000-video=1400000.m3u8
+
+#EXTINF:0,NPO journaal
+https://smoote2a.omroep.nl/urishieldv2/l2cm73ddc560cd00592c41ae000000.c887a1ce91eb0a25/live/npo/thematv/journaal24/journaal24.isml/journaal24-audio_nld=128000-video=1400000.m3u8
+
+#EXTINF:0,NPO cultura
+https://smoote1a.omroep.nl/urishieldv2/l2cm8bd604609000592c41fe000000.caa862eaca4f19ae/live/npo/thematv/cultura24/cultura24.isml/cultura24-audio_nld=128000-video=1400000.m3u8
+
+#EXTINF:0,NPO politiek
+https://smoote1a.omroep.nl/urishieldv2/l2cma7b42fea4800592c424b000000.8b529c56fdc1d715/live/npo/thematv/politiek24/politiek24.isml/politiek24-audio_nld=128000-video=1400000.m3u8
+
 #EXTINF:0,Nuacht TG4
 http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4688357261001&pubId=1290862567001&videoId=4688195840001
 
