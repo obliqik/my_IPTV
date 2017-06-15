@@ -426,8 +426,8 @@ http://piktv.cdnvideo.ru/piktv_live//piktv3pik3tv/playlist.m3u8
 #EXTINF:0,Set 1
 http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/810262.mp4/playlist.m3u8
 
-#EXTINF:0,Set 2
-http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/810260.mp4/playlist.m3u8
+#EXTINF:0,DISCO DELUXE Set 2
+https://deluxetv-vimp.mivitec.net/getMedium/af09723df43edf0fa5f27f02b04c4f27.mp4
 
 #EXTINF:0,Set 3
 http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/810263.mp4/playlist.m3u8
@@ -495,8 +495,8 @@ http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811882.mp4/p
 #EXTINF:0,DISCO DELUXE Set 28
 https://deluxetv-vimp.mivitec.net/getMedium/b65b5f6aa67346ab0900b9e29bd9812c.mp4
 
-#EXTINF:0,Set 29
-http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811888.mp4/playlist.m3u8
+#EXTINF:0,DISCO DELUXE Set 29
+https://deluxetv-vimp.mivitec.net/getMedium/0470b8d846823f2e47b84c5b1b9b29b9.mp4
 
 #EXTINF:0,Set 30
 http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/811889.mp4/playlist.m3u8
@@ -678,8 +678,8 @@ https://deluxetv-vimp.mivitec.net/getMedium/2a375cbdc090c20c7f9267e80140a6a9.mp4
 #EXTINF:0,Set 90
 http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/812290.mp4/playlist.m3u8
 
-#EXTINF:0,Set 92
-http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/812444.mp4/playlist.m3u8
+#EXTINF:0,DISCO DELUXE Set 92
+https://deluxetv-vimp.mivitec.net/getMedium/6150df0184bf5f17ef7557cd9944bf29.mp4
 
 #EXTINF:0,Set 93
 http://flash4.ipercast.net/deluxemusic.tv/_definst_//mp4:production/812445.mp4/playlist.m3u8
@@ -744,8 +744,14 @@ https://deluxetv-vimp.mivitec.net/getMedium/84a5595ce7fc84160b65c7cfb430182b.mp4
 #EXTINF:0,DISCO DELUXE Set 126
 https://deluxetv-vimp.mivitec.net/getMedium/45e6d2de036457ca1afb88a9987d11c3.mp4
 
+#EXTINF:0,DISCO DELUXE Set 131
+https://deluxetv-vimp.mivitec.net/getMedium/391ee3e7530db2f8810a5bd69c436e65.mp4
+
 #EXTINF:0,DISCO DELUXE Set 132
 https://deluxetv-vimp.mivitec.net/getMedium/6775ad2c4646a3293bf9dd99325e0a87.mp4
+
+#EXTINF:0,DISCO DELUXE Set 135
+https://deluxetv-vimp.mivitec.net/getMedium/0dfe3083229f5b53153da12d392570e7.mp4
 
 #EXTINF:0,DISCO DELUXE Megamix Part 1 2015
 https://deluxetv-vimp.mivitec.net/getMedium/49abad9a92bee8631bc86587d0f0abc0.mp4
